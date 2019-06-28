@@ -1,0 +1,1419 @@
+<datafile>
+  <game name="10 - Arle no Bouken - Mahou no Jewel (J) [C][!]">
+    <description>Arle no Bouken - Mahou no Jewel (J) [C][!]</description>
+    <info>Tsk, tsk. These guys pulled the old &amp;#8220;Let&amp;#8217;s replace the publisher&amp;#8217;s name with out PH47 group name.&amp;#8221; </info>
+    <patch crc="A3800A20" name="Arle no Bouken - Mahou no Jewel (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/10/</url>
+      <patch_id>10</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/10titlescreen.png</image>
+    </patch>
+    <rom crc="8ee043ea" md5="9abaf0dfeb58b76d6b5cce4b42756c8e" name="Arle no Bouken - Mahou no Jewel (J) [C][!].gbc"/>
+  </game>
+  <game name="1005 - Pokemon - Silver Version (UE) [C][!]">
+    <description>Pokemon - Silver Version (UE) [C][!]</description>
+    <info>Everything is 100% translated. Linking hasn&amp;#8217;t been tested.</info>
+    <patch crc="2C94E714" name="Pokemon - Silver Version (UE) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1005/</url>
+      <patch_id>1005</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/912titlescreen.png</image>
+    </patch>
+    <rom crc="8ad48636" md5="2ac166169354e84d0e2d7cf4cb40b312" name="Pokemon - Silver Version (UE) [C][!].gbc"/>
+  </game>
+  <game name="1006 - Pokemon Pinball (U) [C][!]">
+    <description>Pokemon Pinball (U) [C][!]</description>
+    <info>Everything has been translated except for the type descriptions in the PokèDex.</info>
+    <patch crc="57DCA1D" name="Pokemon Pinball (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1006/</url>
+      <patch_id>1006</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1006titlescreen.gif</image>
+    </patch>
+    <rom crc="03ce8d9a" md5="fbe20570c2e52c937a9395024069ba3c" name="Pokemon Pinball (U) [C][!].gbc"/>
+  </game>
+  <game name="1007 - Rolan's Curse (USA)">
+    <description>Rolan's Curse (USA)</description>
+    <info>Everything is 100% translated in Swedish.</info>
+    <patch crc="55CD30F9" name="Rolan's Curse (USA).ips">
+      <url>https://www.romhacking.net/translations/1007/</url>
+      <patch_id>1007</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1007titlescreen.jpg</image>
+    </patch>
+    <rom crc="1A602590" md5="EBD1866DC6C13CA48F45538ED33EA46F" name="Rolan's Curse (USA).gb" sha1="D5EEB34B24691EB6895D3349A05E2A75D910CF16"/>
+  </game>
+  <game name="1008 - Rolan's Curse II (USA)">
+    <description>Rolan's Curse II (USA)</description>
+    <info>Everything is 100% translated in Swedish, but the translator did not play to get all the alternative endings so he&amp;#8217;s not sure that everything looks okay there.</info>
+    <patch crc="859699E4" name="Rolan's Curse II (USA).ips">
+      <url>https://www.romhacking.net/translations/1008/</url>
+      <patch_id>1008</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/915titlescreen.png</image>
+    </patch>
+    <rom crc="2754F360" md5="27F2C99B13CBDB5A5BE4AFCE87B9039B" name="Rolan's Curse II (USA).gb" sha1="7632E23853DD2579012489F75BD370473F0F2C46"/>
+  </game>
+  <game name="1014 - Mega Man IV (USA)">
+    <description>Mega Man IV (USA)</description>
+    <info>It&amp;#8217;s just Mega Man IV in French. According to the readme everything is translated.</info>
+    <patch crc="B86ABDE9" name="Mega Man IV (USA).ips">
+      <url>https://www.romhacking.net/translations/1014/</url>
+      <patch_id>1014</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1014titlescreen.jpg</image>
+    </patch>
+    <rom crc="ABCEA00D" md5="8A00F627B8902C92327435901C249E19" name="Mega Man IV (USA).gb" sha1="6F0901DB2B5DCAACE0215C0ABDC21A914FA21B65"/>
+  </game>
+  <game name="1015 - Mega Man - Dr. Wily's Revenge (USA)">
+    <description>Mega Man - Dr. Wily's Revenge (USA)</description>
+    <info>There might be a few strings untranslated, but that&amp;#8217;s it.</info>
+    <patch crc="61CE8EAD" name="Mega Man - Dr. Wily's Revenge (USA).ips">
+      <url>https://www.romhacking.net/translations/1015/</url>
+      <patch_id>1015</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1015titlescreen.jpg</image>
+    </patch>
+    <rom crc="47E70E08" md5="4BA4398181D98958FA7434BA7716F11A" name="Mega Man - Dr. Wily's Revenge (USA).gb" sha1="277EDB3C844E812BA4B3EB9A96C9C30414541858"/>
+  </game>
+  <game name="1016 - Mega Man II (USA)">
+    <description>Mega Man II (USA)</description>
+    <info>Mega Man is back and the game is 100% translated into French.</info>
+    <patch crc="4BCA3894" name="Mega Man II (USA).ips">
+      <url>https://www.romhacking.net/translations/1016/</url>
+      <patch_id>1016</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1016titlescreen.jpg</image>
+    </patch>
+    <rom crc="E496F686" md5="7FE07271D04ED9E0BC0663DDE55A2AE4" name="Mega Man II (USA).gb" sha1="334F1A93346D55E1BE2967F0AF952E37AA52FCA7"/>
+  </game>
+  <game name="1017 - Mega Man III (USA)">
+    <description>Mega Man III (USA)</description>
+    <info>If you&amp;#8217;re not tired of Mega Man, the third Game Boy game is now completely in French. :)</info>
+    <patch crc="11865452" name="Mega Man III (USA).ips">
+      <url>https://www.romhacking.net/translations/1017/</url>
+      <patch_id>1017</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1017titlescreen.jpg</image>
+    </patch>
+    <rom crc="5175D761" md5="4C614F884A07872F12056AD1A421E1F9" name="Mega Man III (USA).gb" sha1="57347305AB297DAA4332564623C4A098E6DBB1A3"/>
+  </game>
+  <game name="1020 - Mega Man V (USA) (SGB Enhanced)">
+    <description>Mega Man V (USA) (SGB Enhanced)</description>
+    <info>The last Mega Man game offers some new bosses and is compatible with the Super GameBoy. French translation 100% completed.</info>
+    <patch crc="90E6FEB4" name="Mega Man V (USA) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/1020/</url>
+      <patch_id>1020</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1020titlescreen.jpg</image>
+    </patch>
+    <rom crc="72E6D21D" md5="CEB17D831B410D91AA41BF2819CBED82" name="Mega Man V (USA) (SGB Enhanced).gb" sha1="9A7DA0E4D3F49E4A0B94E85CD64E28A687D81260"/>
+  </game>
+  <game name="1022 - Saint Paradise - Saikyou no Senshi-tachi (Japan)">
+    <description>Saint Paradise - Saikyou no Senshi-tachi (Japan)</description>
+    <info>IPS file to apply on the Game Boy game &amp;#8220;SD Saint Seiya Paradise (J)&amp;#8221;.</info>
+    <patch crc="2F991FE9" name="Saint Paradise - Saikyou no Senshi-tachi (Japan).ips">
+      <url>https://www.romhacking.net/translations/1022/</url>
+      <patch_id>1022</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1022titlescreen.png</image>
+    </patch>
+    <rom crc="D6FE3C56" md5="4D2EC4DA71D11F95367D9163C89B70F9" name="Saint Paradise - Saikyou no Senshi-tachi (Japan).gb" sha1="E7CF9EABEAD0E5C0D3228871BB8219643E5BD7E0"/>
+  </game>
+  <game name="1029 - Boxxle (USA, Europe) (Rev A)">
+    <description>Boxxle (USA, Europe) (Rev A)</description>
+    <info>I ended up shrinking all of the letters so that accented ones, which were two pixels shorter than the originals, wouldn&amp;#8217;t look so out-of-place.  Some of the translations aren&amp;#8217;t the most accurate due to space restrictions. I used the English version, called &amp;#8220;Boxxle (V1.1) (U) [!].gb&amp;#8221;.</info>
+    <patch crc="74F10326" name="Boxxle (USA, Europe) (Rev A).ips">
+      <url>https://www.romhacking.net/translations/1029/</url>
+      <patch_id>1029</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/937titlescreen.png</image>
+    </patch>
+    <rom crc="C09CEE99" md5="239FD20F424EE53D2F11018DBD942DF4" name="Boxxle (USA, Europe) (Rev A).gb" sha1="F9D5287BC9D6EDA9EC36E9B5A8DBC38CF2CFFECF"/>
+  </game>
+  <game name="1064 - Final Fantasy Legend II (USA)">
+    <description>Final Fantasy Legend II (USA)</description>
+    <info>This German translation is 100% complete. The font has been optimized and is now much easier to read.
+Some special characters and symbols have been included to make gameplay better.</info>
+    <patch crc="FD3BDF66" name="Final Fantasy Legend II (USA).ips">
+      <url>https://www.romhacking.net/translations/1064/</url>
+      <patch_id>1064</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1064titlescreen.jpg</image>
+    </patch>
+    <rom crc="58314182" md5="2BB0DF1B672253AAA5F9CAF9AAB78224" name="Final Fantasy Legend II (USA).gb" sha1="6AB6890E8F688BCD87E97886A1748A4D9D341909"/>
+  </game>
+  <game name="1065 - Final Fantasy Legend, The (USA)">
+    <description>Final Fantasy Legend, The (USA)</description>
+    <info>This German translation is 100% complete. The font has been optimized and is now much easier to read. Some special characters and symbols have been included to make gameplay better. Some bugs that Squaresoft produced, could not been fixed. (see &amp;#8220;liesmich.txt&amp;#8221; for details.)</info>
+    <patch crc="257829B2" name="Final Fantasy Legend, The (USA).ips">
+      <url>https://www.romhacking.net/translations/1065/</url>
+      <patch_id>1065</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1065titlescreen.jpg</image>
+    </patch>
+    <rom crc="8046148F" md5="D5C27FF8CB1B69CB56DF4FF170E2BAF0" name="Final Fantasy Legend, The (USA).gb" sha1="901DFC83C72E172D35A376835807FC788444A9BB"/>
+  </game>
+  <game name="1068 - Sylvanian Families - Otogi no Kuni no Pendant (J) [C][!]">
+    <description>Sylvanian Families - Otogi no Kuni no Pendant (J) [C][!]</description>
+    <info>What can really be said? It’s Sylvanian Families. It’s not everybody’s cup of tea, but Ryusui has put a year’s worth of tender love and care into the project, not to mention a lot of hard work!</info>
+    <patch crc="508DF04" name="Sylvanian Families - Otogi no Kuni no Pendant (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1068/</url>
+      <patch_id>1068</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1068titlescreen.PNG</image>
+    </patch>
+    <rom crc="c6fe4497" md5="5b250ab006a50301f29e74551531bd7f" name="Sylvanian Families - Otogi no Kuni no Pendant (J) [C][!].gbc"/>
+  </game>
+  <game name="1101 - Chalvo 55 - Super Puzzle Action (Japan)">
+    <description>Chalvo 55 - Super Puzzle Action (Japan)</description>
+    <info>This translation was discovered floating around the Internet as a hacked ROM. Unable to find any contacts for the original author, KingMike has taken liberty of converting it to a patch, as a service to the community. But he is not involved with the translation itself in any way.</info>
+    <patch crc="65D2829A" name="Chalvo 55 - Super Puzzle Action (Japan).ips">
+      <url>https://www.romhacking.net/translations/1101/</url>
+      <patch_id>1101</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1101titlescreen.jpg</image>
+    </patch>
+    <rom crc="74D50B47" md5="BA50565630891680C9CF8B1827FCA429" name="Chalvo 55 - Super Puzzle Action (Japan).gb" sha1="55AAD975351670C3F632E1EBCC939C48410D29B3"/>
+  </game>
+  <game name="1123 - Super Robot Taisen (Japan)">
+    <description>Super Robot Taisen (Japan)</description>
+    <info>This is the game that started it all. As such, well, it&amp;#8217;s not that great. But it´s a relatively easy hack, and it&amp;#8217;s interesting to see how far the series has since come. The plot is relatively lean in comparison - Girgilgun has attacked the Super Robot homeworld, and is using an electromagnetic ray to mind-control most of the Super Robots into doing his bidding! But a few have managed to shake the shackles of Girgilgun´s control, and are fighting back. That&amp;#8217;s it, really.</info>
+    <patch crc="C9F7C0A9" name="Super Robot Taisen (Japan).ips">
+      <url>https://www.romhacking.net/translations/1123/</url>
+      <patch_id>1123</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1123titlescreen.png</image>
+    </patch>
+    <rom crc="7DD9D7D6" md5="7BB8A5BC9E55A05EBA1A3FCBF460A9B5" name="Super Robot Taisen (Japan).gb" sha1="267D77866C798D33C973FFF25D246FFF584BF9A3"/>
+  </game>
+  <game name="1211 - Metroid II - Return of Samus (World)">
+    <description>Metroid II - Return of Samus (World)</description>
+    <info>This French translation used the Metroid Evolution hack in order to offer a colored game. You can now play this great game in French and with colors!</info>
+    <patch crc="6072D283" name="Metroid II - Return of Samus (World).ips">
+      <url>https://www.romhacking.net/translations/1211/</url>
+      <patch_id>1211</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1211titlescreen.jpg</image>
+    </patch>
+    <rom crc="DEE05370" md5="9639948AD274FA15281F549E5F9C4D87" name="Metroid II - Return of Samus (World).gb" sha1="74A2FAD86B9A4C013149B1E214BC4600EFB1066D"/>
+  </game>
+  <game name="1219 - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)">
+    <description>Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)</description>
+    <info>This is the Game Boy version of the NES game known as Technos Samurai.</info>
+    <patch crc="5FF1F03E" name="Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).ips">
+      <url>https://www.romhacking.net/translations/1219/</url>
+      <patch_id>1219</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1219titlescreen.png</image>
+    </patch>
+    <rom crc="229E9113" md5="4ED480F8974E938C01BE3B410EBEC3DF" name="Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).gb" sha1="97FF2392F126B195AC8A1700A9A91AA364549DFD"/>
+  </game>
+  <game name="1260 - Sylvanian Melody - Mori no Nakama to Odori Mashi! (J) [C][!]">
+    <description>Sylvanian Melody - Mori no Nakama to Odori Mashi! (J) [C][!]</description>
+    <info>Sylvanian Families meets Dance Dance Revolution. A match made in heaven? Probably not, but it&amp;#8217;s a cute game with some catchy music.</info>
+    <patch crc="9E33C900" name="Sylvanian Melody - Mori no Nakama to Odori Mashi! (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1260/</url>
+      <patch_id>1260</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1260titlescreen.PNG</image>
+    </patch>
+    <rom crc="6dd8ac91" md5="08130cb33fe270321d04d056b85d2037" name="Sylvanian Melody - Mori no Nakama to Odori Mashi! (J) [C][!].gbc"/>
+  </game>
+  <game name="1383 - Final Fantasy Legend III (USA)">
+    <description>Final Fantasy Legend III (USA)</description>
+    <info>This German translation is nearly complete. The font has been optimized and is now easier to read. Due lack of space, the skills and attacks of monsters are still untranslated. All necessary characters and symbols have been included to make gameplay better.</info>
+    <patch crc="DC0EE590" name="Final Fantasy Legend III (USA).ips">
+      <url>https://www.romhacking.net/translations/1383/</url>
+      <patch_id>1383</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1383titlescreen.jpg</image>
+    </patch>
+    <rom crc="3E454710" md5="DB156BC96B528996CE1BF771195171AF" name="Final Fantasy Legend III (USA).gb" sha1="3864AFA48A97DB826FFDA1D31A7FF9C6C315D5C9"/>
+  </game>
+  <game name="1438 - Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!]">
+    <description>Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!]</description>
+    <info>This is a 100% complete Dutch translation!</info>
+    <patch crc="F2817668" name="Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1438/</url>
+      <patch_id>1438</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1438titlescreen.png</image>
+    </patch>
+    <rom crc="06887a34" md5="7351daa3c0a91d8f6fe2fbcca6182478" name="Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!].gbc"/>
+  </game>
+  <game name="1513 - Gameboy Wars 3 (J) [C][!]">
+    <description>Gameboy Wars 3 (J) [C][!]</description>
+    <info>Game Boy Wars 3 is from the same series of games as Advance Wars. It has its definite share of complexities compared to Advance Wars, but it&amp;#8217;s nothing Nectaris junkies shouldn&amp;#8217;t be able to adjust to since some of the stuff comes from Nectaris.</info>
+    <patch crc="CDEB5A8B" name="Gameboy Wars 3 (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1513/</url>
+      <patch_id>1513</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/860titlescreen.PNG</image>
+    </patch>
+    <rom crc="30c26262" md5="748fa9419b35c0e8e43509457aaa1efa" name="Gameboy Wars 3 (J) [C][!].gbc"/>
+  </game>
+  <game name="1570 - Nushi Tsuri Adventure - Kite no Bouken (J) [C][!]">
+    <description>Nushi Tsuri Adventure - Kite no Bouken (J) [C][!]</description>
+    <info>All game dialogue is translated, and all the menu/system text that the author, JaytheHam, could find (presumably all of it). The author did two quick playthroughs of the translated game, so neither the author nor Robert (the translator) have seen every line of the English text in-game, there may be translations that aren&amp;#8217;t perfect or formatting errors, email JaytheHam if you find anything.</info>
+    <patch crc="1153AC8C" name="Nushi Tsuri Adventure - Kite no Bouken (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1570/</url>
+      <patch_id>1570</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1570titlescreen.png</image>
+    </patch>
+    <rom crc="ac52f6ef" md5="5b40590960c204efd6303b2e89a0cc10" name="Nushi Tsuri Adventure - Kite no Bouken (J) [C][!].gbc"/>
+  </game>
+  <game name="1599 - Harry Potter 3 (Unl) [C]">
+    <description>Harry Potter 3 (Unl) [C]</description>
+    <info>This patch translates all the Chinese text in the game into English; namely the intro, ending and cut-scenes that appear after every second level.</info>
+    <patch crc="3B23316B" name="Harry Potter 3 (Unl) [C].ips">
+      <url>https://www.romhacking.net/translations/1599/</url>
+      <patch_id>1599</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1599titlescreen.png</image>
+    </patch>
+    <rom crc="4ea2c869" md5="439acae020bd073ecf7f41a881ccabda" name="Harry Potter 3 (Unl) [C].gbc"/>
+  </game>
+  <game name="16 - Kettou Beast Wars - Beast Senshi Saikyou Ketteisen (J) [C][!]">
+    <description>Kettou Beast Wars - Beast Senshi Saikyou Ketteisen (J) [C][!]</description>
+    <info>Well, let&amp;#8217;s see, this patch hasn&amp;#8217;t been updated in almost two and half years, and it&amp;#8217;s been a year and a half since Six Feet Under updated his site. That, and I haven&amp;#8217;t seen him around in at least a few months. It&amp;#8217;s probably safe to deem this flatlined.</info>
+    <patch crc="FE67C34F" name="Kettou Beast Wars - Beast Senshi Saikyou Ketteisen (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/16/</url>
+      <patch_id>16</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/12titlescreen.png</image>
+    </patch>
+    <rom crc="72895639" md5="adfb8d9dc0d5633b1c385be79f3b425f" name="Kettou Beast Wars - Beast Senshi Saikyou Ketteisen (J) [C][!].gbc"/>
+  </game>
+  <game name="1613 - Ikari no Yousai 2 (Japan)">
+    <description>Ikari no Yousai 2 (Japan)</description>
+    <info>This is a complete translation patch for Ikari no Yousai 2 for the Gameboy.</info>
+    <patch crc="E5026E5" name="Ikari no Yousai 2 (Japan).ips">
+      <url>https://www.romhacking.net/translations/1613/</url>
+      <patch_id>1613</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1613titlescreen.png</image>
+    </patch>
+    <rom crc="6D4FD9AA" md5="1EFEA4210026A8D733A5B2ADE2B005F1" name="Ikari no Yousai 2 (Japan).gb" sha1="AE437D4FB39D7438FC9EB98C91820AA2B5161B4F"/>
+  </game>
+  <game name="1623 - Kaeru no Tame ni Kane wa Naru (Japan)">
+    <description>Kaeru no Tame ni Kane wa Naru (Japan)</description>
+    <info>This is an unofficial English translation in the .ips format.</info>
+    <patch crc="28BC385E" name="Kaeru no Tame ni Kane wa Naru (Japan).ips">
+      <url>https://www.romhacking.net/translations/1623/</url>
+      <patch_id>1623</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1623titlescreen.png</image>
+    </patch>
+    <rom crc="C18CD57A" md5="4EBE14C4C51555908C0E4CABB66DC813" name="Kaeru no Tame ni Kane wa Naru (Japan).gb" sha1="CE1E4A788327F3099877C88CC848E48C1FD055AB"/>
+  </game>
+  <game name="1649 - Grandia - Parallel Trippers (J) [C][!]">
+    <description>Grandia - Parallel Trippers (J) [C][!]</description>
+    <info>100% complete English translation. </info>
+    <patch crc="74A46ABB" name="Grandia - Parallel Trippers (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1649/</url>
+      <patch_id>1649</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1649titlescreen.png</image>
+    </patch>
+    <rom crc="23223670" md5="5679de3c41c63c6b9dc9432c7ed1105a" name="Grandia - Parallel Trippers (J) [C][!].gbc"/>
+  </game>
+  <game name="1683 - Heracles no Eikou - Ugokidashita Kamigami (Japan)">
+    <description>Heracles no Eikou - Ugokidashita Kamigami (Japan)</description>
+    <info>It&amp;#8217;s the Glory of Heracles you all know and love, shrunk down to Gameboy size!  This patch renders the game completely playable and completely in English.  I hope you all have as much fun playing this game as I did working on its translation.</info>
+    <patch crc="8E52D976" name="Heracles no Eikou - Ugokidashita Kamigami (Japan).ips">
+      <url>https://www.romhacking.net/translations/1683/</url>
+      <patch_id>1683</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1683titlescreen.png</image>
+    </patch>
+    <rom crc="4F8A61BF" md5="CCBD8D97A61883E05EAB21A5546188B2" name="Heracles no Eikou - Ugokidashita Kamigami (Japan).gb" sha1="C12C60B0C0A2EE1AADED61020FA72B5B467459E1"/>
+  </game>
+  <game name="1699 - Booby Boys (Japan)">
+    <description>Booby Boys (Japan)</description>
+    <info>A complete patch for Booby Boys, a Gameboy action game.  The stage select screen, along with the dialogue from the bosses and damsels in distress have been translated, as have the credits and a few other miscellaneous things.</info>
+    <patch crc="35079A37" name="Booby Boys (Japan).ips">
+      <url>https://www.romhacking.net/translations/1699/</url>
+      <patch_id>1699</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/1675titlescreen.png</image>
+    </patch>
+    <rom crc="EC83C0B6" md5="D17AA3DD0A52BC3DC03BFE20F27C8B07" name="Booby Boys (Japan).gb" sha1="61FE27A4CE83BC6D9DBA5D4D0652E83DBEC45E6E"/>
+  </game>
+  <game name="17 - Bomber Man GB 3 (Japan) (SGB Enhanced)">
+    <description>Bomber Man GB 3 (Japan) (SGB Enhanced)</description>
+    <info>This was a project that David Mullen helped Duke Serkol out with in order to get his feet wet with the whole romhacking thing. It translates probably all the text in the game, except a few graphical things which were beyond the abilities of both romhackers. So close to completion, and yet so far.</info>
+    <patch crc="67C07F00" name="Bomber Man GB 3 (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/17/</url>
+      <patch_id>17</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/17titlescreen.png</image>
+    </patch>
+    <rom crc="F658B7A7" md5="3ADDAB2611566AB072FC996F8A81B224" name="Bomber Man GB 3 (Japan) (SGB Enhanced).gb" sha1="98A6327639833E1A6696E4ACC5CA162388D5F6E1"/>
+  </game>
+  <game name="1707 - Cave Noire (Japan)">
+    <description>Cave Noire (Japan)</description>
+    <info>Cave Noire is a bit difficult to pidgeonhole into any particular genre classification. It&amp;#8217;s most similar to roguelikes; dungeons are somewhat randomized, there&amp;#8217;s a heavy emphasis on player improvement and strategy instead of just grinding experience, and it&amp;#8217;s very easy to die. It&amp;#8217;s also sort of a puzzle game, as you don&amp;#8217;t gain levels in the traditional sense at all and it&amp;#8217;s to your great advantage most times to learn how to avoid enemies instead of trying to plow your way through them. There&amp;#8217;s also no guessing game to play with items; everything you pick up is immediately &amp;#8220;identified&amp;#8221; and comes from a very small list of tools.</info>
+    <patch crc="DBADD37A" name="Cave Noire (Japan).ips">
+      <url>https://www.romhacking.net/translations/1707/</url>
+      <patch_id>1707</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/1682titlescreen.jpg</image>
+    </patch>
+    <rom crc="44256A2F" md5="10D92861E262069CE31559E12B927AA0" name="Cave Noire (Japan).gb" sha1="6ACDF05AAC8E3792A98A199CB6E90180E95230CD"/>
+  </game>
+  <game name="1736 - Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!]">
+    <description>Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!]</description>
+    <info>This game is the sequel to Pokémon TCG on GBC that, for reasons unknown, never made it overseas. A few attempts have been made to translate it in the past, but all died out after a while. Now, however, you can play the game fully translated into English!</info>
+    <patch crc="4B9CE578" name="Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1736/</url>
+      <patch_id>1736</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1736titlescreen.png</image>
+    </patch>
+    <rom crc="6c933a14" md5="1134862e84110443190df460351d4575" name="Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!].gbc"/>
+  </game>
+  <game name="1740 - Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)">
+    <description>Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)</description>
+    <info>I checked the ROMs with a hex editor, and these three screenshots show actually, literally, &lt;span class="italic"&gt;all&lt;/span&gt; that was changed for this translation. You&amp;#8217;d think that after finding out that the graphics were compressed, Spun Web wouldn&amp;#8217;t even bother with a translation at all, so the fact that a patch was nonetheless released is&amp;#8230; commendable? I guess?</info>
+    <patch crc="FB8A072A" name="Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/1740/</url>
+      <patch_id>1740</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/1726titlescreen.png</image>
+    </patch>
+    <rom crc="FF3C027D" md5="F29D7DC8D22C317BB7C17A7BBDC24EC6" name="Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced).gb" sha1="1F7A08D2E51E90D770D9DBF4092166B2BFA5697E"/>
+  </game>
+  <game name="1757 - Donkey Kong GB - Dinky Kong &amp; Dixie Kong (J) [C][!]">
+    <description>Donkey Kong GB - Dinky Kong &amp; Dixie Kong (J) [C][!]</description>
+    <info>This is an English translation of the Game Boy Color version of Donkey Kong Land III (while the game got an English release, it was for the Game Boy, not Game Boy Color). The dialogue in this translation is largely based on the English text in the original Game Boy version of the game. Only a few changes were made to the text, such as spelling corrections.</info>
+    <patch crc="DDBF0D54" name="Donkey Kong GB - Dinky Kong &amp; Dixie Kong (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1757/</url>
+      <patch_id>1757</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1757titlescreen.png</image>
+    </patch>
+    <rom crc="28d7e8d3" md5="22afe691095c65f34aeaba3c283b2a9c" name="Donkey Kong GB - Dinky Kong &amp; Dixie Kong (J) [C][!].gbc"/>
+  </game>
+  <game name="1776 - Donkey Kong GB - Dinky Kong &amp; Dixie Kong (J) [C][!]">
+    <description>Donkey Kong GB - Dinky Kong &amp; Dixie Kong (J) [C][!]</description>
+    <info>This is a Spanish translation of the Game Boy Color version of Donkey Kong Land III. Neither the GB version nor the GBC version received an official Spanish release, so the Spanish translation is all new! </info>
+    <patch crc="3B30B1CC" name="Donkey Kong GB - Dinky Kong &amp; Dixie Kong (J) [C][!].bps">
+      <url>https://www.romhacking.net/translations/1776/</url>
+      <patch_id>1776</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1776titlescreen.png</image>
+    </patch>
+    <rom crc="28d7e8d3" md5="22afe691095c65f34aeaba3c283b2a9c" name="Donkey Kong GB - Dinky Kong &amp; Dixie Kong (J) [C][!].gbc"/>
+  </game>
+  <game name="1794 - Makaimura Gaiden - The Demon Darkness (Japan)">
+    <description>Makaimura Gaiden - The Demon Darkness (Japan)</description>
+    <info>Makaimura Gaiden: The Demon Darkness (aka Gargoyle&amp;#8217;s Quest II) was originally released for the NES. It was later ported to the GB classic (with two additional levels) but never released outside of Japan.</info>
+    <patch crc="2144DF1C" name="Makaimura Gaiden - The Demon Darkness (Japan).bps">
+      <url>https://www.romhacking.net/translations/1794/</url>
+      <patch_id>1794</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1794titlescreen.png</image>
+    </patch>
+    <rom crc="CFA358DE" md5="DE731A5F2F4E7D16BCDC4B5953DDCC12" name="Makaimura Gaiden - The Demon Darkness (Japan).gb" sha1="961D05E91288D7AD1F2E6A1C996059D7AB96FE98"/>
+  </game>
+  <game name="18 - Daisenryaku (Japan)">
+    <description>Daisenryaku (Japan)</description>
+    <info>I can&amp;#8217;t believe I was just playing this for an hour! And I still have laundry to do. Bah! I always was a big fan of wargames though.. And by wargames, I mean Panzer General and Steel Panthers, and that&amp;#8217;s about it. :) Well this here game doesn&amp;#8217;t try to look pretty or anything, but it does the job. It&amp;#8217;s pretty simple: issue your commands in the Map mode (hit Select), and then get out of Map mode and the game plays itself out. Your units do what they&amp;#8217;re told every turn until the order&amp;#8217;s carried out, and then they sit there. Get as many cities as you can, because then you get more money. Infantry kills heavy infantry, heavy infantry kills tanks, and tanks kill infantry. More or less, anyway. Dave&amp;#8217;s done a pretty good job with the translation; quite a professional look to it. Or maybe it&amp;#8217;s just me. Ah well, it&amp;#8217;s fun. Oh, and if you get confused, Dave&amp;#8217;s included a manual in the zip to help you out. YOU HAVE NO EXCUSE. Well, except for finding the rom and stuff.</info>
+    <patch crc="BE8D1388" name="Daisenryaku (Japan).ips">
+      <url>https://www.romhacking.net/translations/18/</url>
+      <patch_id>18</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/18titlescreen.gif</image>
+    </patch>
+    <rom crc="C8F80D90" md5="8F4262923E4A4A9C4F5074841BDCE103" name="Daisenryaku (Japan).gb" sha1="79E724619D21EBB3CD5DE5438535A7EE25009DE0"/>
+  </game>
+  <game name="1854 - Asterix (Europe) (En,Fr,De,Es,It)">
+    <description>Asterix (Europe) (En,Fr,De,Es,It)</description>
+    <info>Here is a 100% Portuguese Translation of Asterix in IPS format.</info>
+    <patch crc="A9FBFCD9" name="Asterix (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/translations/1854/</url>
+      <patch_id>1854</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1854titlescreen.png</image>
+    </patch>
+    <rom crc="097FFE2C" md5="812DB832566202610BB1E42E643E2B93" name="Asterix (Europe) (En,Fr,De,Es,It).gb" sha1="7D4CA6925826C0FFCA3E3004479B5E9A5B6B311B"/>
+  </game>
+  <game name="1858 - Chessmaster, The (DMG-N5) (USA) (Rev A)">
+    <description>Chessmaster, The (DMG-N5) (USA) (Rev A)</description>
+    <info>Here is a 100% Portuguese translation of The Chessmaster in IPS format.</info>
+    <patch crc="72DB5200" name="Chessmaster, The (DMG-N5) (USA) (Rev A).ips">
+      <url>https://www.romhacking.net/translations/1858/</url>
+      <patch_id>1858</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1858titlescreen.png</image>
+    </patch>
+    <rom crc="59ED370C" md5="6B6D4A25D3C1E2890B22271C44E62DBF" name="Chessmaster, The (DMG-N5) (USA) (Rev A).gb" sha1="F0351FAAB8B912967552684D4160F5CF94540D41"/>
+  </game>
+  <game name="1859 - Tennis (World)">
+    <description>Tennis (World)</description>
+    <info>Here is a 100% translation of Tennis in IPS format.</info>
+    <patch crc="B2ACED44" name="Tennis (World).ips">
+      <url>https://www.romhacking.net/translations/1859/</url>
+      <patch_id>1859</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1859titlescreen.png</image>
+    </patch>
+    <rom crc="5009215F" md5="7D621DCBBCE12B73574C42F40DEEC275" name="Tennis (World).gb" sha1="EC45A932FB3FC21394FEF5E27E7FE9ECCD0C7F70"/>
+  </game>
+  <game name="1861 - Metroid II - Return of Samus (World)">
+    <description>Metroid II - Return of Samus (World)</description>
+    <info>Here is a 100% translation of Metroid II - Return Of Samus in IPS format.</info>
+    <patch crc="A4C51587" name="Metroid II - Return of Samus (World).ips">
+      <url>https://www.romhacking.net/translations/1861/</url>
+      <patch_id>1861</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1861titlescreen.gif</image>
+    </patch>
+    <rom crc="DEE05370" md5="9639948AD274FA15281F549E5F9C4D87" name="Metroid II - Return of Samus (World).gb" sha1="74A2FAD86B9A4C013149B1E214BC4600EFB1066D"/>
+  </game>
+  <game name="1863 - Super Mario Land (World) (Rev A)">
+    <description>Super Mario Land (World) (Rev A)</description>
+    <info>Here is a 100% Portuguese translation of Super Mario Land.</info>
+    <patch crc="22202928" name="Super Mario Land (World) (Rev A).ips">
+      <url>https://www.romhacking.net/translations/1863/</url>
+      <patch_id>1863</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/829titlescreen.png</image>
+    </patch>
+    <rom crc="2C27EC70" md5="B259FEB41811C7E4E1DC200167985C84" name="Super Mario Land (World) (Rev A).gb" sha1="418203621B887CAA090215D97E3F509B79AFFD3E"/>
+  </game>
+  <game name="1864 - Sensible Soccer (U) [b1]">
+    <description>Sensible Soccer (U) [b1]</description>
+    <info>Here is a 100% translation of Sensible Soccer in Portuguese.</info>
+    <patch crc="57A26E83" name="Sensible Soccer (U) [b1].ips">
+      <url>https://www.romhacking.net/translations/1864/</url>
+      <patch_id>1864</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1864titlescreen.png</image>
+    </patch>
+    <rom crc="8ff389b5" md5="bfc0e37fa278cda25593f277ac5c7d92" name="Sensible Soccer (U) [b1].gb"/>
+  </game>
+  <game name="1865 - Saint Paradise - Saikyou no Senshi-tachi (Japan)">
+    <description>Saint Paradise - Saikyou no Senshi-tachi (Japan)</description>
+    <info>Here is a 100% translation of &lt;span class="italic"&gt;SD Saint Seiya Paradise&lt;/span&gt; in Portuguese.</info>
+    <patch crc="2DA6DCF1" name="Saint Paradise - Saikyou no Senshi-tachi (Japan).ips">
+      <url>https://www.romhacking.net/translations/1865/</url>
+      <patch_id>1865</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1865titlescreen.png</image>
+    </patch>
+    <rom crc="D6FE3C56" md5="4D2EC4DA71D11F95367D9163C89B70F9" name="Saint Paradise - Saikyou no Senshi-tachi (Japan).gb" sha1="E7CF9EABEAD0E5C0D3228871BB8219643E5BD7E0"/>
+  </game>
+  <game name="1866 - Nettou Real Bout Garou Densetsu Special (Japan) (SGB Enhanced)">
+    <description>Nettou Real Bout Garou Densetsu Special (Japan) (SGB Enhanced)</description>
+    <info>Here is a 100% translation of Real Bout Special in Portuguese.</info>
+    <patch crc="4FFF412F" name="Nettou Real Bout Garou Densetsu Special (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/1866/</url>
+      <patch_id>1866</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1866titlescreen.png</image>
+    </patch>
+    <rom crc="F4031D4C" md5="4C24F644E70F0786D20D8CA9FFCEA51C" name="Nettou Real Bout Garou Densetsu Special (Japan) (SGB Enhanced).gb" sha1="D67A26AF79BECDF957CCA82BC472B188F5754CD2"/>
+  </game>
+  <game name="1867 - Pokemon - Red Version (USA, Europe) (SGB Enhanced)">
+    <description>Pokemon - Red Version (USA, Europe) (SGB Enhanced)</description>
+    <info>Here is a 100% translation of Pokemon: Red Version in Portuguese.</info>
+    <patch crc="D945075A" name="Pokemon - Red Version (USA, Europe) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/1867/</url>
+      <patch_id>1867</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/876titlescreen.png</image>
+    </patch>
+    <rom crc="9F7FDD53" md5="3D45C1EE9ABD5738DF46D2BDDA8B57DC" name="Pokemon - Red Version (USA, Europe) (SGB Enhanced).gb" sha1="EA9BCAE617FDF159B045185467AE58B2E4A48B9A"/>
+  </game>
+  <game name="1868 - Ninja Gaiden Shadow (USA)">
+    <description>Ninja Gaiden Shadow (USA)</description>
+    <info>Here is a 100% translation of Ninja Gaiden Shadow in Portuguese.</info>
+    <patch crc="C01E093E" name="Ninja Gaiden Shadow (USA).ips">
+      <url>https://www.romhacking.net/translations/1868/</url>
+      <patch_id>1868</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1868titlescreen.png</image>
+    </patch>
+    <rom crc="D3741A3A" md5="E12C5C2897ED095F8D26C7578AFDDFDA" name="Ninja Gaiden Shadow (USA).gb" sha1="8AADD7DFB4ADD75D5AC5351658762E5F56E78C66"/>
+  </game>
+  <game name="1869 - Pokemon - Blue Version (USA, Europe) (SGB Enhanced)">
+    <description>Pokemon - Blue Version (USA, Europe) (SGB Enhanced)</description>
+    <info>Here is a 100% translation of Pokemon Blue version in Portuguese.</info>
+    <patch crc="911B1824" name="Pokemon - Blue Version (USA, Europe) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/1869/</url>
+      <patch_id>1869</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/1338titlescreen.png</image>
+    </patch>
+    <rom crc="D6DA8A1A" md5="50927E843568814F7ED45EC4F944BD8B" name="Pokemon - Blue Version (USA, Europe) (SGB Enhanced).gb" sha1="D7037C83E1AE5B39BDE3C30787637BA1D4C48CE2"/>
+  </game>
+  <game name="1870 - Mega Man - Dr. Wily's Revenge (USA)">
+    <description>Mega Man - Dr. Wily's Revenge (USA)</description>
+    <info>Here is a 100% translation of Mega Man - Dr. Wily&amp;#8217;s Revenge in Portuguese.</info>
+    <patch crc="8407A455" name="Mega Man - Dr. Wily's Revenge (USA).ips">
+      <url>https://www.romhacking.net/translations/1870/</url>
+      <patch_id>1870</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1870titlescreen.png</image>
+    </patch>
+    <rom crc="47E70E08" md5="4BA4398181D98958FA7434BA7716F11A" name="Mega Man - Dr. Wily's Revenge (USA).gb" sha1="277EDB3C844E812BA4B3EB9A96C9C30414541858"/>
+  </game>
+  <game name="1871 - Garfield Labyrinth (U)">
+    <description>Garfield Labyrinth (U)</description>
+    <info>Here is a 100% translation of Garfield Labyrinth in Portuguese.</info>
+    <patch crc="9DFF8A13" name="Garfield Labyrinth (U).ips">
+      <url>https://www.romhacking.net/translations/1871/</url>
+      <patch_id>1871</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1871titlescreen.png</image>
+    </patch>
+    <rom crc="6a043abd" md5="5e441af514d1bcdaec08c133ceea4e5e" name="Garfield Labyrinth (U).gb"/>
+  </game>
+  <game name="1872 - Final Fantasy Legend II (USA)">
+    <description>Final Fantasy Legend II (USA)</description>
+    <info>Here is a 100% translation of Final Fantasy Legend II in Portuguese.</info>
+    <patch crc="8CA1ED28" name="Final Fantasy Legend II (USA).ips">
+      <url>https://www.romhacking.net/translations/1872/</url>
+      <patch_id>1872</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1872titlescreen.png</image>
+    </patch>
+    <rom crc="58314182" md5="2BB0DF1B672253AAA5F9CAF9AAB78224" name="Final Fantasy Legend II (USA).gb" sha1="6AB6890E8F688BCD87E97886A1748A4D9D341909"/>
+  </game>
+  <game name="1873 - Bomb Jack (Europe)">
+    <description>Bomb Jack (Europe)</description>
+    <info>Here is a 100% translation of Bomb Jack in Portuguese in IPS format.</info>
+    <patch crc="291AF219" name="Bomb Jack (Europe).ips">
+      <url>https://www.romhacking.net/translations/1873/</url>
+      <patch_id>1873</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1873titlescreen.png</image>
+    </patch>
+    <rom crc="9BD8815E" md5="7615154DC9AFB1A7D7D2FE63B76C68E4" name="Bomb Jack (Europe).gb" sha1="A2B2799E867777A5A19155ED1F2245630FC03560"/>
+  </game>
+  <game name="1874 - Battle Pingpong (Japan)">
+    <description>Battle Pingpong (Japan)</description>
+    <info>Here is a 90% translation of Battle Pingpong in Portuguese in IPS format.</info>
+    <patch crc="3AC32847" name="Battle Pingpong (Japan).ips">
+      <url>https://www.romhacking.net/translations/1874/</url>
+      <patch_id>1874</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1874titlescreen.png</image>
+    </patch>
+    <rom crc="7C787BC4" md5="F24CCB89C3FF60F54600D7B063D5A6C2" name="Battle Pingpong (Japan).gb" sha1="5008699F7A31A1A0722114F83E94591E99B22CC0"/>
+  </game>
+  <game name="1897 - Bugs Bunny Crazy Castle, The (USA, Europe)">
+    <description>Bugs Bunny Crazy Castle, The (USA, Europe)</description>
+    <info>Here is a 100% translation of Bugs Bunny in Portuguese in IPS format.</info>
+    <patch crc="ACD6C836" name="Bugs Bunny Crazy Castle, The (USA, Europe).ips">
+      <url>https://www.romhacking.net/translations/1897/</url>
+      <patch_id>1897</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1897titlescreen.png</image>
+    </patch>
+    <rom crc="403E1B7E" md5="43189B859C0036119F233D46B1F2E9FD" name="Bugs Bunny Crazy Castle, The (USA, Europe).gb" sha1="2A3E982E542A849F95B4497025CA5B04DB2ABE8C"/>
+  </game>
+  <game name="1898 - Double Dragon II (USA, Europe)">
+    <description>Double Dragon II (USA, Europe)</description>
+    <info>Here is a 100% translation of &lt;span class="italic"&gt;Double Dragon 2&lt;/span&gt; in Portuguese.</info>
+    <patch crc="1EB060DE" name="Double Dragon II (USA, Europe).ips">
+      <url>https://www.romhacking.net/translations/1898/</url>
+      <patch_id>1898</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1898titlescreen.png</image>
+    </patch>
+    <rom crc="5B96E474" md5="4F3B84EB325F9162086FAC77AC577E7C" name="Double Dragon II (USA, Europe).gb" sha1="3532462BE3AB1A569890261D20A1A37BFE79E1EA"/>
+  </game>
+  <game name="1916 - Alien vs Predator - The Last of His Clan (USA)">
+    <description>Alien vs Predator - The Last of His Clan (USA)</description>
+    <info>Here is a 100% Complete German translation of Aliens Vs. Predator in IPS format.</info>
+    <patch crc="7D7B6B7E" name="Alien vs Predator - The Last of His Clan (USA).ips">
+      <url>https://www.romhacking.net/translations/1916/</url>
+      <patch_id>1916</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1916titlescreen.png</image>
+    </patch>
+    <rom crc="4BBCF652" md5="50A208BD0A223C037E01FFE07B04FA5B" name="Alien vs Predator - The Last of His Clan (USA).gb" sha1="C0D39EE87B908CDBD68C59F73E5DC2A7A6CCBEDC"/>
+  </game>
+  <game name="1917 - Castlevania - The Adventure (USA)">
+    <description>Castlevania - The Adventure (USA)</description>
+    <info>Here is a full 100% German translation of Castlevania Adventure in IPS format.</info>
+    <patch crc="D0851538" name="Castlevania - The Adventure (USA).ips">
+      <url>https://www.romhacking.net/translations/1917/</url>
+      <patch_id>1917</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1917titlescreen.png</image>
+    </patch>
+    <rom crc="216E6AA1" md5="0B4410C6B94D6359DBA5609AE9A32909" name="Castlevania - The Adventure (USA).gb" sha1="FD9116EFCD8EB9698F483CC5745F83B3674D7D13"/>
+  </game>
+  <game name="1918 - Castlevania II - Belmont's Revenge (USA, Europe)">
+    <description>Castlevania II - Belmont's Revenge (USA, Europe)</description>
+    <info>Here is a 100% German translation of Castlevania II - Belmont&amp;#8217;s Revenge in IPS format.</info>
+    <patch crc="B7ADCC6F" name="Castlevania II - Belmont's Revenge (USA, Europe).ips">
+      <url>https://www.romhacking.net/translations/1918/</url>
+      <patch_id>1918</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1918titlescreen.png</image>
+    </patch>
+    <rom crc="8875C8FE" md5="7C65E9DA405D2225D079F75E56276822" name="Castlevania II - Belmont's Revenge (USA, Europe).gb" sha1="696B9AD1E9CFB7112977C9A7C05CF64FE8423D8A"/>
+  </game>
+  <game name="1919 - Elevator Action (USA, Europe)">
+    <description>Elevator Action (USA, Europe)</description>
+    <info>Here is a 100% translation of Elevator Action in IPS format.</info>
+    <patch crc="8C6E3023" name="Elevator Action (USA, Europe).ips">
+      <url>https://www.romhacking.net/translations/1919/</url>
+      <patch_id>1919</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1919titlescreen.png</image>
+    </patch>
+    <rom crc="B749A927" md5="7876945A990EA94AC6B1FE5CF01BC00F" name="Elevator Action (USA, Europe).gb" sha1="C0C9DE672A31F314E98392160FC343CF46EE98B9"/>
+  </game>
+  <game name="1922 - Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (GBC,SGB Enhanced)">
+    <description>Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (GBC,SGB Enhanced)</description>
+    <info>Here is a 100% Greek translation of Pokemon Yellow in IPS format.</info>
+    <patch crc="23DC13A8" name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (GBC,SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/1922/</url>
+      <patch_id>1922</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1922titlescreen.png</image>
+    </patch>
+    <rom crc="7D527D62" md5="D9290DB87B1F0A23B89F99EE4469E34B" name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (GBC,SGB Enhanced).gb" sha1="CC7D03262EBFAF2F06772C1A480C7D9D5F4A38E1"/>
+  </game>
+  <game name="1924 - Dr. Mario (World)">
+    <description>Dr. Mario (World)</description>
+    <info>Here is a 100% Italian translation of Dr.Mario in IPS format.</info>
+    <patch crc="669EFD26" name="Dr. Mario (World).ips">
+      <url>https://www.romhacking.net/translations/1924/</url>
+      <patch_id>1924</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1924titlescreen.png</image>
+    </patch>
+    <rom crc="10C98DD1" md5="0281FD8061D82472E242954513805196" name="Dr. Mario (World).gb" sha1="F1006D6CF77469092F3B9F266D0A65DA9C91AC42"/>
+  </game>
+  <game name="1926 - Super Mario Land (World) (Rev A)">
+    <description>Super Mario Land (World) (Rev A)</description>
+    <info>Here is a 100% Italian translation of Super Mario Land in IPS format.</info>
+    <patch crc="B1C857DE" name="Super Mario Land (World) (Rev A).ips">
+      <url>https://www.romhacking.net/translations/1926/</url>
+      <patch_id>1926</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/829titlescreen.png</image>
+    </patch>
+    <rom crc="2C27EC70" md5="B259FEB41811C7E4E1DC200167985C84" name="Super Mario Land (World) (Rev A).gb" sha1="418203621B887CAA090215D97E3F509B79AFFD3E"/>
+  </game>
+  <game name="1927 - Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!]">
+    <description>Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!]</description>
+    <info>Here it s 100% Italian translation of The Legend of Zelda - Link&amp;#8217;s Awakening DX.</info>
+    <patch crc="E32239A1" name="Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1927/</url>
+      <patch_id>1927</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1927titlescreen.png</image>
+    </patch>
+    <rom crc="06887a34" md5="7351daa3c0a91d8f6fe2fbcca6182478" name="Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!].gbc"/>
+  </game>
+  <game name="1928 - Revelations - The Demon Slayer (U) [C][!]">
+    <description>Revelations - The Demon Slayer (U) [C][!]</description>
+    <info>Here is a 100% Polish translation of Revelations - The Demon Slayer.</info>
+    <patch crc="F6BA13CB" name="Revelations - The Demon Slayer (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1928/</url>
+      <patch_id>1928</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1928titlescreen.png</image>
+    </patch>
+    <rom crc="d1a65d74" md5="86ed74283fe0071f8d3f05923051efab" name="Revelations - The Demon Slayer (U) [C][!].gbc"/>
+  </game>
+  <game name="1929 - Worms Armageddon (E) (M6) [C][!]">
+    <description>Worms Armageddon (E) (M6) [C][!]</description>
+    <info>Here is a 100% Polish translation of Worms Armageddon.</info>
+    <patch crc="DEDED899" name="Worms Armageddon (E) (M6) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1929/</url>
+      <patch_id>1929</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/1878titlescreen.png</image>
+    </patch>
+    <rom crc="cb04f34d" md5="b6b81d98a27596443792f47812f15b67" name="Worms Armageddon (E) (M6) [C][!].gbc"/>
+  </game>
+  <game name="1930 - 102 Dalmatians - Puppies to the Rescue (U) [C][!]">
+    <description>102 Dalmatians - Puppies to the Rescue (U) [C][!]</description>
+    <info>Here is a 100% Portuguese translation for 102 Dalmatians.</info>
+    <patch crc="FD3E3FC8" name="102 Dalmatians - Puppies to the Rescue (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1930/</url>
+      <patch_id>1930</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1930titlescreen.png</image>
+    </patch>
+    <rom crc="56b83539" md5="2b7e2442d503ce368fc93a9ebf0f70ef" name="102 Dalmatians - Puppies to the Rescue (U) [C][!].gbc"/>
+  </game>
+  <game name="1931 - Buffy the Vampire Slayer (U) [C][!]">
+    <description>Buffy the Vampire Slayer (U) [C][!]</description>
+    <info>Here is a 100% Portuguese translation of Buffy The Vampire Slayer.</info>
+    <patch crc="EE23DE40" name="Buffy the Vampire Slayer (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1931/</url>
+      <patch_id>1931</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1931titlescreen.png</image>
+    </patch>
+    <rom crc="5692e262" md5="49561c4082206a7e5d5ca2032be81eed" name="Buffy the Vampire Slayer (U) [C][!].gbc"/>
+  </game>
+  <game name="1932 - Crystalis (U) [C][!]">
+    <description>Crystalis (U) [C][!]</description>
+    <info>Here is a 100% Portuguese translation of Crystalis.</info>
+    <patch crc="E395B21" name="Crystalis (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1932/</url>
+      <patch_id>1932</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1932titlescreen.png</image>
+    </patch>
+    <rom crc="909bb02d" md5="f36a0ed25a601c039b1171d9daf241d6" name="Crystalis (U) [C][!].gbc"/>
+  </game>
+  <game name="1933 - Harvest Moon GB (U) [C][!]">
+    <description>Harvest Moon GB (U) [C][!]</description>
+    <info>Here is a 97% Portuguese translation of Harvest Moon for Game Boy.</info>
+    <patch crc="9AFFEA70" name="Harvest Moon GB (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1933/</url>
+      <patch_id>1933</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1933titlescreen.png</image>
+    </patch>
+    <rom crc="ab5738a1" md5="498c0a50a5e5cde16127617a97ad6162" name="Harvest Moon GB (U) [C][!].gbc"/>
+  </game>
+  <game name="1934 - International Superstar Soccer '99 (U) [C][!]">
+    <description>International Superstar Soccer '99 (U) [C][!]</description>
+    <info>Here is a 100% Portuguese translation of International Superstar Soccer 99.</info>
+    <patch crc="5EE45AF0" name="International Superstar Soccer '99 (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1934/</url>
+      <patch_id>1934</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1934titlescreen.png</image>
+    </patch>
+    <rom crc="1b76d115" md5="dd1505a3f4d7289b37107c6a98931eb4" name="International Superstar Soccer '99 (U) [C][!].gbc"/>
+  </game>
+  <game name="1935 - Megaman Xtreme (U) [C][!]">
+    <description>Megaman Xtreme (U) [C][!]</description>
+    <info>Here is a 100% Portuguese translation of Mega Man Xtreme for game boy.</info>
+    <patch crc="1477CEB1" name="Megaman Xtreme (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1935/</url>
+      <patch_id>1935</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/880titlescreen.png</image>
+    </patch>
+    <rom crc="3a4d94d5" md5="4681f5b931a2e60ca163facd1adf56ed" name="Megaman Xtreme (U) [C][!].gbc"/>
+  </game>
+  <game name="1936 - Megaman Xtreme 2 (U) [C][!]">
+    <description>Megaman Xtreme 2 (U) [C][!]</description>
+    <info>Here is a 100% Portuguese translation of Mega Man Xtreme 2.</info>
+    <patch crc="2B59F4F5" name="Megaman Xtreme 2 (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1936/</url>
+      <patch_id>1936</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/1884titlescreen.jpg</image>
+    </patch>
+    <rom crc="8fedb6d8" md5="1f64989765f605d05cbd013e7ffcc352" name="Megaman Xtreme 2 (U) [C][!].gbc"/>
+  </game>
+  <game name="1938 - Pokemon - Silver Version (UE) [C][!]">
+    <description>Pokemon - Silver Version (UE) [C][!]</description>
+    <info>Here is a complete Portuguese translation of Pokemon Silver.</info>
+    <patch crc="30CE4E29" name="Pokemon - Silver Version (UE) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1938/</url>
+      <patch_id>1938</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/912titlescreen.png</image>
+    </patch>
+    <rom crc="8ad48636" md5="2ac166169354e84d0e2d7cf4cb40b312" name="Pokemon - Silver Version (UE) [C][!].gbc"/>
+  </game>
+  <game name="1939 - Revelations - The Demon Slayer (U) [C][!]">
+    <description>Revelations - The Demon Slayer (U) [C][!]</description>
+    <info>Here is a 100% Portuguese translation of Revelations - The Demon Slayer.</info>
+    <patch crc="677B0359" name="Revelations - The Demon Slayer (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1939/</url>
+      <patch_id>1939</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1939titlescreen.png</image>
+    </patch>
+    <rom crc="d1a65d74" md5="86ed74283fe0071f8d3f05923051efab" name="Revelations - The Demon Slayer (U) [C][!].gbc"/>
+  </game>
+  <game name="1941 - Rolan's Curse (USA)">
+    <description>Rolan's Curse (USA)</description>
+    <info>Here is a 100% Portuguese translation of &lt;span class="italic"&gt;Rolan&amp;#8217;s Curse&lt;/span&gt;.</info>
+    <patch crc="DF606C1E" name="Rolan's Curse (USA).ips">
+      <url>https://www.romhacking.net/translations/1941/</url>
+      <patch_id>1941</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/1941titlescreen.png</image>
+    </patch>
+    <rom crc="1A602590" md5="EBD1866DC6C13CA48F45538ED33EA46F" name="Rolan's Curse (USA).gb" sha1="D5EEB34B24691EB6895D3349A05E2A75D910CF16"/>
+  </game>
+  <game name="1942 - Spider-Man 2 - The Sinister Six (U) [C][!]">
+    <description>Spider-Man 2 - The Sinister Six (U) [C][!]</description>
+    <info>Here is a full Portuguese translation of Spider-Man 2 - The Sinister Six.</info>
+    <patch crc="8306C52A" name="Spider-Man 2 - The Sinister Six (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/1942/</url>
+      <patch_id>1942</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/1886titlescreen.png</image>
+    </patch>
+    <rom crc="a7faaccf" md5="85bbad46380dffa631f8ce732e9c5d89" name="Spider-Man 2 - The Sinister Six (U) [C][!].gbc"/>
+  </game>
+  <game name="20 - Meitantei Conan - Karakuri Jiin Satsujin Jiken (J) [C][!]">
+    <description>Meitantei Conan - Karakuri Jiin Satsujin Jiken (J) [C][!]</description>
+    <info>It seems that Angel_Voice (The original translator) quit working on the japanese script Lady Mariann had dumped, and then she found someone named Simon to work on it instead. Then guess what?! He disappeared too. </info>
+    <patch crc="1ADE8144" name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/20/</url>
+      <patch_id>20</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/20titlescreen.png</image>
+    </patch>
+    <rom crc="3b5f24fc" md5="3a3e92c106a8674642e0ee3c0c793a9f" name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (J) [C][!].gbc"/>
+  </game>
+  <game name="2027 - Legend of Zelda, The - Link's Awakening DX (F) [C][!]">
+    <description>Legend of Zelda, The - Link's Awakening DX (F) [C][!]</description>
+    <info>I present to you the second Legend of Zelda translated in Arabic in the world after Minish Cap.
+This translation making my celebrity like an Arabic game translator.
+This game is: Legend of Zelda, The - Link&amp;#8217;s Awakening DX</info>
+    <patch crc="FCDDFC13" name="Legend of Zelda, The - Link's Awakening DX (F) [C][!].ips">
+      <url>https://www.romhacking.net/translations/2027/</url>
+      <patch_id>2027</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/2027titlescreen.png</image>
+    </patch>
+    <rom crc="f48824fe" md5="1043fd167d0ed9c4094e3c9d8e757f1e" name="Legend of Zelda, The - Link's Awakening DX (F) [C][!].gbc"/>
+  </game>
+  <game name="2055 - Karakuri Kengou Den Musashi Lord (Japan)">
+    <description>Karakuri Kengou Den Musashi Lord (Japan)</description>
+    <info>This is a complete translation patch for the GB game The Samurai Lord Musashi.</info>
+    <patch crc="2144DF1C" name="Karakuri Kengou Den Musashi Lord (Japan).ips">
+      <url>https://www.romhacking.net/translations/2055/</url>
+      <patch_id>2055</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/2055titlescreen.png</image>
+    </patch>
+    <rom crc="01AEE24B" md5="A74A2A87BB4B2637C5243A37523FA7AE" name="Karakuri Kengou Den Musashi Lord (Japan).gb" sha1="ABEF454BA28D9A89CDEEF53DC32549D7BD7D95BB"/>
+  </game>
+  <game name="2097 - Peke to Poko no Daruman Busters (Japan)">
+    <description>Peke to Poko no Daruman Busters (Japan)</description>
+    <info>This is a complete translation patch for the GB puzzler, Peke and Poko&amp;#8217;s Daruman Busters.</info>
+    <patch crc="2C92F887" name="Peke to Poko no Daruman Busters (Japan).bps">
+      <url>https://www.romhacking.net/translations/2097/</url>
+      <patch_id>2097</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/2097titlescreen.png</image>
+    </patch>
+    <rom crc="A66F5C02" md5="B86BE9C65C1BA0DB48D6EB8E0770926D" name="Peke to Poko no Daruman Busters (Japan).gb" sha1="A782F490AE8F7EB7140D9D23FD8BD181B1A916F4"/>
+  </game>
+  <game name="2209 - Dragon Warrior III (U) [C][!]">
+    <description>Dragon Warrior III (U) [C][!]</description>
+    <info>Yet another classic RPG for you in Spanish, brought to you by Lukas.</info>
+    <patch crc="56BA3949" name="Dragon Warrior III (U) [C][!].ips">
+      <url>https://www.romhacking.net/translations/2209/</url>
+      <patch_id>2209</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/1309titlescreen.png</image>
+    </patch>
+    <rom crc="0fd9c59c" md5="b74b6132326bafcd75e415ddcd9a2932" name="Dragon Warrior III (U) [C][!].gbc"/>
+  </game>
+  <game name="2295 - Kinin Koumaroku Oni (Japan)">
+    <description>Kinin Koumaroku Oni (Japan)</description>
+    <info>This is a complete translation patch for Oni Chronicles -Genesis- aka Kininkou Maroku Oni. It is the first game in the Oni series.</info>
+    <patch crc="2144DF1C" name="Kinin Koumaroku Oni (Japan).ips">
+      <url>https://www.romhacking.net/translations/2295/</url>
+      <patch_id>2295</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/2295titlescreen.png</image>
+    </patch>
+    <rom crc="B7F48649" md5="A7594D0B4362A7E4325DD8EA913C4BF1" name="Kinin Koumaroku Oni (Japan).gb" sha1="7C6C71B52C62B814945EE102054A7A3210B1ECF3"/>
+  </game>
+  <game name="23 - Gameboy Wars 2 (J) [C][!]">
+    <description>Gameboy Wars 2 (J) [C][!]</description>
+    <info>Blibber did a very thorough job on the translation, and managed to nab every bit of text as well as the title screen. However there was little text to begin with, so there wasn&amp;#8217;t really much to play around with in the way making it more flavorful (and trust me, it could&amp;#8217;ve used a little injection of flavor).</info>
+    <patch crc="39BDC031" name="Gameboy Wars 2 (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/23/</url>
+      <patch_id>23</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/23titlescreen.gif</image>
+    </patch>
+    <rom crc="e3b0319e" md5="c51baa39bf56e346360eed267677bd4d" name="Gameboy Wars 2 (J) [C][!].gbc"/>
+  </game>
+  <game name="2303 - Picross 2 (Japan) (SGB Enhanced)">
+    <description>Picross 2 (Japan) (SGB Enhanced)</description>
+    <info>After 15 short years it&amp;#8217;s finally done. A 100% complete translation. It should work on anything that plays the original ROM. Picross 2 is a very fun puzzle game that you should be playing instead of reading this prattling.</info>
+    <patch crc="D6885E4A" name="Picross 2 (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/2303/</url>
+      <patch_id>2303</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/2303titlescreen.png</image>
+    </patch>
+    <rom crc="F5AA5902" md5="142D1F9F4B868780824CCA20010AD4D8" name="Picross 2 (Japan) (SGB Enhanced).gb" sha1="57788519111CBE9E20B43D1935E9F52AE165E858"/>
+  </game>
+  <game name="2325 - Pocket Monsters - Crystal Version (J) [C][!]">
+    <description>Pocket Monsters - Crystal Version (J) [C][!]</description>
+    <info>This a translation of Pokemon Crystal popularly known as &amp;#8220;Pokemon Vietnamese Crystal&amp;#8221;. It is an English translation, believed to have been based on an unofficial Chinese translation of the original Japanese version.
+It is said to have been named because it came to the Let&amp;#8217;s Play communities attention through a bootleg cart found in Vietnam.
+It is notable for its bad, to the point of being sometimes incomprehensible, translation.
+So, it&amp;#8217;s not one to play if one is looking for a serious translation. Then one should play the official translation.</info>
+    <patch crc="F0FE22AE" name="Pocket Monsters - Crystal Version (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/2325/</url>
+      <patch_id>2325</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/708titlescreen.png</image>
+    </patch>
+    <rom crc="270c4ecc" md5="9c3ae66bffb28ea8ed2896822da02992" name="Pocket Monsters - Crystal Version (J) [C][!].gbc"/>
+  </game>
+  <game name="2330 - Survival Kids 2 - Dasshutsu!! Futago Shima! (J) [C][!]">
+    <description>Survival Kids 2 - Dasshutsu!! Futago Shima! (J) [C][!]</description>
+    <info>FINALLY! The sequel to the GBC cult-classic is available for the first time in English! Experience fantastic survival fun as you try to find a way to ESCAPE THE TWIN ISLANDS! Is your brother alive? Can you evade your pursuers? Is the treasure real? FIND OUT!</info>
+    <patch crc="8096F0DF" name="Survival Kids 2 - Dasshutsu!! Futago Shima! (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/2330/</url>
+      <patch_id>2330</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/2330titlescreen.png</image>
+    </patch>
+    <rom crc="ab8b25d8" md5="9d2f7e1ac30a46456a841c264963e5ea" name="Survival Kids 2 - Dasshutsu!! Futago Shima! (J) [C][!].gbc"/>
+  </game>
+  <game name="24 - Game Boy Wars Turbo (Japan) (SGB Enhanced)">
+    <description>Game Boy Wars Turbo (Japan) (SGB Enhanced)</description>
+    <info>This patch is essentially complete, but hasn&amp;#8217;t been tested so it may contain bugs in the script. However, since blibber seems to disappeared, I wouldn&amp;#8217;t hold your breath on him to make sure it&amp;#8217;s finished ;).</info>
+    <patch crc="D1D86866" name="Game Boy Wars Turbo (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/24/</url>
+      <patch_id>24</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/24titlescreen.png</image>
+    </patch>
+    <rom crc="94563424" md5="C10A76A601EA375593F1CB944C3365E7" name="Game Boy Wars Turbo (Japan) (SGB Enhanced).gb" sha1="27121450BEE04790E7A0D8A08086AD42302F17E9"/>
+  </game>
+  <game name="2494 - Final Fantasy Adventure (USA)">
+    <description>Final Fantasy Adventure (USA)</description>
+    <info>This game was translated to Portuguese (Brazil) based on the US version, which had changed some images and texts of the original Japanese game due to censure, marketing or technical reasons.
+However, this translation brings back some of these things. They are:</info>
+    <patch crc="A35F4806" name="Final Fantasy Adventure (USA).ips">
+      <url>https://www.romhacking.net/translations/2494/</url>
+      <patch_id>2494</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/2494titlescreen.gif</image>
+    </patch>
+    <rom crc="18C78B3A" md5="24CD3BDF490EF2E1AA6A8AF380ECCD78" name="Final Fantasy Adventure (USA).gb" sha1="8B93C55EE2660C60CF86DD70058F96ACE98782C8"/>
+  </game>
+  <game name="25 - Gamera - Daikaijuu Kuuchuu Kessen (Japan) (SGB Enhanced)">
+    <description>Gamera - Daikaijuu Kuuchuu Kessen (Japan) (SGB Enhanced)</description>
+    <info>All I have to say about the translation is ugh. Double ugh. Blibber got a great a deal of the text, but . . .UGH! I&amp;#8217;ve seen better english in Godzilla movies than in this game. However, that&amp;#8217;s not entirely the fault of blibber, the text windows are tiny, and it is after all a Gameboy game&amp;#8230; It&amp;#8217;s not like there&amp;#8217;s mounds of empty space that a quality translation would need.</info>
+    <patch crc="210653F1" name="Gamera - Daikaijuu Kuuchuu Kessen (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/25/</url>
+      <patch_id>25</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/25titlescreen.png</image>
+    </patch>
+    <rom crc="62769EC1" md5="88C33C0FC3DBDC848B9BE604CDDA5744" name="Gamera - Daikaijuu Kuuchuu Kessen (Japan) (SGB Enhanced).gb" sha1="C6EC7AA3AD2B28CA43551CDA3C0CFDBCB4377B45"/>
+  </game>
+  <game name="26 - Hello Kitty no Magical Museum (J) [C][!]">
+    <description>Hello Kitty no Magical Museum (J) [C][!]</description>
+    <info>Anyway, Celes did this because she needed a &amp;#8220;break from big scripts&amp;#8221; (can&amp;#8217;t blame her, really), and churned it out in about four day&amp;#8217;s time. And it&amp;#8217;s 100% complete! So, if you like Hello Kitty, you should check it out!</info>
+    <patch crc="153B0FC1" name="Hello Kitty no Magical Museum (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/26/</url>
+      <patch_id>26</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/22Hello Kitty Magical Museum.png</image>
+    </patch>
+    <rom crc="5174584f" md5="0b3f9169b12b25b4ce142915c138c093" name="Hello Kitty no Magical Museum (J) [C][!].gbc"/>
+  </game>
+  <game name="27 - Nettou The King of Fighters '96 (Japan) (SGB Enhanced)">
+    <description>Nettou The King of Fighters '96 (Japan) (SGB Enhanced)</description>
+    <info>This patch attempts to translate some of the &amp;#8220;story&amp;#8221; text between fights in this gameboy port of the Neo-Geo fighting game of the same name. The menus are englishized, as is much of the fighter&amp;#8217;s dialogue (everyone but Mr. Karate and Kugura), which was taken from the Neo-Geo game. I don&amp;#8217;t know whether some of the translated stuff is done on purpose or not, but in any case, it looks really bad. :P</info>
+    <patch crc="41338090" name="Nettou The King of Fighters '96 (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/27/</url>
+      <patch_id>27</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/23King of Fighters `96.png</image>
+    </patch>
+    <rom crc="FECDAE42" md5="16EE9B10C27C136D2959AE87105A8A2E" name="Nettou The King of Fighters '96 (Japan) (SGB Enhanced).gb" sha1="63F25BFF422A591907B83AB9F14709E938172839"/>
+  </game>
+  <game name="2746 - Keitai Denjuu Telefang - Power Version (J) [C][!]">
+    <description>Keitai Denjuu Telefang - Power Version (J) [C][!]</description>
+    <info>&amp;#8220;Keitai Denjuu Telefang&amp;#8221; is &amp;#8220;Mobile Phone Beast Telefang&amp;#8221; translated.</info>
+    <patch crc="80089617" name="Keitai Denjuu Telefang - Power Version (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/2746/</url>
+      <patch_id>2746</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/2746titlescreen.png</image>
+    </patch>
+    <rom crc="8f16393f" md5="8b0a1b6667040a52f6957c0eeea1dbd7" name="Keitai Denjuu Telefang - Power Version (J) [C][!].gbc"/>
+  </game>
+  <game name="29 - Little Magic (J) [C][!]">
+    <description>Little Magic (J) [C][!]</description>
+    <info>This is an English translation of Little Magic for the Game Boy Color.</info>
+    <patch crc="D64970FC" name="Little Magic (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/29/</url>
+      <patch_id>29</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/25titlescreen.png</image>
+    </patch>
+    <rom crc="ca38283d" md5="2bb74ace01cabe5d71dfcc329179b4ae" name="Little Magic (J) [C][!].gbc"/>
+  </game>
+  <game name="3027 - Battle of Kingdom (Japan)">
+    <description>Battle of Kingdom (Japan)</description>
+    <info>Complete English translation patch for the weird GB game.</info>
+    <patch crc="2144DF1C" name="Battle of Kingdom (Japan).ips">
+      <url>https://www.romhacking.net/translations/3027/</url>
+      <patch_id>3027</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/3027titlescreen.png</image>
+    </patch>
+    <rom crc="35914DEB" md5="F7AA9880DB8E7884618FF0DCAB6FBA85" name="Battle of Kingdom (Japan).gb" sha1="5761F47A09F91A373BDA96840FE2560BFF1FFC97"/>
+  </game>
+  <game name="31 - Magic Knight Rayearth (Japan) (SGB Enhanced)">
+    <description>Magic Knight Rayearth (Japan) (SGB Enhanced)</description>
+    <info>So far, only the intro, and a goodly amount of the dialog from Hikaru&amp;#8217;s scenario is translated. Sadly, the battle menus don&amp;#8217;t appear to be done yet, and there&amp;#8217;s a few inaccuracies in the translation as well as what appears to be direct katakana translations (i.e., Emeraude instead of Emerald). Either way, it&amp;#8217;s enough to get you started.</info>
+    <patch crc="E387843" name="Magic Knight Rayearth (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/31/</url>
+      <patch_id>31</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/27titlescreen.png</image>
+    </patch>
+    <rom crc="94838A81" md5="06B75E657DEBD1568F18D369CC2422DD" name="Magic Knight Rayearth (Japan) (SGB Enhanced).gb" sha1="4F77031946E62772A241A9B5B046D7FCF6A28EA8"/>
+  </game>
+  <game name="3107 - Super SLG (Unl) [C]">
+    <description>Super SLG (Unl) [C]</description>
+    <info>A translation patch that translates the menus of the Game Boy Colour Fire Emblem bootleg, Fire Emblem: The Reincarnation of Light and Dark (aka Super SLG.) Dialogue is still in Chinese.</info>
+    <patch crc="1745ABCE" name="Super SLG (Unl) [C].ips">
+      <url>https://www.romhacking.net/translations/3107/</url>
+      <patch_id>3107</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/3107titlescreen.png</image>
+    </patch>
+    <rom crc="808f19d7" md5="0348787d4432c969b4af0129682468ba" name="Super SLG (Unl) [C].gbc"/>
+  </game>
+  <game name="32 - Magical Chase GB (J) [C][!]">
+    <description>Magical Chase GB (J) [C][!]</description>
+    <info>Well, there&amp;#8217;s not much to comment on. It&amp;#8217;s a shooter, so there wasn&amp;#8217;t really much text, but now what little text there was is englishedized, so, um&amp;#8230; YAY!</info>
+    <patch crc="B0F2B5AE" name="Magical Chase GB (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/32/</url>
+      <patch_id>32</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/28Magical Chase GB.png</image>
+    </patch>
+    <rom crc="15e5d499" md5="f722b68c0f532ed567397a3e53909ccf" name="Magical Chase GB (J) [C][!].gbc"/>
+  </game>
+  <game name="33 - Momotarou Dengeki (Japan)">
+    <description>Momotarou Dengeki (Japan)</description>
+    <info>Toma translated it! He&amp;#8217;s got a really neat font for the level names too. :) Everything is translated except for the title screen design and the credits, so you can play it and stuff.</info>
+    <patch crc="589FC481" name="Momotarou Dengeki (Japan).ips">
+      <url>https://www.romhacking.net/translations/33/</url>
+      <patch_id>33</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/29Momotaro Thunderbolt.png</image>
+    </patch>
+    <rom crc="F09B34AB" md5="F31C556186B91CF161ECF60644FBECBA" name="Momotarou Dengeki (Japan).gb" sha1="8450758A8338700468F862C73F344C63B921812F"/>
+  </game>
+  <game name="34 - Nectaris GB (Japan) (SGB Enhanced)">
+    <description>Nectaris GB (Japan) (SGB Enhanced)</description>
+    <info>As usual, blibber did a very thorough job, and did a great job making the script cohesive. An excellent job done on a pretty good game. Go try it out for yourself.</info>
+    <patch crc="4EC63174" name="Nectaris GB (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/34/</url>
+      <patch_id>34</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/30Nectaris.png</image>
+    </patch>
+    <rom crc="20BFD7EF" md5="1080141C1B99B5B92D187990BDC85C6A" name="Nectaris GB (Japan) (SGB Enhanced).gb" sha1="BA251BFEF8162EF032DA8D5C28FE693EDE28F030"/>
+  </game>
+  <game name="35 - Nobunaga no Yabou - GameBoy Ban 2 (J) [C][!]">
+    <description>Nobunaga no Yabou - GameBoy Ban 2 (J) [C][!]</description>
+    <info>Well, just about all the 8&amp;#215;8 (menu and message) text is translated, making the game very playable. The only things not translated are the huge-ass kanji used for names and such, which use a much larger font (which would probably require ASM hacking to english-ify). But check it out, it&amp;#8217;s definitely a very good effort.</info>
+    <patch crc="E7C289E5" name="Nobunaga no Yabou - GameBoy Ban 2 (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/35/</url>
+      <patch_id>35</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/35titlescreen.png</image>
+    </patch>
+    <rom crc="233862d0" md5="f8a6836a0f3448fae3f2e79ba1d32769" name="Nobunaga no Yabou - GameBoy Ban 2 (J) [C][!].gbc"/>
+  </game>
+  <game name="36 - Oni IV - Kijin no Ketsuzoku (Japan)">
+    <description>Oni IV - Kijin no Ketsuzoku (Japan)</description>
+    <info>The dialogue translation for a good chunk of the game is complete. However, it appears none of the &amp;#8220;townie&amp;#8221; dialogue is done, and neither are the monster names that I encountered. However, this patch covers enough to make the game playable. Akujin says he has the rest of the script translated, it&amp;#8217;s just a matter of fitting it back in the game. Which may or may not happen in the near future. Akujin has since joined forces with Magic Destiny, so now this project flies proudly under their banner.</info>
+    <patch crc="EB20000E" name="Oni IV - Kijin no Ketsuzoku (Japan).ips">
+      <url>https://www.romhacking.net/translations/36/</url>
+      <patch_id>36</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/36titlescreen.png</image>
+    </patch>
+    <rom crc="BEFF4F57" md5="399FA899194542C7BD5BA92969795AC5" name="Oni IV - Kijin no Ketsuzoku (Japan).gb" sha1="5AF71863E48AFE1FB5F16AEE6FBE7F4E97EF54CE"/>
+  </game>
+  <game name="37 - Othello Millennium (J) [C][!]">
+    <description>Othello Millennium (J) [C][!]</description>
+    <info>There&amp;#8217;s not much done on this yet. All I can see is that the 8&amp;#215;8 katakana font has been romanized, and the hiragana has yet to be touched. Not much done yet, really.</info>
+    <patch crc="405F4563" name="Othello Millennium (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/37/</url>
+      <patch_id>37</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/33Othello 2000.png</image>
+    </patch>
+    <rom crc="c7800576" md5="03e6a11b8040b4d56b3c1402c92bbf6d" name="Othello Millennium (J) [C][!].gbc"/>
+  </game>
+  <game name="41 - Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (Japan)">
+    <description>Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (Japan)</description>
+    <info>Well, there wasn&amp;#8217;t much to translate besides the opening, but that&amp;#8217;s alright. One interesting thing to note was that this is actually the second release Ipkiss made for this, the first was with made-up &amp;#8220;homey-g wassup&amp;#8221; dialog, for which Ipkiss was immediately flamed for on several message boards. But he went back and fixed it, and now he&amp;#8217;s really cool sk3n3 dude, so it&amp;#8217;s all good.</info>
+    <patch crc="9509757C" name="Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (Japan).ips">
+      <url>https://www.romhacking.net/translations/41/</url>
+      <patch_id>41</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/41titlescreen.gif</image>
+    </patch>
+    <rom crc="25B21ACC" md5="EB771FB255FA207A830DF06338AF6D87" name="Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (Japan).gb" sha1="28E6EDFF470613A2ABF015C9795581E8E2822029"/>
+  </game>
+  <game name="42 - RPG Tsukuru GB (J) [C][!]">
+    <description>RPG Tsukuru GB (J) [C][!]</description>
+    <info>Just about all of the actual RPG Maker menus are translated. There&amp;#8217;s still some formatting errors and the occasional spelling error, but that&amp;#8217;s usually because of space concerns, I&amp;#8217;m guessing. It looks like most all of the menu and text banks are 90% or better, you should be able to do something with this.</info>
+    <patch crc="F09219F5" name="RPG Tsukuru GB (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/42/</url>
+      <patch_id>42</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/42titlescreen.png</image>
+    </patch>
+    <rom crc="0b614307" md5="ac3dfc02635524fbb01dcacd2db3d066" name="RPG Tsukuru GB (J) [C][!].gbc"/>
+  </game>
+  <game name="43 - Bishoujo Senshi Sailor Moon (Japan)">
+    <description>Bishoujo Senshi Sailor Moon (Japan)</description>
+    <info>Quite an interesting little game, just a tad more than side-scrolling monster hop-and-bop, and, being made even BEFORE the Super Gameboy, has some nice-looking graphics and sound&amp;#8230;for a Gameboy.</info>
+    <patch crc="69846348" name="Bishoujo Senshi Sailor Moon (Japan).ips">
+      <url>https://www.romhacking.net/translations/43/</url>
+      <patch_id>43</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/39titlescreen.png</image>
+    </patch>
+    <rom crc="C2763E73" md5="7AFB675171D58105112DBACF2CED77CB" name="Bishoujo Senshi Sailor Moon (Japan).gb" sha1="C008913A9FBB395A7A504FE65D1D29C530755CB3"/>
+  </game>
+  <game name="45 - Sanrio Carnival (Japan)">
+    <description>Sanrio Carnival (Japan)</description>
+    <info>This is a pretty fun little game. You&amp;#8217;ve probably seen this kind of thing before though. However, this is different because it&amp;#8217;s Sanrio, and Sanrio just kicks ass. :) Six Feet Under finished this in about three days, which makes sense, as there&amp;#8217;s not a whole lot to translate. Anyway, what you do is try to line up three blocks of the same type, and you can do this in either direction, even diagonal. The blocks come in twos, so some clever maneuvering is required to make that other block fall just where you want it after the first one is cleared. The game ranges from nice-n-fun to downright evil, as can be seen from the screenshots. Stick with the easy stuff, unless you enjoy having a headache.</info>
+    <patch crc="3CA694F2" name="Sanrio Carnival (Japan).ips">
+      <url>https://www.romhacking.net/translations/45/</url>
+      <patch_id>45</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/45titlescreen.gif</image>
+    </patch>
+    <rom crc="48D8AB7A" md5="D82114F0AADFC632CDC9D4C553B3CC7A" name="Sanrio Carnival (Japan).gb" sha1="E17FA516E0F85C6DD80F29573363E42528D88266"/>
+  </game>
+  <game name="46 - Sanrio Timenet - Mirai Hen (J) [C][!]">
+    <description>Sanrio Timenet - Mirai Hen (J) [C][!]</description>
+    <info>This is a nifty Sanrio game (is anything Sanrio not nifty?) that seems a lot like Crapfla &amp;#8230; er &amp;#8230; Pokémon. You play as a boy or girl who is warped into the future to battle with your rival using monsters. Why are you warped into the future? Beats me, but that&amp;#8217;s what Ed the Wizard decided. Anyway, about 12% of the text is translated and inserted, which means about five minutes of playing time. And the status screen-type-thing doesn&amp;#8217;t look to be translated, either. But hey, it&amp;#8217;s good progress considering the amount of time they&amp;#8217;ve been working on the project ^_^. Check it out.</info>
+    <patch crc="71C1C41A" name="Sanrio Timenet - Mirai Hen (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/46/</url>
+      <patch_id>46</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/42titlescreen.png</image>
+    </patch>
+    <rom crc="efe51e17" md5="388a603e8b6d0fcf7c553fb00a7c5171" name="Sanrio Timenet - Mirai Hen (J) [C][!].gbc"/>
+  </game>
+  <game name="47 - Soul Getter - Houkago Bouken RPG (J) [C][!]">
+    <description>Soul Getter - Houkago Bouken RPG (J) [C][!]</description>
+    <info>This is an old-school style RPG. What&amp;#8217;d ya expect? this is a Gameboy game, after all. Anyway, combat is almost aexactly like Breath of Fire, with that spiffy isometric view. Unfortunately, there&amp;#8217;s formatting problems, as well grammar and spelling bugs, and a few programming bugs (cursors pointing to the wrong places, etc.)</info>
+    <patch crc="83C1A3CB" name="Soul Getter - Houkago Bouken RPG (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/47/</url>
+      <patch_id>47</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/43titlescreen.jpg</image>
+    </patch>
+    <rom crc="3ffcd45b" md5="053d55b23c41c5e0e3227239f4844fea" name="Soul Getter - Houkago Bouken RPG (J) [C][!].gbc"/>
+  </game>
+  <game name="48 - Super Chinese Fighter EX (J) [C][!]">
+    <description>Super Chinese Fighter EX (J) [C][!]</description>
+    <info>At first Opus was working on this game. But then he handed the patch over to SGST and let them distribute and finish it. Anyway, this patch takes care of everything but the credits. But there&amp;#8217;s a text translation of the credits in the zip file, if you really want to read them.</info>
+    <patch crc="C65E19DE" name="Super Chinese Fighter EX (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/48/</url>
+      <patch_id>48</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/48titlescreen.png</image>
+    </patch>
+    <rom crc="dcdaa333" md5="a601e9009c88c7dcfac8aaea41dd45d8" name="Super Chinese Fighter EX (J) [C][!].gbc"/>
+  </game>
+  <game name="51 - Urusei Yatsura - Miss Tomobiki o Sagase! (Japan)">
+    <description>Urusei Yatsura - Miss Tomobiki o Sagase! (Japan)</description>
+    <info>This here&amp;#8217;s a patch from back when Transcore was called Razor-X. :) I assume that this was one of Taskforce&amp;#8217;s side projects, but then he later gave up on it. My guess is that he stopped because the game is so damn BORING. I&amp;#8217;m amazed that I played past the most boring intro on the planet and actually found out that this is a 1st-person 3d-type game. But enough knocking it. Not much has been translated in this patch. Only some menus are done, as well as a couple other things, like a spell.</info>
+    <patch crc="DAB5AF7" name="Urusei Yatsura - Miss Tomobiki o Sagase! (Japan).ips">
+      <url>https://www.romhacking.net/translations/51/</url>
+      <patch_id>51</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/47titlescreen.png</image>
+    </patch>
+    <rom crc="56800C6B" md5="073F048EBEA0012BCA0649ED1277078D" name="Urusei Yatsura - Miss Tomobiki o Sagase! (Japan).gb" sha1="F7AC15B9B38027AE473120748E9686C985A40E87"/>
+  </game>
+  <game name="52 - Wizardry Empire (J) (V1.0) [C][!]">
+    <description>Wizardry Empire (J) (V1.0) [C][!]</description>
+    <info>This is yet another game based on the superb Wizardry series. Unfortunately, this patch needs a lot of work still…</info>
+    <patch crc="BF9D6162" name="Wizardry Empire (J) (V1.0) [C][!].ips">
+      <url>https://www.romhacking.net/translations/52/</url>
+      <patch_id>52</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/2243titlescreen.png</image>
+    </patch>
+    <rom crc="7adc90e1" md5="ccb604ca00f176ae6ca40f4fc33d8c1a" name="Wizardry Empire (J) (V1.0) [C][!].gbc"/>
+  </game>
+  <game name="521 - Snowboard Champion (J) [C][!]">
+    <description>Snowboard Champion (J) [C][!]</description>
+    <info>There are some font problems in the patch.  Its entirely readable but some letters have a different color background than others. Some of the menu options (such as in the title screen menu) also show glaring graphical imperfections. And the name selection screen has all the letters jumbled together in a disorderly fashion.  The title screen is also done but it could definitely use an artistic touch.  All in all the game is more than playable but aesthetically this patch needs much more elbow grease.  If a bit more time and professionalism are invested in the patch it ought to turn out great.  Hoping for some artistry over functionality&amp;#8230;  Oh and I haven&amp;#8217;t checked but I&amp;#8217;m wondering how accurate the translation is.  I&amp;#8217;m sensing some liberties were taken.</info>
+    <patch crc="A09A190C" name="Snowboard Champion (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/521/</url>
+      <patch_id>521</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/521titlescreen.png</image>
+    </patch>
+    <rom crc="846fea2b" md5="78f920f4e9174cd3382294129d30f373" name="Snowboard Champion (J) [C][!].gbc"/>
+  </game>
+  <game name="526 - Doraemon Kart (Japan) (SGB Enhanced)">
+    <description>Doraemon Kart (Japan) (SGB Enhanced)</description>
+    <info>The 1.01 patch gets the job done since almost all of the Japanese is translated but the project seems far from complete.  Lots of small things need to worked on.  The text doesn&amp;#8217;t output correctly on some screens as unnecessary spaces and empty lines appear.  The start/select menu has untranslated text.  And the game definitely needs beta testing as grammatical and spelling errors are abound.  The first glaring one was &amp;#8220;relly&amp;#8221; instead of &amp;#8220;really&amp;#8221; and where are the capital letters?  Hopefully a follow-up patch will appear to fix all these minor things.  Sure you can play it, but I&amp;#8217;d rather have patch that glows with professionalism.</info>
+    <patch crc="30F3D8D3" name="Doraemon Kart (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/526/</url>
+      <patch_id>526</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/526titlescreen.png</image>
+    </patch>
+    <rom crc="DD4E588F" md5="20B436FC3C9621EB4EE82BC3EF3687FB" name="Doraemon Kart (Japan) (SGB Enhanced).gb" sha1="F19734B2CB19DE0BE2D9E80297F567806CE4CAD5"/>
+  </game>
+  <game name="530 - Another Bible (Japan) (SGB Enhanced)">
+    <description>Another Bible (Japan) (SGB Enhanced)</description>
+    <info>It&amp;#8217;s done, it&amp;#8217;s finished, it&amp;#8217;s Gideon&amp;#8217;s work!  Enjoy!</info>
+    <patch crc="489C4B59" name="Another Bible (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/530/</url>
+      <patch_id>530</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/530titlescreen.png</image>
+    </patch>
+    <rom crc="4A486435" md5="FF9196CAA266AE36D409CE7E53DDC77A" name="Another Bible (Japan) (SGB Enhanced).gb" sha1="6A5D0DA889247169135665DC91F153305E1C71B6"/>
+  </game>
+  <game name="534 - Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][!]">
+    <description>Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][!]</description>
+    <info>Seeing as how I know nothing about this other than the filename, I&amp;#8217;d say about 20% is supposed to be translated. And that sounds about right. I&amp;#8217;d say don&amp;#8217;t mess with this one.</info>
+    <patch crc="D2EAD7E4" name="Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/534/</url>
+      <patch_id>534</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/420titlescreen.gif</image>
+    </patch>
+    <rom crc="219e42e3" md5="26508069768cb23f6fc03a33f8d4cf43" name="Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][!].gbc"/>
+  </game>
+  <game name="557 - Arle no Bouken - Mahou no Jewel (J) [C][!]">
+    <description>Arle no Bouken - Mahou no Jewel (J) [C][!]</description>
+    <info>While the translation claims 50% status (and I certainly don&amp;#8217;t intend to dispute it) the 50% definitely does not extend to the actual dialogue text. I got to SATAN&amp;#8217;s house, at which point the lady I was talking to just suddenly exploded into gibberish in mid-sentence. It was pretty cool. The text that IS there is somewhat awkward at times (especially having all the names capitalized, super-Pokemon-style) and you&amp;#8217;ll have a hard time understanding just exactly what the hell is going on, but it&amp;#8217;ll be over too soon for you to care.</info>
+    <patch crc="E22802E8" name="Arle no Bouken - Mahou no Jewel (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/557/</url>
+      <patch_id>557</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/557titlescreen.png</image>
+    </patch>
+    <rom crc="8ee043ea" md5="9abaf0dfeb58b76d6b5cce4b42756c8e" name="Arle no Bouken - Mahou no Jewel (J) [C][!].gbc"/>
+  </game>
+  <game name="558 - Yu-Gi-Oh! Duel Monsters 4 - Saikyou Kettousha Senki - Kaiba Deck (J) [C][!]">
+    <description>Yu-Gi-Oh! Duel Monsters 4 - Saikyou Kettousha Senki - Kaiba Deck (J) [C][!]</description>
+    <info>So far, all of the monster card names are translated, as are 8 out of 9 card descriptions. In my dalliances with this patch, I&amp;#8217;ve yet to see anything else translated, besides some battle-related stuff. Hopefully, Chris&amp;#8217;ll finish this soon so it&amp;#8217;s a tad bit more playable.</info>
+    <patch crc="A0020FF6" name="Yu-Gi-Oh! Duel Monsters 4 - Saikyou Kettousha Senki - Kaiba Deck (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/558/</url>
+      <patch_id>558</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/439titlescreen.png</image>
+    </patch>
+    <rom crc="a4d06001" md5="19b1085c7c17a8123a7ec59f4033e92c" name="Yu-Gi-Oh! Duel Monsters 4 - Saikyou Kettousha Senki - Kaiba Deck (J) [C][!].gbc"/>
+  </game>
+  <game name="562 - Zoids - Shirogane no Juukishin Liger Zero (J) [C][!]">
+    <description>Zoids - Shirogane no Juukishin Liger Zero (J) [C][!]</description>
+    <info>Not much here is done, just most of the main menu and some of the combat menus. And, a couple of poorly translated lines of dialogue. There&amp;#8217;s really no website or readme to speak of, so who knows how much further this translation will be going.</info>
+    <patch crc="D7EE97CC" name="Zoids - Shirogane no Juukishin Liger Zero (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/562/</url>
+      <patch_id>562</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/442titlescreen.gif</image>
+    </patch>
+    <rom crc="530705a1" md5="77836df2b2ce5284e4dda233e118b914" name="Zoids - Shirogane no Juukishin Liger Zero (J) [C][!].gbc"/>
+  </game>
+  <game name="57 - Yu-Gi-Oh! Monster Capsule GB (J) [C][!]">
+    <description>Yu-Gi-Oh! Monster Capsule GB (J) [C][!]</description>
+    <info>Not very much is translated at all. Not even the menus are really translated. The introduction is, though, as is most of the first floor, but that isn&amp;#8217;t going to get you very far into the game. I suggest you wait for a patch release which has more stuff (preferably functional stuff, like &lt;span class="italic"&gt;menus&lt;/span&gt;) translated.</info>
+    <patch crc="11FDC19C" name="Yu-Gi-Oh! Monster Capsule GB (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/57/</url>
+      <patch_id>57</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/53titlescreen.png</image>
+    </patch>
+    <rom crc="1371e872" md5="b980da92693762bd3a7a4791fe08766e" name="Yu-Gi-Oh! Monster Capsule GB (J) [C][!].gbc"/>
+  </game>
+  <game name="609 - Uchuu no Kishi Tekkaman Blade (Japan)">
+    <description>Uchuu no Kishi Tekkaman Blade (Japan)</description>
+    <info>Everything seems to be complete except the blinking message that appears whenever you start a level. (For the katakana-illiterate, it says &amp;#8220;START&amp;#8221;.) This naturally is no hindrance to enjoying the game, and so I demand that you now download and enjoy this game.</info>
+    <patch crc="ECC842D9" name="Uchuu no Kishi Tekkaman Blade (Japan).ips">
+      <url>https://www.romhacking.net/translations/609/</url>
+      <patch_id>609</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/tekkaman.gif</image>
+    </patch>
+    <rom crc="22D8889E" md5="801548B89F31101653539988D7635DBA" name="Uchuu no Kishi Tekkaman Blade (Japan).gb" sha1="ED7370F4D59CCE1EDB76E28BDCBE5E79FA3C07C4"/>
+  </game>
+  <game name="611 - Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!]">
+    <description>Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!]</description>
+    <info>A whole lot is done, including &lt;span class="italic"&gt;all&lt;/span&gt; of the cards, some of dialogue, most of the trainers, and most of the menus.</info>
+    <patch crc="6C0B8591" name="Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/611/</url>
+      <patch_id>611</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/pokecrd2.gif</image>
+    </patch>
+    <rom crc="6c933a14" md5="1134862e84110443190df460351d4575" name="Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!].gbc"/>
+  </game>
+  <game name="629 - Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][!]">
+    <description>Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][!]</description>
+    <info>About half of the menus are translated. Aside from that, this is leaps and bounds ahead of Magecraft&amp;#8217;s patch. After dinking around with it for a couple minutes, all the menus looked to be translated, but what do I know anyways. Here&amp;#8217;s hoping PentarouZero continues working on this, because so far it looks &lt;span class="italic"&gt;fantastic&lt;/span&gt;.</info>
+    <patch crc="F01815C9" name="Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/629/</url>
+      <patch_id>629</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/629titlescreen.png</image>
+    </patch>
+    <rom crc="219e42e3" md5="26508069768cb23f6fc03a33f8d4cf43" name="Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][!].gbc"/>
+  </game>
+  <game name="631 - Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!]">
+    <description>Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!]</description>
+    <info>This project is built off of the work that 1 l33t h4&amp;#215;0rz did on the game. All that is new in this edition is that all 445 cards are now translated. This &lt;span class="italic"&gt;might&lt;/span&gt; have problems with some IPS patchers, but IPS.EXE was tested and works fine. The Whirlpool looooooves IPS.EXE.</info>
+    <patch crc="7D7C4BE9" name="Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/631/</url>
+      <patch_id>631</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/pokecrd2.gif</image>
+    </patch>
+    <rom crc="6c933a14" md5="1134862e84110443190df460351d4575" name="Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!].gbc"/>
+  </game>
+  <game name="636 - Arle no Bouken - Mahou no Jewel (J) [C][!]">
+    <description>Arle no Bouken - Mahou no Jewel (J) [C][!]</description>
+    <info>Some menus are done, but that&amp;#8217;s it. I&amp;#8217;d go with the PokeUSA translation for now.</info>
+    <patch crc="A179C60E" name="Arle no Bouken - Mahou no Jewel (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/636/</url>
+      <patch_id>636</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/636titlescreen.png</image>
+    </patch>
+    <rom crc="8ee043ea" md5="9abaf0dfeb58b76d6b5cce4b42756c8e" name="Arle no Bouken - Mahou no Jewel (J) [C][!].gbc"/>
+  </game>
+  <game name="644 - Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!]">
+    <description>Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!]</description>
+    <info>The training game is translated; outside of that, there&amp;#8217;s not really anything. Try this patch first if you don&amp;#8217;t know how to play (which, of course, is preposterous), but don&amp;#8217;t play it forever, because there ARE some fatal crash bugs present in this translation.</info>
+    <patch crc="AFDE901" name="Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/644/</url>
+      <patch_id>644</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/644titlescreen.png</image>
+    </patch>
+    <rom crc="6c933a14" md5="1134862e84110443190df460351d4575" name="Pokemon Card GB2 - GR Dan Sanjou! (J) [C][!].gbc"/>
+  </game>
+  <game name="653 - Penta Dragon (Japan)">
+    <description>Penta Dragon (Japan)</description>
+    <info>The text behaves nicely and the grammar/spelling is good.</info>
+    <patch crc="71E48C53" name="Penta Dragon (Japan).ips">
+      <url>https://www.romhacking.net/translations/653/</url>
+      <patch_id>653</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/503Penta Dragon.png</image>
+    </patch>
+    <rom crc="1E2EFAEE" md5="DF43E0ADFDC74B2829C7E95E91C71A28" name="Penta Dragon (Japan).gb" sha1="FD75D43258E79F14D104FB4756E219141882C837"/>
+  </game>
+  <game name="654 - Ultraman Ball (Japan) (SGB Enhanced)">
+    <description>Ultraman Ball (Japan) (SGB Enhanced)</description>
+    <info>Everything&amp;#8217;s complete except for the SGB border and the ending credits. Both are entirely possible to translate, but InVerse just doesn&amp;#8217;t want to. Cool.</info>
+    <patch crc="9A031DBF" name="Ultraman Ball (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/654/</url>
+      <patch_id>654</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/504titlescreen.png</image>
+    </patch>
+    <rom crc="468D1A2E" md5="90A0BC783FBE56748989D8FAD9AE48ED" name="Ultraman Ball (Japan) (SGB Enhanced).gb" sha1="3CDFCFB1A88D0CBFEB1C7B12751409FAF69BBA02"/>
+  </game>
+  <game name="664 - Shin Megami Tensei Devil Children - Kuro no Shou (J) [C][!]">
+    <description>Shin Megami Tensei Devil Children - Kuro no Shou (J) [C][!]</description>
+    <info>Some menus are done, as well as a few lines of dialogue. Shadowsithe has now stopped his solo effort and is working on the game with RPGONE.</info>
+    <patch crc="CAB8E13F" name="Shin Megami Tensei Devil Children - Kuro no Shou (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/664/</url>
+      <patch_id>664</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/514titlescreen.gif</image>
+    </patch>
+    <rom crc="55b9af51" md5="158691457cb7365cafbd0b7bb230fadf" name="Shin Megami Tensei Devil Children - Kuro no Shou (J) [C][!].gbc"/>
+  </game>
+  <game name="702 - Arle no Bouken - Mahou no Jewel (J) [C][!]">
+    <description>Arle no Bouken - Mahou no Jewel (J) [C][!]</description>
+    <info>The intro is (poorly) done, but that&amp;#8217;s all.</info>
+    <patch crc="56A9F659" name="Arle no Bouken - Mahou no Jewel (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/702/</url>
+      <patch_id>702</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/702titlescreen.png</image>
+    </patch>
+    <rom crc="8ee043ea" md5="9abaf0dfeb58b76d6b5cce4b42756c8e" name="Arle no Bouken - Mahou no Jewel (J) [C][!].gbc"/>
+  </game>
+  <game name="742 - Zettai Muteki Raijin-Oh (Japan)">
+    <description>Zettai Muteki Raijin-Oh (Japan)</description>
+    <info>The translation is good; from beginning to end, no errors or freaky stuff was witnessed by myself, and the dialogue is nicely coherent.</info>
+    <patch crc="375DAFD0" name="Zettai Muteki Raijin-Oh (Japan).ips">
+      <url>https://www.romhacking.net/translations/742/</url>
+      <patch_id>742</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/742titlescreen.png</image>
+    </patch>
+    <rom crc="7D03727D" md5="E870BCCBC307FB32228FA8E4545EDF35" name="Zettai Muteki Raijin-Oh (Japan).gb" sha1="6269CA535EEA41F4BCFEF99F512F435DAF06C6E3"/>
+  </game>
+  <game name="753 - Daiku no Gensan - Kachikachi no Tonkachi ga Kachi (J) [C][!]">
+    <description>Daiku no Gensan - Kachikachi no Tonkachi ga Kachi (J) [C][!]</description>
+    <info>This translation looks &lt;span class="italic"&gt;really&lt;/span&gt; good&amp;#8230; mostly because all the text is stored as graphics. Still, though&amp;#8230; excellent work.</info>
+    <patch crc="F84E66FE" name="Daiku no Gensan - Kachikachi no Tonkachi ga Kachi (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/753/</url>
+      <patch_id>753</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/753titlescreen.gif</image>
+    </patch>
+    <rom crc="e2071293" md5="7455ea4fb9bc8ac752b4e43fd6864b7f" name="Daiku no Gensan - Kachikachi no Tonkachi ga Kachi (J) [C][!].gbc"/>
+  </game>
+  <game name="754 - Super Bikkuriman - Densetsu no Sekiban (Japan)">
+    <description>Super Bikkuriman - Densetsu no Sekiban (Japan)</description>
+    <info>Not much needed translating, aside from between-level story stuff and the title screen. But it&amp;#8217;s done &lt;span class="italic"&gt;very nicely&lt;/span&gt;.</info>
+    <patch crc="3FF19E06" name="Super Bikkuriman - Densetsu no Sekiban (Japan).ips">
+      <url>https://www.romhacking.net/translations/754/</url>
+      <patch_id>754</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/754titlescreen.gif</image>
+    </patch>
+    <rom crc="C1E1A041" md5="42F06D0E5FA65BF245F52249385B94A6" name="Super Bikkuriman - Densetsu no Sekiban (Japan).gb" sha1="B7DAC857947FCE1069145A1F5D560C26AA3C8F42"/>
+  </game>
+  <game name="762 - Ottifanten - Kommando Stoertebeker (G) [C][!]">
+    <description>Ottifanten - Kommando Stoertebeker (G) [C][!]</description>
+    <info>This is built off of the Matrix Arcade Division patch. It supposedly fixes a few bugs, but the &amp;#8220;Spiel Ende&amp;#8221; thingy is still there. No big deal though, it&amp;#8217;s not like that phrase is tough to figure out or anything.</info>
+    <patch crc="9C15DE1F" name="Ottifanten - Kommando Stoertebeker (G) [C][!].ips">
+      <url>https://www.romhacking.net/translations/762/</url>
+      <patch_id>762</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/otti.png</image>
+    </patch>
+    <rom crc="3eac3d1c" md5="4713c80f75168f12d7582e63abb6edef" name="Ottifanten - Kommando Stoertebeker (G) [C][!].gbc"/>
+  </game>
+  <game name="763 - Metal Slug (Unl) [C]">
+    <description>Metal Slug (Unl) [C]</description>
+    <info>It&amp;#8217;s complete! There&amp;#8217;s a nice-looking new title screen, and all the between-level text has been translated from Chinese to English. Rejoice! Pay no mind to the fact that the game crashes after you finish it; that&amp;#8217;s just typical half-assed pirate programming at work.</info>
+    <patch crc="B1272428" name="Metal Slug (Unl) [C].ips">
+      <url>https://www.romhacking.net/translations/763/</url>
+      <patch_id>763</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/763titlescreen.png</image>
+    </patch>
+    <rom crc="8ef044b2" md5="df9fcff1e926b27de4ea8abf34f081e8" name="Metal Slug (Unl) [C].gbc"/>
+  </game>
+  <game name="819 - Block Kuzushi GB (Japan) (SGB Enhanced)">
+    <description>Block Kuzushi GB (Japan) (SGB Enhanced)</description>
+    <info>The translation is complete!  Pentarou&amp;#8217;s technical work looks very slick, and the English text doesn&amp;#8217;t look constrained at all.  There are the occasional odd sentences and punctuation issues, but Al LaPrade&amp;#8217;s translation fits nicely with the oddball tone of the story.</info>
+    <patch crc="485349E2" name="Block Kuzushi GB (Japan) (SGB Enhanced).ips">
+      <url>https://www.romhacking.net/translations/819/</url>
+      <patch_id>819</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/623titlescreen.png</image>
+    </patch>
+    <rom crc="54B67501" md5="55EF8421492242C2726E355C41AEF000" name="Block Kuzushi GB (Japan) (SGB Enhanced).gb" sha1="7540FE9AF69D8C7D48F50C2D5FE6D3CE07421F74"/>
+  </game>
+  <game name="857 - Funk the 9 Ball (J) [C][!]">
+    <description>Funk the 9 Ball (J) [C][!]</description>
+    <info>So far Philip Reuben&amp;#8217;s done a really good job at translating this game. There&amp;#8217;s little space in the screen for text and it looks like it&amp;#8217;s giving him a hard time, but there are literally no errors in the text and everything looks pretty neat so far. The readme states the stuff that isn&amp;#8217;t translated, and while it is bothersome, it&amp;#8217;s not anything that will stop you from being able to enjoy this game.</info>
+    <patch crc="47DB12EB" name="Funk the 9 Ball (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/857/</url>
+      <patch_id>857</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/664titlescreen.png</image>
+    </patch>
+    <rom crc="3b46e7c9" md5="5b5f4bbec087abc00ce1f834a86bdae3" name="Funk the 9 Ball (J) [C][!].gbc"/>
+  </game>
+  <game name="9 - Arle no Bouken - Mahou no Jewel (J) [C][!]">
+    <description>Arle no Bouken - Mahou no Jewel (J) [C][!]</description>
+    <info>Okay, maybe this patch doesn&amp;#8217;t have much English, but it&amp;#8217;s definitely of somewhat higher quality. For one thing, you can tell the dialog isn&amp;#8217;t made up, and for another, the spelling and grammar are halfway decent. Unfortunately, there are some problems with the naming screen (the inputs are off by two characters in some spots&amp;#8211;pushing &amp;#8216;v&amp;#8217; inputs a &amp;#8216;t&amp;#8217;, for instance), but you can look past that.</info>
+    <patch crc="81ADF32F" name="Arle no Bouken - Mahou no Jewel (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/9/</url>
+      <patch_id>9</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/9titlescreen.png</image>
+    </patch>
+    <rom crc="8ee043ea" md5="9abaf0dfeb58b76d6b5cce4b42756c8e" name="Arle no Bouken - Mahou no Jewel (J) [C][!].gbc"/>
+  </game>
+  <game name="940 - Gameboy Wars 3 (J) [C][!]">
+    <description>Gameboy Wars 3 (J) [C][!]</description>
+    <info>Well, there&amp;#8217;s not much to say about this patch. It translates the main menu and that&amp;#8217;s about it.</info>
+    <patch crc="8B0D99F9" name="Gameboy Wars 3 (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/940/</url>
+      <patch_id>940</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/860titlescreen.PNG</image>
+    </patch>
+    <rom crc="30c26262" md5="748fa9419b35c0e8e43509457aaa1efa" name="Gameboy Wars 3 (J) [C][!].gbc"/>
+  </game>
+  <game name="957 - Snowboard Champion (J) [C][!]">
+    <description>Snowboard Champion (J) [C][!]</description>
+    <info>All non dialog is translated excluding parts of the password function screens. No character dialog is done. The author has abandoned the project as far as I can tell.</info>
+    <patch crc="C9CA0450" name="Snowboard Champion (J) [C][!].ips">
+      <url>https://www.romhacking.net/translations/957/</url>
+      <patch_id>957</patch_id>
+      <image>https://www.romhacking.net/translations/gameboy/images/titles/406titlescreen.png</image>
+    </patch>
+    <rom crc="846fea2b" md5="78f920f4e9174cd3382294129d30f373" name="Snowboard Champion (J) [C][!].gbc"/>
+  </game>
+</datafile>

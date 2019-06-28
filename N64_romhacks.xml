@@ -1,0 +1,173 @@
+<datafile>
+  <game name="1339 - 007 - GoldenEye (USA)">
+    <description>007 - GoldenEye (USA)</description>
+    <info>Category	</info>
+    <patch crc="90825B89" name="007 - GoldenEye (USA).ips">
+      <url>https://www.romhacking.net/hacks/1339/</url>
+      <patch_id>1339</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/974titlescreen.png</image>
+    </patch>
+    <rom crc="B6330846" md5="70C525880240C1E838B8B1BE35666C3B" name="007 - GoldenEye (USA).z64" sha1="ABE01E4AEB033B6C0836819F549C791B26CFDE83"/>
+  </game>
+  <game name="1487 - F-Zero X (USA)">
+    <description>F-Zero X (USA)</description>
+    <info>This hack replaces all GFX, textures and circuits F-Zero X.</info>
+    <patch crc="8D53AAC7" name="F-Zero X (USA).ips">
+      <url>https://www.romhacking.net/hacks/1487/</url>
+      <patch_id>1487</patch_id>
+      <image>https://www.romhacking.net/hacks/n64/images/titles/1487titlescreen.jpg</image>
+    </patch>
+    <rom crc="0B561FBA" md5="753437D0D8ADA1D12F3F9CF0F0A5171F" name="F-Zero X (USA).z64" sha1="5F658E88FFA9DE23CBA6986A8FD3D3A90D7B4340"/>
+  </game>
+  <game name="1600 - 007 - GoldenEye (USA)">
+    <description>007 - GoldenEye (USA)</description>
+    <info>This is a multiplayer modification for GoldenEye 007 that replaces ten of the original levels with modified versions of some Counter-Strike classics. There are also new custom intro logos during the opening titles.</info>
+    <patch crc="2ACAE1CD" name="007 - GoldenEye (USA).ips">
+      <url>https://www.romhacking.net/hacks/1600/</url>
+      <patch_id>1600</patch_id>
+      <image>https://www.romhacking.net/hacks/n64/images/titles/1600titlescreen.jpg</image>
+    </patch>
+    <rom crc="B6330846" md5="70C525880240C1E838B8B1BE35666C3B" name="007 - GoldenEye (USA).z64" sha1="ABE01E4AEB033B6C0836819F549C791B26CFDE83"/>
+  </game>
+  <game name="198 - 007 - GoldenEye (USA)">
+    <description>007 - GoldenEye (USA)</description>
+    <info>Citadel was one of the greatest mysteries to come out of Goldeneye, and after Krijy found it, we all wanted to play&amp;#8230;but it had no clipping. Zoinkity has painstakingly, by hand, through immeasurable difficulty and time, added clipping&amp;#8230;and not only that, worked with us to give the level an actual image, allow the level to be played and exited and replayed, added weapons, everything&amp;#8230;this thing comes fully loaded.</info>
+    <patch crc="B8D14151" name="007 - GoldenEye (USA).ips">
+      <url>https://www.romhacking.net/hacks/198/</url>
+      <patch_id>198</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/974titlescreen.png</image>
+    </patch>
+    <rom crc="B6330846" md5="70C525880240C1E838B8B1BE35666C3B" name="007 - GoldenEye (USA).z64" sha1="ABE01E4AEB033B6C0836819F549C791B26CFDE83"/>
+  </game>
+  <game name="230 - 007 - GoldenEye (USA)">
+    <description>007 - GoldenEye (USA)</description>
+    <info>This is a new Tetris-themed multiplayer map for Goldeneye 007, it replaces Facility. Use the IPS patch on a clean Goldeneye 007 ROM in .z64 format. The other files in the archive can be ignored if you simply want to try the map, they are for use with the Goldeneye Setup Editor.</info>
+    <patch crc="97A40EAC" name="007 - GoldenEye (USA).ips">
+      <url>https://www.romhacking.net/hacks/230/</url>
+      <patch_id>230</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/974titlescreen.png</image>
+    </patch>
+    <rom crc="B6330846" md5="70C525880240C1E838B8B1BE35666C3B" name="007 - GoldenEye (USA).z64" sha1="ABE01E4AEB033B6C0836819F549C791B26CFDE83"/>
+  </game>
+  <game name="231 - 007 - GoldenEye (USA)">
+    <description>007 - GoldenEye (USA)</description>
+    <info>This is a port of the G5 Building multiplayer map from Perfect Dark, it replaces Archives. Use the IPS patch on a clean Goldeneye 007 ROM in .z64 format. This map is fully compatible with backup devices.</info>
+    <patch crc="65C76536" name="007 - GoldenEye (USA).ips">
+      <url>https://www.romhacking.net/hacks/231/</url>
+      <patch_id>231</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/974titlescreen.png</image>
+    </patch>
+    <rom crc="B6330846" md5="70C525880240C1E838B8B1BE35666C3B" name="007 - GoldenEye (USA).z64" sha1="ABE01E4AEB033B6C0836819F549C791B26CFDE83"/>
+  </game>
+  <game name="2325 - Tower&amp;Shaft (Aleck64)">
+    <description>Tower&amp;Shaft (Aleck64)</description>
+    <info>Tower &amp;#038; Shaft N64 Conversion Patch</info>
+    <patch crc="2144DF1C" name="Tower&amp;Shaft (Aleck64).ips">
+      <url>https://www.romhacking.net/hacks/2325/</url>
+      <patch_id>2325</patch_id>
+      <image>https://www.romhacking.net/hacks/n64/images/titles/2325titlescreen.png</image>
+    </patch>
+    <rom crc="01ae917a" md5="3cbb8012f1256a37d5284a85b859cc8b" name="Tower&amp;Shaft (Aleck64).z64"/>
+  </game>
+  <game name="2326 - Kuru Kuru Fever (Aleck64)">
+    <description>Kuru Kuru Fever (Aleck64)</description>
+    <info>Kuru Kuru Fever Retail N64 Hack</info>
+    <patch crc="2144DF1C" name="Kuru Kuru Fever (Aleck64).ips">
+      <url>https://www.romhacking.net/hacks/2326/</url>
+      <patch_id>2326</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/2245titlescreen.png</image>
+    </patch>
+    <rom crc="f2481802" md5="3e2ad600bd89b21531f59a84839fe732" name="Kuru Kuru Fever (Aleck64).z64"/>
+  </game>
+  <game name="2327 - Donchan Puzzle Hanabi de Doon! (Aleck64)">
+    <description>Donchan Puzzle Hanabi de Doon! (Aleck64)</description>
+    <info>Hanabi de Doon! Don-chan Puzzle Retail N64 Hack</info>
+    <patch crc="2144DF1C" name="Donchan Puzzle Hanabi de Doon! (Aleck64).ips">
+      <url>https://www.romhacking.net/hacks/2327/</url>
+      <patch_id>2327</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/2246titlescreen.png</image>
+    </patch>
+    <rom crc="cb3bf444" md5="3141a1ee8dcde0f772e915e629823f13" name="Donchan Puzzle Hanabi de Doon! (Aleck64).z64"/>
+  </game>
+  <game name="2962 - Legend of Zelda, The - Majora's Mask (USA) (GameCube Edition)">
+    <description>Legend of Zelda, The - Majora's Mask (USA) (GameCube Edition)</description>
+    <info>This is a patch to revert all of the cosmetic changes, emulation related changes, misc bugs/glitches, and various censorship changes for the Legend of Zelda: Majora’s Mask Gamecube roms for use on real N64 consoles.</info>
+    <patch crc="2144DF1C" name="Legend of Zelda, The - Majora's Mask (USA) (GameCube Edition).bps">
+      <url>https://www.romhacking.net/hacks/2962/</url>
+      <patch_id>2962</patch_id>
+      <image>https://www.romhacking.net/hacks/n64/images/titles/2962titlescreen.png</image>
+    </patch>
+    <rom crc="B008458F" md5="AC0751DBC23AB2EC0C3144203ACA0003" name="Legend of Zelda, The - Majora's Mask (USA) (GameCube Edition).z64" sha1="9743AA026E9269B339EB0E3044CD5830A440C1FD"/>
+  </game>
+  <game name="320 - 007 - GoldenEye (USA)">
+    <description>007 - GoldenEye (USA)</description>
+    <info>This is a brand new mission that takes place in the Silo. While the map is the same as the original the mission plays entirely differently, it involves rescuing hostages and preventing the missiles from being launched. The difficulty should be about right for anyone experienced with the game, it’s not as hard as the later missions but not as easy as the earlier ones.</info>
+    <patch crc="8EC8A8F" name="007 - GoldenEye (USA).ips">
+      <url>https://www.romhacking.net/hacks/320/</url>
+      <patch_id>320</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/974titlescreen.png</image>
+    </patch>
+    <rom crc="B6330846" md5="70C525880240C1E838B8B1BE35666C3B" name="007 - GoldenEye (USA).z64" sha1="ABE01E4AEB033B6C0836819F549C791B26CFDE83"/>
+  </game>
+  <game name="3290 - Rakuga Kids (Europe)">
+    <description>Rakuga Kids (Europe)</description>
+    <info>Rakuga Kids PAL to All Regions Patch</info>
+    <patch crc="62B04F83" name="Rakuga Kids (Europe).ips">
+      <url>https://www.romhacking.net/hacks/3290/</url>
+      <patch_id>3290</patch_id>
+      <image>https://www.romhacking.net/hacks/n64/images/titles/3290titlescreen.jpg</image>
+    </patch>
+    <rom crc="483129AA" md5="167A3502F06CF0EEF56758533F3D0E52" name="Rakuga Kids (Europe).z64" sha1="A2846CB316DC980DD0040CA95C20ABFC8CCCE212"/>
+  </game>
+  <game name="539 - 40 Winks (Europe) (En,Es,It) (Proto) (07.10.1999)">
+    <description>40 Winks (Europe) (En,Es,It) (Proto) (07.10.1999)</description>
+    <info>40 Winks was an unreleased game on the N64.  Existing copies will display a message:
+“This game can not be played on this system”</info>
+    <patch crc="B214B749" name="40 Winks (Europe) (En,Es,It) (Proto) (07.10.1999).ips">
+      <url>https://www.romhacking.net/hacks/539/</url>
+      <patch_id>539</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/1283titlescreen.png</image>
+    </patch>
+    <rom crc="7E718143" md5="0A5ACFEA0C7CF68AE25202040D5AD1EB" name="40 Winks (Europe) (En,Es,It) (Proto) (07.10.1999).z64" sha1="3774E87AA383220060D330314F2C5BBB872F72CE"/>
+  </game>
+  <game name="774 - F-Zero X (USA)">
+    <description>F-Zero X (USA)</description>
+    <info>All original F-Zero X tracks were replaced with this track pack called &amp;#8220;F-Zero X 2nd Boost&amp;#8221;. Made with the F-Zero X Track Editor.</info>
+    <patch crc="DD9B389F" name="F-Zero X (USA).ips">
+      <url>https://www.romhacking.net/hacks/774/</url>
+      <patch_id>774</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/1008titlescreen.png</image>
+    </patch>
+    <rom crc="0B561FBA" md5="753437D0D8ADA1D12F3F9CF0F0A5171F" name="F-Zero X (USA).z64" sha1="5F658E88FFA9DE23CBA6986A8FD3D3A90D7B4340"/>
+  </game>
+  <game name="775 - F-Zero X (USA)">
+    <description>F-Zero X (USA)</description>
+    <info>All original F-Zero X tracks were replaced with this track pack called &amp;#8220;F-Zero X New Lap&amp;#8221;. Made with the F-Zero X Track Editor.</info>
+    <patch crc="46EB371E" name="F-Zero X (USA).ips">
+      <url>https://www.romhacking.net/hacks/775/</url>
+      <patch_id>775</patch_id>
+      <image>https://www.romhacking.net/translations/n64/images/titles/1008titlescreen.png</image>
+    </patch>
+    <rom crc="0B561FBA" md5="753437D0D8ADA1D12F3F9CF0F0A5171F" name="F-Zero X (USA).z64" sha1="5F658E88FFA9DE23CBA6986A8FD3D3A90D7B4340"/>
+  </game>
+  <game name="949 - F-Zero X (USA)">
+    <description>F-Zero X (USA)</description>
+    <info>The author finally got around getting all his tracks from the F-Zero X Expansion Kit to the FZEP Track Editor.</info>
+    <patch crc="E1F7DDB8" name="F-Zero X (USA).ips">
+      <url>https://www.romhacking.net/hacks/949/</url>
+      <patch_id>949</patch_id>
+      <image>https://www.romhacking.net/hacks/n64/images/titles/949titlescreen.jpg</image>
+    </patch>
+    <rom crc="0B561FBA" md5="753437D0D8ADA1D12F3F9CF0F0A5171F" name="F-Zero X (USA).z64" sha1="5F658E88FFA9DE23CBA6986A8FD3D3A90D7B4340"/>
+  </game>
+  <game name="950 - F-Zero X (USA)">
+    <description>F-Zero X (USA)</description>
+    <info>The author finally got around getting all his tracks from the F-Zero X Expansion Kit to the FZEP Track Editor.</info>
+    <patch crc="8887514D" name="F-Zero X (USA).ips">
+      <url>https://www.romhacking.net/hacks/950/</url>
+      <patch_id>950</patch_id>
+      <image>https://www.romhacking.net/hacks/n64/images/titles/950titlescreen.jpg</image>
+    </patch>
+    <rom crc="0B561FBA" md5="753437D0D8ADA1D12F3F9CF0F0A5171F" name="F-Zero X (USA).z64" sha1="5F658E88FFA9DE23CBA6986A8FD3D3A90D7B4340"/>
+  </game>
+</datafile>

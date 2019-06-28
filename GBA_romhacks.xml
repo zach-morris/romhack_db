@@ -1,0 +1,822 @@
+<datafile>
+  <game name="1086 - Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>Final Fantasy VI Advance, as of this writing, has two important patches that are exclusive to the European retail release. However, the 8×8 menu font featured in said version is unattractive. Its  slimness isn&amp;#8217;t the main issue; rather, it&amp;#8217;s in in how uneven some of the letters are. Adding to that, the small typeface can be hard to read for some. Therefore, this two-patch package was created to beautify the original thin font, as well as widen it a little in the vein of the US version.</info>
+    <patch crc="BF63C1D4" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/1086/</url>
+      <patch_id>1086</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D15DEBA5" md5="7F6BF3B4D84F113AA454136E5B53FD77" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).gba" sha1="C5B27ED0870EA64E6A001C5BC367F76571ACE973"/>
+  </game>
+  <game name="130 - Tales of Phantasia (Europe) (En,Fr,De,Es,It)">
+    <description>Tales of Phantasia (Europe) (En,Fr,De,Es,It)</description>
+    <info>The European release of Tales of Phantasia was surprising, they actually took the time to clarify the voice acting, clean up some of the menus, restore the brighter graphics from the Japanese version, and a few other minor things. It seemed perfect but there&amp;#8217;s always a catch, the menu font was a hideous all caps 5&amp;#215;8 monstrosity. The patch eliminates that wretched thing and even cleans up some of the games larger fonts.</info>
+    <patch crc="E76E4A04" name="Tales of Phantasia (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/130/</url>
+      <patch_id>130</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/top.png</image>
+    </patch>
+    <rom crc="FA172A4A" md5="C3439DFD940ADEAB78B4F9D13599FD49" name="Tales of Phantasia (Europe) (En,Fr,De,Es,It).gba" sha1="2CC3C21C99C48DC445F499E6CC8AA9B90B2C795B"/>
+  </game>
+  <game name="139 - Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>This is a port of &lt;a href="http://www.romhacking.net/hacks/85/"&gt;Dragonsbrethren&amp;#8217;s stripper/dancer restoration hack&lt;/a&gt; to the European version of Final Fantasy IV Advance. The European version allows you to play in five languages (English, German, French, Italian, Spanish) and fixes a few of the bugs that plagued the US version.</info>
+    <patch crc="63FE3DCD" name="Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/139/</url>
+      <patch_id>139</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/817titlescreen.png</image>
+    </patch>
+    <rom crc="27F2BC67" md5="2FF590AA635590C2F8140C88CBB19025" name="Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It).gba" sha1="B09D50D782B184C8641AEA6DD904AE46C3CC72E6"/>
+  </game>
+  <game name="153 - Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>The European version of Final Fantasy IV Advance offers a few benefits over the US release including smoother, more stable battles and a number of bug fixes. This patch makes the tiny font, which looks fine on a GBA, a little wider to make it readable on my Game Boy Player.</info>
+    <patch crc="A6797FA2" name="Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/153/</url>
+      <patch_id>153</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/817titlescreen.png</image>
+    </patch>
+    <rom crc="27F2BC67" md5="2FF590AA635590C2F8140C88CBB19025" name="Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It).gba" sha1="B09D50D782B184C8641AEA6DD904AE46C3CC72E6"/>
+  </game>
+  <game name="1605 - Pokemon - FireRed Version (USA, Europe) (Rev 1)">
+    <description>Pokemon - FireRed Version (USA, Europe) (Rev 1)</description>
+    <info>Don&amp;#8217;t think this is gonna be a 100% Gold Remake, it&amp;#8217;ll have its differences. Extra battles (some&amp;#8217;ll be optionals, tough but rewarding), Hoenn Pokemon (in every area, and hard to find)
+New areas, Remapped some dungeons (so your old guides wont work) , Extra recurring characters (some&amp;#8217;ll hate you, some&amp;#8217;ll help you)</info>
+    <patch crc="DA3F07C2" name="Pokemon - FireRed Version (USA, Europe) (Rev 1).ips">
+      <url>https://www.romhacking.net/hacks/1605/</url>
+      <patch_id>1605</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/1605titlescreen.png</image>
+    </patch>
+    <rom crc="84EE4776" md5="51901A6E40661B3914AA333C802E24E8" name="Pokemon - FireRed Version (USA, Europe) (Rev 1).gba" sha1="DD5945DB9B930750CB39D00C84DA8571FEEBF417"/>
+  </game>
+  <game name="1626 - Final Fantasy VI Advance (Japan)">
+    <description>Final Fantasy VI Advance (Japan)</description>
+    <info>The introductory scene for Celes was toned down for the Game Boy Advance release of Final Fantasy VI. In previous versions, Celes would endure several blows from a soldier before collapsing to the ground, and Locke would thereafter find her shackled to the wall. Under the constraints of censorship, the deposed general is no longer subjected to the torture, and is merely taunted by her captors. Despite that, she still slumps to the floor, and remains in that position until her rescue.</info>
+    <patch crc="B10F0120" name="Final Fantasy VI Advance (Japan).ips">
+      <url>https://www.romhacking.net/hacks/1626/</url>
+      <patch_id>1626</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D67478FE" md5="09DAF6531DED19B7921367084E439B2F" name="Final Fantasy VI Advance (Japan).gba" sha1="1850FEDDE7305C4BAF42E0594AAABE17C549D7E2"/>
+  </game>
+  <game name="1668 - Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan)">
+    <description>Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan)</description>
+    <info>This hack makes the game more like how Spike would have done it if they weren&amp;#8217;t forced to censor some of the MMA fighters along with all the WWE, WCW and ECW wrestlers because of legal issues they had with WWE and UFC back then. </info>
+    <patch crc="1EF4A4BA" name="Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan).ips">
+      <url>https://www.romhacking.net/hacks/1668/</url>
+      <patch_id>1668</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/624titlescreen.png</image>
+    </patch>
+    <rom crc="A0093822" md5="C4777D142E1A0427FB78B5167497D471" name="Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan).gba" sha1="4894C960C64B4F2D250E054FFD5D6971940C3B17"/>
+  </game>
+  <game name="1710 - Breath of Fire (USA)">
+    <description>Breath of Fire (USA)</description>
+    <info>The first in the Breath of Fire series is the only entry that still uses outdated terms, such as Bleu and Tyr as opposed to Deis and Myria. In addition, the script is rather bare-bones, full of unnecessary abbreviations, and at times, it&amp;#8217;s difficult to discern speakers during cutscenes.</info>
+    <patch crc="F9E9FFF5" name="Breath of Fire (USA).ips">
+      <url>https://www.romhacking.net/hacks/1710/</url>
+      <patch_id>1710</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1737titlescreen.jpg</image>
+    </patch>
+    <rom crc="F06422A8" md5="17A32CFA3D0A5C74F914281EF55C75CD" name="Breath of Fire (USA).gba" sha1="B30533F68037B47D5439BAB0182169E4A643A38D"/>
+  </game>
+  <game name="1947 - Pokemon - Emerald Version (USA, Europe)">
+    <description>Pokemon - Emerald Version (USA, Europe)</description>
+    <info>This hack of Pokemon Emerald is intended for playing the game on an emulator or nuzlocke purposes. All it pertains to is getting the entire Hoenn Dex (not the National Dex, the same roster is available in that case) without trading and a couple slight modifications to make life easier.</info>
+    <patch crc="8C539E3F" name="Pokemon - Emerald Version (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/1947/</url>
+      <patch_id>1947</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1912titlescreen.png</image>
+    </patch>
+    <rom crc="1F1C08FB" md5="605B89B67018ABCEA91E693A4DD25BE3" name="Pokemon - Emerald Version (USA, Europe).gba" sha1="F3AE088181BF583E55DAF962A92BB46F4F1D07B7"/>
+  </game>
+  <game name="1981 - Pokemon - FireRed Version (USA)">
+    <description>Pokemon - FireRed Version (USA)</description>
+    <info>Pokémon Throwback is a hack created to serve as the definitive version of the original Kanto journey. Based off of Pokémon FireRed, Throwback includes a bevy of features and fixes to make it worth using over the base games.</info>
+    <patch crc="BF49F0D4" name="Pokemon - FireRed Version (USA).ips">
+      <url>https://www.romhacking.net/hacks/1981/</url>
+      <patch_id>1981</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/1981titlescreen.png</image>
+    </patch>
+    <rom crc="DD88761C" md5="E26EE0D44E809351C8CE2D73C7400CDD" name="Pokemon - FireRed Version (USA).gba" sha1="41CB23D8DCCC8EBD7C649CD8FBB58EEACE6E2FDC"/>
+  </game>
+  <game name="1982 - Super Street Fighter II Turbo - Revival (USA)">
+    <description>Super Street Fighter II Turbo - Revival (USA)</description>
+    <info>A small patch which fixes a few bugs for both the EUR and USA releases of Super Street Fighter II Turbo Revival. The infamous &amp;#8220;Akuma glitch&amp;#8221; has been fixed, and the win quotes for Balrog, Vega and M.Bison have been corrected as well.</info>
+    <patch crc="A194D837" name="Super Street Fighter II Turbo - Revival (USA).ips">
+      <url>https://www.romhacking.net/hacks/1982/</url>
+      <patch_id>1982</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/1982titlescreen.png</image>
+    </patch>
+    <rom crc="063045AA" md5="7A36A7486EF2C534111EE417B8ACF9B7" name="Super Street Fighter II Turbo - Revival (USA).gba" sha1="00B0508E2774D0BBCB8F0994766CB362E62D7537"/>
+  </game>
+  <game name="1991 - Pokemon - Emerald Version (USA, Europe)">
+    <description>Pokemon - Emerald Version (USA, Europe)</description>
+    <info>This is a further modified version of &lt;a href="http://www.romhacking.net/hacks/1947/"&gt;Pokemon Emerald: Complete Hoenn Dex Edition&lt;/a&gt; (please note that this is a standalone patch.  Use a clean ROM for this hack) intended to enable the entire Pokemon roster of Emerald&amp;#8217;s generation. The priority is given to expansion over difficulty, resulting in a curve that is the same as Emerald in most parts, perhaps a little more difficult in some parts due to shifting trainers&amp;#8217; Pokemon and movesets around.</info>
+    <patch crc="2299EF29" name="Pokemon - Emerald Version (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/1991/</url>
+      <patch_id>1991</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1912titlescreen.png</image>
+    </patch>
+    <rom crc="1F1C08FB" md5="605B89B67018ABCEA91E693A4DD25BE3" name="Pokemon - Emerald Version (USA, Europe).gba" sha1="F3AE088181BF583E55DAF962A92BB46F4F1D07B7"/>
+  </game>
+  <game name="2078 - Final Fantasy Tactics Advance (USA)">
+    <description>Final Fantasy Tactics Advance (USA)</description>
+    <info>This collection of patches is full of edits to your starting setup in the game.</info>
+    <patch crc="E4A7539E" name="Final Fantasy Tactics Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/2078/</url>
+      <patch_id>2078</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1419titlescreen.png</image>
+    </patch>
+    <rom crc="5645E56C" md5="CD99CDDE3D45554C1B36FBEB8863B7BD" name="Final Fantasy Tactics Advance (USA).gba" sha1="4AC05441F4DE70A4EC3DD932116346C61B8783D9"/>
+  </game>
+  <game name="2124 - Super Mario Advance (USA, Europe)">
+    <description>Super Mario Advance (USA, Europe)</description>
+    <info>This is a full color restoration for Super Mario Advance Enjoy!</info>
+    <patch crc="DFAAC331" name="Super Mario Advance (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2124/</url>
+      <patch_id>2124</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2124titlescreen.png</image>
+    </patch>
+    <rom crc="1E4C6D6A" md5="FF6B0C48065389B888C7A78731D4B58D" name="Super Mario Advance (USA, Europe).gba" sha1="F071D45D8F5CB05B48D7D2B804C6CB6A79AD96FB"/>
+  </game>
+  <game name="221 - Metroid - Zero Mission (USA)">
+    <description>Metroid - Zero Mission (USA)</description>
+    <info>This is my first ASM hack. At the start of the game it messes up some graphics. To fix it, as soon as you can move Samus, just start then go back to the game to play.</info>
+    <patch crc="D947BF1B" name="Metroid - Zero Mission (USA).ips">
+      <url>https://www.romhacking.net/hacks/221/</url>
+      <patch_id>221</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/788titlescreen.png</image>
+    </patch>
+    <rom crc="5C61A844" md5="EBBCE58109988B6DA61EBB06C7A432D5" name="Metroid - Zero Mission (USA).gba" sha1="5DE8536AFE1F0078EE6FE1089F890E8C7AA0A6E8"/>
+  </game>
+  <game name="2264 - Mega Man Battle Network 4 - Red Sun (USA)">
+    <description>Mega Man Battle Network 4 - Red Sun (USA)</description>
+    <info>A simple patch for both US releases of Blue Moon and Red Sun. It fixes a few glitches and typos in Battle Network 4, such as the various Navi chip freezes and the WoodMan scenario glitch. Check the changelog for the full list of changes.</info>
+    <patch crc="24994DF1" name="Mega Man Battle Network 4 - Red Sun (USA).ips">
+      <url>https://www.romhacking.net/hacks/2264/</url>
+      <patch_id>2264</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2264titlescreen.png</image>
+    </patch>
+    <rom crc="2120695C" md5="D0DEE5C06972CB072391CD968A248D52" name="Mega Man Battle Network 4 - Red Sun (USA).gba" sha1="A97E96A7DA03ABD70F7953328E511B9FA29179F1"/>
+  </game>
+  <game name="2299 - Pokemon - FireRed Version (USA)">
+    <description>Pokemon - FireRed Version (USA)</description>
+    <info>Originally used for testing scripts, Fire Red 251 eventually became a hack that tries to be as low-key as possible with it&amp;#8217;s modifications, while improving the game for the better.</info>
+    <patch crc="9469C52A" name="Pokemon - FireRed Version (USA).ips">
+      <url>https://www.romhacking.net/hacks/2299/</url>
+      <patch_id>2299</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1072titlescreen.png</image>
+    </patch>
+    <rom crc="DD88761C" md5="E26EE0D44E809351C8CE2D73C7400CDD" name="Pokemon - FireRed Version (USA).gba" sha1="41CB23D8DCCC8EBD7C649CD8FBB58EEACE6E2FDC"/>
+  </game>
+  <game name="2349 - Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>This patch changes the original font of the game to make it clearer and closer to the original on Super NES. Dialogs and menus fonts of the game are changed.</info>
+    <patch crc="C1242E04" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/2349/</url>
+      <patch_id>2349</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D15DEBA5" md5="7F6BF3B4D84F113AA454136E5B53FD77" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).gba" sha1="C5B27ED0870EA64E6A001C5BC367F76571ACE973"/>
+  </game>
+  <game name="2392 - Fire Pro Wrestling 2 (USA)">
+    <description>Fire Pro Wrestling 2 (USA)</description>
+    <info>This hack makes the game more like how Spike and BAM! Entertainment would have done it if they weren&amp;#8217;t forced to censor some of the MMA fighters along with all the WWE, WCW and ECW wrestlers because of legal issues they had with WWE and UFC back then. </info>
+    <patch crc="B4C50632" name="Fire Pro Wrestling 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2392/</url>
+      <patch_id>2392</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2392titlescreen.png</image>
+    </patch>
+    <rom crc="B9CFC1D3" md5="AE34E324B26F0D693EE73F6A4B8B995E" name="Fire Pro Wrestling 2 (USA).gba" sha1="732E16060F7D824ED6B03F07BFC2BC2F3BE1C79C"/>
+  </game>
+  <game name="2564 - Super Mario Advance 2 - Super Mario World (USA)">
+    <description>Super Mario Advance 2 - Super Mario World (USA)</description>
+    <info>I personally find the voices added to the gba version extremely annoying and overused. This patch removes both Mario and Luigi&amp;#8217;s voices and a few other sounds which were not present in the SNES version.</info>
+    <patch crc="F857CCCC" name="Super Mario Advance 2 - Super Mario World (USA).ips">
+      <url>https://www.romhacking.net/hacks/2564/</url>
+      <patch_id>2564</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1226titlescreen.png</image>
+    </patch>
+    <rom crc="5206880A" md5="2F660377581B7E48C06131F56C791B72" name="Super Mario Advance 2 - Super Mario World (USA).gba" sha1="5101DDF223D1D918928FE1F306B63A42ADA14A5E"/>
+  </game>
+  <game name="2565 - Metroid - Zero Mission (USA)">
+    <description>Metroid - Zero Mission (USA)</description>
+    <info>WARNING: This hack may not work with some emulators that are older and/ or for mobile phones, because of the way I implemented new ASM routines. If your game crashes when collecting a powerup, this is probably the case for you.</info>
+    <patch crc="CBBE37E3" name="Metroid - Zero Mission (USA).ips">
+      <url>https://www.romhacking.net/hacks/2565/</url>
+      <patch_id>2565</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2565titlescreen.png</image>
+    </patch>
+    <rom crc="5C61A844" md5="EBBCE58109988B6DA61EBB06C7A432D5" name="Metroid - Zero Mission (USA).gba" sha1="5DE8536AFE1F0078EE6FE1089F890E8C7AA0A6E8"/>
+  </game>
+  <game name="2566 - Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)">
+    <description>Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)</description>
+    <info>I personally find the voices added to the gba version extremely annoying and overused. This patch removes all voices and adds the death sound back from the SNES version for both Mario and Luigi. US version now has sounds for e-reader levels.</info>
+    <patch crc="A2AC16E8" name="Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).ips">
+      <url>https://www.romhacking.net/hacks/2566/</url>
+      <patch_id>2566</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1399titlescreen.png</image>
+    </patch>
+    <rom crc="88DAB27F" md5="605286B3AEDEFFBA70BF46B834B120B1" name="Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).gba" sha1="532F3307021637474B6DD37DA059CA360F612337"/>
+  </game>
+  <game name="2570 - Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA)">
+    <description>Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA)</description>
+    <info>This patch removes all of Links voice samples from A Link to the Past. The original SNES version sound effects for jumping and taking damage have been restored.</info>
+    <patch crc="59CD20D" name="Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).ips">
+      <url>https://www.romhacking.net/hacks/2570/</url>
+      <patch_id>2570</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2570titlescreen.png</image>
+    </patch>
+    <rom crc="8E91CD13" md5="3287CA66E5CC285A9FE3A922051E84C6" name="Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).gba" sha1="A272055ABBBF6C26B0CD54C87395D01699589161"/>
+  </game>
+  <game name="2571 - Super Mario Advance (USA, Europe)">
+    <description>Super Mario Advance (USA, Europe)</description>
+    <info>This Patch removes all voices from the game, all 152 of them. The item pickup sound has been restored from the SNES version. </info>
+    <patch crc="6CB975F6" name="Super Mario Advance (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2571/</url>
+      <patch_id>2571</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1731titlescreen.png</image>
+    </patch>
+    <rom crc="1E4C6D6A" md5="FF6B0C48065389B888C7A78731D4B58D" name="Super Mario Advance (USA, Europe).gba" sha1="F071D45D8F5CB05B48D7D2B804C6CB6A79AD96FB"/>
+  </game>
+  <game name="2590 - Super Mario Advance 3 - Yoshi's Island (USA)">
+    <description>Super Mario Advance 3 - Yoshi's Island (USA)</description>
+    <info>This patch removes Yoshi&amp;#8217;s voice and restores the original sound effects from the SNES version. </info>
+    <patch crc="F78CC6D6" name="Super Mario Advance 3 - Yoshi's Island (USA).ips">
+      <url>https://www.romhacking.net/hacks/2590/</url>
+      <patch_id>2590</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2590titlescreen.png</image>
+    </patch>
+    <rom crc="40A48276" md5="BB09508C782F37934C9519C5F8A7350C" name="Super Mario Advance 3 - Yoshi's Island (USA).gba" sha1="7352D2BD064D9EBAEC579E264228AA21C7345B80"/>
+  </game>
+  <game name="2671 - Castlevania - Harmony of Dissonance (USA)">
+    <description>Castlevania - Harmony of Dissonance (USA)</description>
+    <info>A hack of Castlevania Harmony of Dissonance that features a lot of palette changes and some sprite changes to make the game look better and more enjoyable.</info>
+    <patch crc="A37632F4" name="Castlevania - Harmony of Dissonance (USA).ips">
+      <url>https://www.romhacking.net/hacks/2671/</url>
+      <patch_id>2671</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2671titlescreen.png</image>
+    </patch>
+    <rom crc="88C1B562" md5="EA589465486D15E91BA94165C8024B55" name="Castlevania - Harmony of Dissonance (USA).gba" sha1="B90DA0D9BE0B3A0893CD9E2C399056BCF9579E21"/>
+  </game>
+  <game name="2695 - Mother 1+2 (Japan)">
+    <description>Mother 1+2 (Japan)</description>
+    <info>As some of you may know, a lot of GBA games have brightened, washed out colors in order to make it easier to see on an unlit GBA. This is a patch for *Mother 1+2* for GBA that restores the colors back to what they were on NES (for Mother 1 only, the Mother 2 side of the ROM is untouched).</info>
+    <patch crc="1A4A1E8A" name="Mother 1+2 (Japan).ips">
+      <url>https://www.romhacking.net/hacks/2695/</url>
+      <patch_id>2695</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2695titlescreen.png</image>
+    </patch>
+    <rom crc="0A44569C" md5="F41E36204356974C94FABF7D144DD32A" name="Mother 1+2 (Japan).gba" sha1="F27336B9C96CA2D06C34E07A61A78538DEAC32B3"/>
+  </game>
+  <game name="2772 - Pokemon - FireRed Version (USA, Europe) (Rev 1)">
+    <description>Pokemon - FireRed Version (USA, Europe) (Rev 1)</description>
+    <info>(NOTE: This game was the winner of a 2013 Vizzed.com pokemon hacking contest. It was originally published by Vizzed.com. The Vizzed admins have graciously allowed it to be added to other sites as long as the game is unchanged.)</info>
+    <patch crc="7C8C5212" name="Pokemon - FireRed Version (USA, Europe) (Rev 1).ips">
+      <url>https://www.romhacking.net/hacks/2772/</url>
+      <patch_id>2772</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2772titlescreen.png</image>
+    </patch>
+    <rom crc="84EE4776" md5="51901A6E40661B3914AA333C802E24E8" name="Pokemon - FireRed Version (USA, Europe) (Rev 1).gba" sha1="DD5945DB9B930750CB39D00C84DA8571FEEBF417"/>
+  </game>
+  <game name="2855 - Pokemon - Emerald Version (USA, Europe)">
+    <description>Pokemon - Emerald Version (USA, Europe)</description>
+    <info>This hack makes up four new evolution stones for trade evolving Pokemon. Copies of the already existing items Ruby, Sapphire, Dragon Scale, and Up-Grade are made using already present and/or dummied out existing data, meaning no free space is used outside of relevant modifications.  There is a version for a clean Emerald ROM, and one for both of my Emerald hacks that uses decapped item names and modifications made exclusively for it.</info>
+    <patch crc="A6D8C5D2" name="Pokemon - Emerald Version (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2855/</url>
+      <patch_id>2855</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1912titlescreen.png</image>
+    </patch>
+    <rom crc="1F1C08FB" md5="605B89B67018ABCEA91E693A4DD25BE3" name="Pokemon - Emerald Version (USA, Europe).gba" sha1="F3AE088181BF583E55DAF962A92BB46F4F1D07B7"/>
+  </game>
+  <game name="2866 - Final Fantasy V Advance (USA)">
+    <description>Final Fantasy V Advance (USA)</description>
+    <info>As said by the creator, one of the few problems with the &lt;a href="http://www.romhacking.net/hacks/856/"&gt;Custom Classes patch&lt;/a&gt; was that Katanas could not Spellblade even though they are used by Mystic Knights.  This little patch resolves that problem by making them able to do so.</info>
+    <patch crc="40FE8A03" name="Final Fantasy V Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/2866/</url>
+      <patch_id>2866</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/818titlescreen.png</image>
+    </patch>
+    <rom crc="7A24AB0C" md5="9ED82843CC54876362BE56FACCB15D75" name="Final Fantasy V Advance (USA).gba" sha1="492789276EAA3E94152B143AD92F310B8A3D5366"/>
+  </game>
+  <game name="2876 - Pokemon - FireRed Version (USA)">
+    <description>Pokemon - FireRed Version (USA)</description>
+    <info>&lt;span class="bold"&gt; Pokemon Fire Blast (FB)&lt;/span&gt;</info>
+    <patch crc="75E6DFD3" name="Pokemon - FireRed Version (USA).ips">
+      <url>https://www.romhacking.net/hacks/2876/</url>
+      <patch_id>2876</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2876titlescreen.png</image>
+    </patch>
+    <rom crc="DD88761C" md5="E26EE0D44E809351C8CE2D73C7400CDD" name="Pokemon - FireRed Version (USA).gba" sha1="41CB23D8DCCC8EBD7C649CD8FBB58EEACE6E2FDC"/>
+  </game>
+  <game name="2910 - Final Fight One (Japan)">
+    <description>Final Fight One (Japan)</description>
+    <info>This is an unfinished color restoration hack for Final Fight One (J) version which restores some of the palette to SNES levels. This is most noticeable on the games backgrounds. The SNES palette data was pasted directly from the SNES game into the GBA ROM.</info>
+    <patch crc="A4BD4159" name="Final Fight One (Japan).ips">
+      <url>https://www.romhacking.net/hacks/2910/</url>
+      <patch_id>2910</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1962titlescreen.png</image>
+    </patch>
+    <rom crc="C9E5E223" md5="9A3DB7E1FE781945DF44EB6BE8713567" name="Final Fight One (Japan).gba" sha1="3A0FA85187AA7C20842ABEB1A6CBC11B21131B2C"/>
+  </game>
+  <game name="2915 - Final Fantasy V Advance (USA)">
+    <description>Final Fantasy V Advance (USA)</description>
+    <info>The GBA versions of Final Fantasy that were released used quite small/thin fonts which tends to bother some people. This patch has been made to use a font more like one that 1&amp;#038;2 Dawn Of Souls uses.</info>
+    <patch crc="1A46BF42" name="Final Fantasy V Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/2915/</url>
+      <patch_id>2915</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/818titlescreen.png</image>
+    </patch>
+    <rom crc="7A24AB0C" md5="9ED82843CC54876362BE56FACCB15D75" name="Final Fantasy V Advance (USA).gba" sha1="492789276EAA3E94152B143AD92F310B8A3D5366"/>
+  </game>
+  <game name="2916 - Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>The GBA versions of Final Fantasy that were released used quite small/thin fonts which tends to bother some people. This patch has been made to use a font more like one that 1&amp;#038;2 Dawn Of Souls uses.</info>
+    <patch crc="9C3E7BBE" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/2916/</url>
+      <patch_id>2916</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D15DEBA5" md5="7F6BF3B4D84F113AA454136E5B53FD77" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).gba" sha1="C5B27ED0870EA64E6A001C5BC367F76571ACE973"/>
+  </game>
+  <game name="292 - Advance Wars 2 - Black Hole Rising (USA)">
+    <description>Advance Wars 2 - Black Hole Rising (USA)</description>
+    <info>This hack turns Advance Wars 2 Vader Sturm into his Robot-Snifit Advance Wars 1 Equivalent.</info>
+    <patch crc="3FFCB561" name="Advance Wars 2 - Black Hole Rising (USA).ips">
+      <url>https://www.romhacking.net/hacks/292/</url>
+      <patch_id>292</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/292titlescreen.png</image>
+    </patch>
+    <rom crc="5AD0E571" md5="46599031EF71117C587BD3666C326C07" name="Advance Wars 2 - Black Hole Rising (USA).gba" sha1="14DD0B22C894865867AFF89E8116B2DFFAE25605"/>
+  </game>
+  <game name="293 - Advance Wars 2 - Black Hole Rising (UA) [hI]">
+    <description>Advance Wars 2 - Black Hole Rising (UA) [hI]</description>
+    <patch crc="E30261C8" name="Advance Wars 2 - Black Hole Rising (UA) [hI].ips">
+      <url>https://www.romhacking.net/hacks/293/</url>
+      <patch_id>293</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/293titlescreen.png</image>
+    </patch>
+    <rom crc="12e559cd" md5="29366bc79094492456210aa7013e14ec" name="Advance Wars 2 - Black Hole Rising (UA) [hI].gba"/>
+  </game>
+  <game name="2987 - Fire Pro Wrestling (USA, Europe)">
+    <description>Fire Pro Wrestling (USA, Europe)</description>
+    <info>This hack changes the American version of this game to be more like its Japanese counterpart and it also changes and fixes a bunch of other things as well.</info>
+    <patch crc="D8B3EB06" name="Fire Pro Wrestling (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2987/</url>
+      <patch_id>2987</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/2987titlescreen.png</image>
+    </patch>
+    <rom crc="12AA524C" md5="AACBDC2916C5941607B0B2D6D68512ED" name="Fire Pro Wrestling (USA, Europe).gba" sha1="CC9E51F22A6428AF407D3C26B191AA27C387980F"/>
+  </game>
+  <game name="3044 - Final Fantasy IV Advance (USA)">
+    <description>Final Fantasy IV Advance (USA)</description>
+    <info>The GBA versions of Final Fantasy that were released used quite small/thin fonts which tends to bother some people. This patch has been made to use a font more like one that 1&amp;#038;2 Dawn Of Souls uses.</info>
+    <patch crc="6FE0F8D5" name="Final Fantasy IV Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/3044/</url>
+      <patch_id>3044</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/817titlescreen.png</image>
+    </patch>
+    <rom crc="FEEEBDE4" md5="C74DD5CC3AB6E5D4AC53B1677E1ABD69" name="Final Fantasy IV Advance (USA).gba" sha1="C49BE22EAF999774D5F2983E12ED4AACE2950F36"/>
+  </game>
+  <game name="3065 - Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>The GBA port of Final Fantasy VI did fix some but not all of the bugs the SNES version had.
+One of these unfixed bugs is, that Siegfried&amp;#8217;s and Typhon&amp;#8217;s rages are still unobtainable because the game does not keep track of that you encountered them and there is no formation that could show up on the veldt.</info>
+    <patch crc="E5ED71B2" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/3065/</url>
+      <patch_id>3065</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D15DEBA5" md5="7F6BF3B4D84F113AA454136E5B53FD77" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).gba" sha1="C5B27ED0870EA64E6A001C5BC367F76571ACE973"/>
+  </game>
+  <game name="3185 - Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>Tritoch tail is missing a piece of his tail on the bottom right when calling his summon. This is because its frame data ($63C4EF-$63C523 in the (U) version) is missing a byte pair. The first byte of the pair is a X,Y position (xxxxyyyy) of the block in 16 pixels intervals. The second byte determines the block taken from the monster graphic as well as whether it&amp;#8217;s flipped horizontally and/or vertically.</info>
+    <patch crc="C09D44A8" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/3185/</url>
+      <patch_id>3185</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D15DEBA5" md5="7F6BF3B4D84F113AA454136E5B53FD77" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).gba" sha1="C5B27ED0870EA64E6A001C5BC367F76571ACE973"/>
+  </game>
+  <game name="3186 - Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>The chocobo in the WOB auction house has two portions of his sprite cut off by the two lady NPC standing behind him. This is because those NPC sprites have priority over the chocobo one.</info>
+    <patch crc="3E3518A9" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/3186/</url>
+      <patch_id>3186</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D15DEBA5" md5="7F6BF3B4D84F113AA454136E5B53FD77" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).gba" sha1="C5B27ED0870EA64E6A001C5BC367F76571ACE973"/>
+  </game>
+  <game name="3189 - Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>When you first enter the Thamasa map (157) from the boat ride and then also again on the other Thamasa map (154) after Kefka attacks, for the first time, without moving forward right away, your character will be in the ready position facing downward due to command $3B being set in the previous event&amp;#8217;s code and never getting executed properly.</info>
+    <patch crc="4A5756E9" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/3189/</url>
+      <patch_id>3189</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D15DEBA5" md5="7F6BF3B4D84F113AA454136E5B53FD77" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).gba" sha1="C5B27ED0870EA64E6A001C5BC367F76571ACE973"/>
+  </game>
+  <game name="323 - Castlevania - Harmony of Dissonance (USA)">
+    <description>Castlevania - Harmony of Dissonance (USA)</description>
+    <info>A cheap and dirty palette hack to make Juste look a little more Belmont and less a little less bishounen gothic Santa Claus.</info>
+    <patch crc="E1F54300" name="Castlevania - Harmony of Dissonance (USA).ips">
+      <url>https://www.romhacking.net/hacks/323/</url>
+      <patch_id>323</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1106titlescreen.png</image>
+    </patch>
+    <rom crc="88C1B562" md5="EA589465486D15E91BA94165C8024B55" name="Castlevania - Harmony of Dissonance (USA).gba" sha1="B90DA0D9BE0B3A0893CD9E2C399056BCF9579E21"/>
+  </game>
+  <game name="3230 - Super Puzzle Fighter II Turbo (USA)">
+    <description>Super Puzzle Fighter II Turbo (USA)</description>
+    <info>This patch allows color-blind people play the game.</info>
+    <patch crc="8C8B15CA" name="Super Puzzle Fighter II Turbo (USA).ips">
+      <url>https://www.romhacking.net/hacks/3230/</url>
+      <patch_id>3230</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/3230titlescreen.png</image>
+    </patch>
+    <rom crc="9CD25C7E" md5="14D0771C15676E2B3B75C4C149879586" name="Super Puzzle Fighter II Turbo (USA).gba" sha1="801DF7F69FC574A17E8C5EFCE6CA18AE5749AA97"/>
+  </game>
+  <game name="3235 - Super Bust-A-Move (USA) (En,Fr,Es)">
+    <description>Super Bust-A-Move (USA) (En,Fr,Es)</description>
+    <info>This patch allows color-blind people to play the game.</info>
+    <patch crc="35184E76" name="Super Bust-A-Move (USA) (En,Fr,Es).ips">
+      <url>https://www.romhacking.net/hacks/3235/</url>
+      <patch_id>3235</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/3235titlescreen.png</image>
+    </patch>
+    <rom crc="2FB4B14D" md5="00B3169C025D8000F8944E2E8B81C2B5" name="Super Bust-A-Move (USA) (En,Fr,Es).gba" sha1="BF8F61B61E1A8F4A32AE27D4483A44FDD08477FB"/>
+  </game>
+  <game name="325 - Castlevania - Byakuya no Concerto (Japan)">
+    <description>Castlevania - Byakuya no Concerto (Japan)</description>
+    <info>A comprehensive hack for the Japanese version of Castlevania HOD. It can only be used with the Japanese version.</info>
+    <patch crc="49AC9FA1" name="Castlevania - Byakuya no Concerto (Japan).ips">
+      <url>https://www.romhacking.net/hacks/325/</url>
+      <patch_id>325</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/325titlescreen.png</image>
+    </patch>
+    <rom crc="379B3248" md5="CADE47DEF03AD1CC02A1BD97B5EA4E9F" name="Castlevania - Byakuya no Concerto (Japan).gba" sha1="3AEB81EE60FA3E56A56EE069B0CE0D8BC34D9C4C"/>
+  </game>
+  <game name="3414 - Mother 3 (Japan)">
+    <description>Mother 3 (Japan)</description>
+    <info>This is a font-change hack, It changes number font which in HP/PP, status and damage point.</info>
+    <patch crc="2144DF1C" name="Mother 3 (Japan).ups">
+      <url>https://www.romhacking.net/hacks/3414/</url>
+      <patch_id>3414</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1215titlescreen.png</image>
+    </patch>
+    <rom crc="42AC9CB9" md5="AF8B0B175F7EC8914CB87B3161BA1AAA" name="Mother 3 (Japan).gba" sha1="4F0F493E12C2A8C61B2D809AF03F7ABF87A85776"/>
+  </game>
+  <game name="3452 - Legend of Zelda, The - A Link to the Past &amp; Four Swords (Europe) (En,Fr,De,Es,It)">
+    <description>Legend of Zelda, The - A Link to the Past &amp; Four Swords (Europe) (En,Fr,De,Es,It)</description>
+    <info>Tired of the pink haired Link? It was previously done on SNES, but it hasn&amp;#8217;t been done on GBA so here it is. The Link on the save menu will still have pink hair, though. Once in ALTTP, he will be dark blonde. This will affect his rabbit color too. Aghanim&amp;#8217;s palette has also been updated so it matches his artwork. It will also change the King&amp;#8217;s palette seen in the intro.</info>
+    <patch crc="B9A2A978" name="Legend of Zelda, The - A Link to the Past &amp; Four Swords (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/3452/</url>
+      <patch_id>3452</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/2375titlescreen.png</image>
+    </patch>
+    <rom crc="5A164321" md5="9EDF4F6E19D901D470AA1117CB0372B3" name="Legend of Zelda, The - A Link to the Past &amp; Four Swords (Europe) (En,Fr,De,Es,It).gba" sha1="3BB7F97ADA7D60D8D334B271084EFFD1DB853B32"/>
+  </game>
+  <game name="3491 - Mario Kart - Super Circuit (USA)">
+    <description>Mario Kart - Super Circuit (USA)</description>
+    <info>This hack restores the original Sunset Wilds title card &amp;#038; sprites back to the American version of this game, so now the Shy Guys are wearing their Native American war bonnets once again. </info>
+    <patch crc="CA98FEA" name="Mario Kart - Super Circuit (USA).ips">
+      <url>https://www.romhacking.net/hacks/3491/</url>
+      <patch_id>3491</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/2020titlescreen.png</image>
+    </patch>
+    <rom crc="ED316E37" md5="784A036FF1AAE709E90167186639B75E" name="Mario Kart - Super Circuit (USA).gba" sha1="9D327C030C3E2D9007990518594F70C3340AC56F"/>
+  </game>
+  <game name="3495 - Final Fight One (Japan)">
+    <description>Final Fight One (Japan)</description>
+    <info>This hack changes and fixes several things to make it more like its arcade counterpart, here&amp;#8217;s what it does to it:</info>
+    <patch crc="F46BF126" name="Final Fight One (Japan).ips">
+      <url>https://www.romhacking.net/hacks/3495/</url>
+      <patch_id>3495</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/3495titlescreen.png</image>
+    </patch>
+    <rom crc="C9E5E223" md5="9A3DB7E1FE781945DF44EB6BE8713567" name="Final Fight One (Japan).gba" sha1="3A0FA85187AA7C20842ABEB1A6CBC11B21131B2C"/>
+  </game>
+  <game name="3499 - Pokemon - FireRed Version (USA)">
+    <description>Pokemon - FireRed Version (USA)</description>
+    <info>This is an addendum patch for &lt;a href="http://www.romhacking.net/hacks/1981/"&gt;Pokemon Throwback&lt;/a&gt; and &lt;a href="http://www.romhacking.net/hacks/4147/"&gt;Unofficial Throwback&lt;/a&gt; (only the bugfixed original), which adds some features prominently used in &lt;a href="http://www.romhacking.net/hacks/2299/"&gt;Fire Red 251&lt;/a&gt;.  This patch is mostly comprised of what made FR251 more difficult, however there are also a few &amp;#8220;ease of life&amp;#8221; additions as well.</info>
+    <patch crc="C2AF1B2B" name="Pokemon - FireRed Version (USA).ips">
+      <url>https://www.romhacking.net/hacks/3499/</url>
+      <patch_id>3499</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/3499titlescreen.png</image>
+    </patch>
+    <rom crc="DD88761C" md5="E26EE0D44E809351C8CE2D73C7400CDD" name="Pokemon - FireRed Version (USA).gba" sha1="41CB23D8DCCC8EBD7C649CD8FBB58EEACE6E2FDC"/>
+  </game>
+  <game name="3501 - Pokemon - Emerald Version (USA, Europe)">
+    <description>Pokemon - Emerald Version (USA, Europe)</description>
+    <info>A modification to Pokemon Emerald Version that inverses type match-ups similar to the Inverse battle mode from Pokemon X and Y, and Pokemon Omega Ruby and Alpha Sapphire.</info>
+    <patch crc="A4CECA67" name="Pokemon - Emerald Version (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/3501/</url>
+      <patch_id>3501</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1912titlescreen.png</image>
+    </patch>
+    <rom crc="1F1C08FB" md5="605B89B67018ABCEA91E693A4DD25BE3" name="Pokemon - Emerald Version (USA, Europe).gba" sha1="F3AE088181BF583E55DAF962A92BB46F4F1D07B7"/>
+  </game>
+  <game name="3558 - Fire Emblem (USA, Australia)">
+    <description>Fire Emblem (USA, Australia)</description>
+    <info>Fire Emblem Corrupt Theocracy is a Fire Emblem 7 mod/hack. It contains custom events, a new story, and some new maps and mugs. All characters and weapons have been changed, and some new weapons and classes have been added.</info>
+    <patch crc="2144DF1C" name="Fire Emblem (USA, Australia).ups">
+      <url>https://www.romhacking.net/hacks/3558/</url>
+      <patch_id>3558</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1196titlescreen.png</image>
+    </patch>
+    <rom crc="2A524221" md5="F1A1B9742FCD467A531DD4314C4E7D19" name="Fire Emblem (USA, Australia).gba" sha1="C735FDBB9E8ABE19E0C6A44708DF19ACC962E204"/>
+  </game>
+  <game name="3560 - Super Ghouls'n Ghosts (USA, Europe)">
+    <description>Super Ghouls'n Ghosts (USA, Europe)</description>
+    <info>This hack restores the crosses that appeared in the background and on the zombie’s coffin from the Japanese version back to the American version and it also changes the name of the final boss from Sardius back to Samael as well. </info>
+    <patch crc="AFB306F2" name="Super Ghouls'n Ghosts (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/3560/</url>
+      <patch_id>3560</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/3560titlescreen.png</image>
+    </patch>
+    <rom crc="1EF2ACF3" md5="37FF7A1DE0322B72A6B41DEA0BA53673" name="Super Ghouls'n Ghosts (USA, Europe).gba" sha1="31E7D1D405185BA2D7A9FFCC2B847D4457088CF0"/>
+  </game>
+  <game name="3561 - Super Street Fighter II Turbo - Revival (USA)">
+    <description>Super Street Fighter II Turbo - Revival (USA)</description>
+    <info>This hack will restore the attack speeches of Cammy and Dee Jay from the Japanese version of this game back to the American version of it.</info>
+    <patch crc="F9CB3187" name="Super Street Fighter II Turbo - Revival (USA).ips">
+      <url>https://www.romhacking.net/hacks/3561/</url>
+      <patch_id>3561</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/882titlescreen.png</image>
+    </patch>
+    <rom crc="063045AA" md5="7A36A7486EF2C534111EE417B8ACF9B7" name="Super Street Fighter II Turbo - Revival (USA).gba" sha1="00B0508E2774D0BBCB8F0994766CB362E62D7537"/>
+  </game>
+  <game name="3581 - Lost Vikings, The (Europe) (En,Fr,De,Es)">
+    <description>Lost Vikings, The (Europe) (En,Fr,De,Es)</description>
+    <info>This patch restores the original game&amp;#8217;s palette, which was completely crippled by the GBA port developers.</info>
+    <patch crc="A42E68A6" name="Lost Vikings, The (Europe) (En,Fr,De,Es).ips">
+      <url>https://www.romhacking.net/hacks/3581/</url>
+      <patch_id>3581</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/3581titlescreen.png</image>
+    </patch>
+    <rom crc="1C008D32" md5="092721060C0261C13DE6ADE3E8C87854" name="Lost Vikings, The (Europe) (En,Fr,De,Es).gba" sha1="3C48005F1EA64CEFA0B165793C537CA68507C572"/>
+  </game>
+  <game name="3595 - Fire Emblem - The Sacred Stones (USA, Australia)">
+    <description>Fire Emblem - The Sacred Stones (USA, Australia)</description>
+    <info>The Fire Emblem romhacking community has a bad habit of being unable to complete things. In all the years the Game Boy Advance Fire Emblem games have existed, a mere two romhacks have been completed to a decent standard; &lt;a href="http://www.romhacking.net/hacks/962/"&gt;The Last Promise&lt;/a&gt; and &lt;a href="http://www.romhacking.net/hacks/3555/"&gt;Requiem.&lt;/a&gt; </info>
+    <patch crc="2144DF1C" name="Fire Emblem - The Sacred Stones (USA, Australia).ups">
+      <url>https://www.romhacking.net/hacks/3595/</url>
+      <patch_id>3595</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/3595titlescreen.png</image>
+    </patch>
+    <rom crc="A47246AE" md5="005531FEF9EFBB642095FB8F64645236" name="Fire Emblem - The Sacred Stones (USA, Australia).gba" sha1="C25B145E37456171ADA4B0D440BF88A19F4D509F"/>
+  </game>
+  <game name="466 - Pokemon - Ruby Version (USA)">
+    <description>Pokemon - Ruby Version (USA)</description>
+    <info>A new Pokémon hack that revolves around a new region called Corna with many new (unusual) Pokémon to battle and catch!</info>
+    <patch crc="9F23E14" name="Pokemon - Ruby Version (USA).ips">
+      <url>https://www.romhacking.net/hacks/466/</url>
+      <patch_id>466</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/466titlescreen.png</image>
+    </patch>
+    <rom crc="F0815EE7" md5="53D1A2027AB49DF34A689FAA1FB14726" name="Pokemon - Ruby Version (USA).gba" sha1="F28B6FFC97847E94A6C21A63CACF633EE5C8DF1E"/>
+  </game>
+  <game name="470 - Super Mario Advance 2 - Super Mario World (U) [h1I][f1] (SRAM)">
+    <description>Super Mario Advance 2 - Super Mario World (U) [h1I][f1] (SRAM)</description>
+    <info>A lot of GBA games were released with brighter colors to accommodate the original GBA&amp;#8217;s dim screen. This always bothered me, so I thought I&amp;#8217;d take matters into my own hands and remedy this. All colors were taken directly from the SNES ROM.</info>
+    <patch crc="97808155" name="Super Mario Advance 2 - Super Mario World (U) [h1I][f1] (SRAM).ips">
+      <url>https://www.romhacking.net/hacks/470/</url>
+      <patch_id>470</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/470titlescreen.png</image>
+    </patch>
+    <rom crc="33a6f6e6" md5="3ad1c16a806ae1a1c26e72c6d5967b70" name="Super Mario Advance 2 - Super Mario World (U) [h1I][f1] (SRAM).gba"/>
+  </game>
+  <game name="474 - Doom (USA, Europe)">
+    <description>Doom (USA, Europe)</description>
+    <info>This patch changes the color of the blood in the GBA version of Doom from green to red. It also replaces some censored textures with uncensored ones from the Jaguar version of Doom, which the GBA version was based on.</info>
+    <patch crc="8EB3565E" name="Doom (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/474/</url>
+      <patch_id>474</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1232titlescreen.png</image>
+    </patch>
+    <rom crc="58C641B3" md5="A4078F38DBB47AB22A9C74B725F3E481" name="Doom (USA, Europe).gba" sha1="AF2B2206777651C7993C1AE9008D07C31430207E"/>
+  </game>
+  <game name="476 - Final Fantasy IV Advance (USA)">
+    <description>Final Fantasy IV Advance (USA)</description>
+    <info>For those of you that aren&amp;#8217;t aware,
+Yang&amp;#8217;s HP does not increase past level 60. It seems that someone goofed
+when putting in the information, so go figure. This patch is here to fix
+that behavior. The stats mirror that of FF4A (GBA) Euro version (or Jap 1.1
+revision) of this game which has this fixed.</info>
+    <patch crc="178F1DE8" name="Final Fantasy IV Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/476/</url>
+      <patch_id>476</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/817titlescreen.png</image>
+    </patch>
+    <rom crc="FEEEBDE4" md5="C74DD5CC3AB6E5D4AC53B1677E1ABD69" name="Final Fantasy IV Advance (USA).gba" sha1="C49BE22EAF999774D5F2983E12ED4AACE2950F36"/>
+  </game>
+  <game name="483 - Final Fantasy IV Advance (USA)">
+    <description>Final Fantasy IV Advance (USA)</description>
+    <info>The GBA port of this game has a few notable changes from the original SNES
+version. Targeting was changed for a number of weapons that casted spells.
+One of the weapon&amp;#8217;s spells has its targeting set incorrectly.
+The Defender Sword by default targets the enemy with the Protect spell,
+which obviously is not what you want.</info>
+    <patch crc="A7724D37" name="Final Fantasy IV Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/483/</url>
+      <patch_id>483</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/817titlescreen.png</image>
+    </patch>
+    <rom crc="FEEEBDE4" md5="C74DD5CC3AB6E5D4AC53B1677E1ABD69" name="Final Fantasy IV Advance (USA).gba" sha1="C49BE22EAF999774D5F2983E12ED4AACE2950F36"/>
+  </game>
+  <game name="486 - Final Fantasy IV Advance (USA)">
+    <description>Final Fantasy IV Advance (USA)</description>
+    <info>There are a number of bits that were set, but went unused in FF4. I decided to make the unusable bits do something  useful. Based on the bits set, the equipment were given the appropriate tweaks. The weapons that were changed are the following: Power Staff, Flame Whip, and Wooden Hammer. I have also provided a patch for the GBA port, even though those hidden bits were removed from that version.</info>
+    <patch crc="6064226E" name="Final Fantasy IV Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/486/</url>
+      <patch_id>486</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/817titlescreen.png</image>
+    </patch>
+    <rom crc="FEEEBDE4" md5="C74DD5CC3AB6E5D4AC53B1677E1ABD69" name="Final Fantasy IV Advance (USA).gba" sha1="C49BE22EAF999774D5F2983E12ED4AACE2950F36"/>
+  </game>
+  <game name="538 - Fire Emblem - Fuuin no Tsurugi (Japan)">
+    <description>Fire Emblem - Fuuin no Tsurugi (Japan)</description>
+    <info>Shining Armor is a quick sequel to the trial maps in the 6th installment of the Fire Emblem series. Made up of only 2 chapters, you simple play 2 trial-map chapters that are 100% custom made.</info>
+    <patch crc="2144DF1C" name="Fire Emblem - Fuuin no Tsurugi (Japan).ups">
+      <url>https://www.romhacking.net/hacks/538/</url>
+      <patch_id>538</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/538titlescreen.png</image>
+    </patch>
+    <rom crc="D38763E1" md5="8643FE7632D4895DCAACA230475E70FB" name="Fire Emblem - Fuuin no Tsurugi (Japan).gba" sha1="A57095DA867DE4D585C33D4394712986245FE6CA"/>
+  </game>
+  <game name="563 - Final Fantasy V Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy V Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>This hack completely restores the music and sound effects from the SNES original.</info>
+    <patch crc="4FD63F71" name="Final Fantasy V Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/563/</url>
+      <patch_id>563</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/563titlescreen.png</image>
+    </patch>
+    <rom crc="7197117E" md5="EBC874A9FFABAACD7EA1A3E128DD97D3" name="Final Fantasy V Advance (Europe) (En,Fr,De,Es,It).gba" sha1="4FC4BC7C1C3ABE9D2F9C59A3AE4172B5CB57BD2C"/>
+  </game>
+  <game name="576 - Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)">
+    <description>Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)</description>
+    <info>Inspired by Dragonsbrethren&amp;#8217;s work for FFIV ADVANCE, this patch &amp;#8220;improves&amp;#8221; the fonts of this fantastic game. It has been made not only to look good in English, but with the other four languages (German, French, Italian, and Spanish) in mind. That is why it was made for the European version of the ROM.</info>
+    <patch crc="F6462958" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).ips">
+      <url>https://www.romhacking.net/hacks/576/</url>
+      <patch_id>576</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D15DEBA5" md5="7F6BF3B4D84F113AA454136E5B53FD77" name="Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It).gba" sha1="C5B27ED0870EA64E6A001C5BC367F76571ACE973"/>
+  </game>
+  <game name="677 - Castlevania - Harmony of Dissonance (USA)">
+    <description>Castlevania - Harmony of Dissonance (USA)</description>
+    <info>Short and sweet. I think HoD is Technicolor enough without the glowing
+outlines on Juste, Maxim, and the bat enemies. So I removed them.</info>
+    <patch crc="D779B907" name="Castlevania - Harmony of Dissonance (USA).ips">
+      <url>https://www.romhacking.net/hacks/677/</url>
+      <patch_id>677</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/677titlescreen.png</image>
+    </patch>
+    <rom crc="88C1B562" md5="EA589465486D15E91BA94165C8024B55" name="Castlevania - Harmony of Dissonance (USA).gba" sha1="B90DA0D9BE0B3A0893CD9E2C399056BCF9579E21"/>
+  </game>
+  <game name="765 - Final Fantasy VI Advance (Japan)">
+    <description>Final Fantasy VI Advance (Japan)</description>
+    <info>To accommodate for the undersized, relatively dark monitor of the Game Boy Advance, a variety of colors in Final Fantasy VI Advance exhibit a higher degree of saturation than that of the earlier versions. Consequently, the graphics generally appear brighter, and certain colors diverge significantly from their original specifications. As such, the purpose of this patch, which supports all three versions, is to restore the colors to their former state.</info>
+    <patch crc="47ACD7AB" name="Final Fantasy VI Advance (Japan).ips">
+      <url>https://www.romhacking.net/hacks/765/</url>
+      <patch_id>765</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/819titlescreen.png</image>
+    </patch>
+    <rom crc="D67478FE" md5="09DAF6531DED19B7921367084E439B2F" name="Final Fantasy VI Advance (Japan).gba" sha1="1850FEDDE7305C4BAF42E0594AAABE17C549D7E2"/>
+  </game>
+  <game name="85 - Final Fantasy IV Advance (USA)">
+    <description>Final Fantasy IV Advance (USA)</description>
+    <info>Nintendo censorship was thought long dead, apparently it&amp;#8217;s not: when FF4 Advance was released we were all shocked to see not only were the dancers forced to wear dresses instead of bikinis but they also &amp;#8220;removed&amp;#8221; Baron&amp;#8217;s infamous stripper!</info>
+    <patch crc="B2EB4BCD" name="Final Fantasy IV Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/85/</url>
+      <patch_id>85</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/817titlescreen.png</image>
+    </patch>
+    <rom crc="FEEEBDE4" md5="C74DD5CC3AB6E5D4AC53B1677E1ABD69" name="Final Fantasy IV Advance (USA).gba" sha1="C49BE22EAF999774D5F2983E12ED4AACE2950F36"/>
+  </game>
+  <game name="853 - Final Fantasy I &amp; II - Dawn of Souls (USA)">
+    <description>Final Fantasy I &amp; II - Dawn of Souls (USA)</description>
+    <info>This mod aims to improve the gameplay of both Final Fantasy 1 and Final Fantasy 2. </info>
+    <patch crc="D9821121" name="Final Fantasy I &amp; II - Dawn of Souls (USA).ips">
+      <url>https://www.romhacking.net/hacks/853/</url>
+      <patch_id>853</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/820titlescreen.png</image>
+    </patch>
+    <rom crc="1B39CDAB" md5="5D29999685413C4D2BEC10D3160F6EE6" name="Final Fantasy I &amp; II - Dawn of Souls (USA).gba" sha1="6472695D69661490F78245E2982E1E676C080BE7"/>
+  </game>
+  <game name="856 - Final Fantasy V Advance (USA)">
+    <description>Final Fantasy V Advance (USA)</description>
+    <info>In Final Fantasy 5, characters can learn a ridiculous number of skills&amp;#8230; and only have a use for a few of them. This is because characters are given only four battle commands, and most classes pick three of those for you. Therefore, you really can only combine two classes at a time, until you use one of the two end-game classes made available to players— the Freelancer (which gives you Fight, Item, and two chosen abilities), and the Mime (which allows the Mimic command and *three* chosen abilities). This hamstrings the possibilities that the game&amp;#8217;s engine seems to want to give the player, and in my opinion reduces the fun that could be had.</info>
+    <patch crc="C6173D82" name="Final Fantasy V Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/856/</url>
+      <patch_id>856</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/818titlescreen.png</image>
+    </patch>
+    <rom crc="7A24AB0C" md5="9ED82843CC54876362BE56FACCB15D75" name="Final Fantasy V Advance (USA).gba" sha1="492789276EAA3E94152B143AD92F310B8A3D5366"/>
+  </game>
+  <game name="897 - Breath of Fire II (Europe)">
+    <description>Breath of Fire II (Europe)</description>
+    <info>Breath of Fire 2 is another one of the author&amp;#8217;s favorite RPGs from the 1990s. The early Breath of Fire games weren&amp;#8217;t anything particularly new (character-development-wise), but they were well executed and fun to play, and definite creativity was demonstrated in different character&amp;#8217;s abilities. Every character can do something nifty to help out your team, and the party lineup can be organized differently in battle via different attack formations, which have varying affects on the attack/defense/speed of each combatant. The Breath of Fire series catapulted non-humans into central, heroic roles (Breath of Fire was the first game that the author remembers that memorably did this). And lastly, building a new town was an incredible feature, and gave the player a sense that they were really are making their own destiny and affecting the game world.</info>
+    <patch crc="EDFE33D8" name="Breath of Fire II (Europe).ips">
+      <url>https://www.romhacking.net/hacks/897/</url>
+      <patch_id>897</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1690titlescreen.png</image>
+    </patch>
+    <rom crc="FF5E8E39" md5="433CE4C6D525C74E3E60CDC197F6ABFB" name="Breath of Fire II (Europe).gba" sha1="307798CA71BDA7F6B313FF1C18880F22C5A81711"/>
+  </game>
+  <game name="902 - Breath of Fire II (U) [hI]">
+    <description>Breath of Fire II (U) [hI]</description>
+    <info>A few years back a guy named Lord Asaki released a Super Mario World palette hack, which made me realize that there were lots of other GBA games that had awful awful colours.  Breath of Fire 1/2 were some of the worst offenders, as were any of the Blizzard ports.</info>
+    <patch crc="1992EC50" name="Breath of Fire II (U) [hI].ips">
+      <url>https://www.romhacking.net/hacks/902/</url>
+      <patch_id>902</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/902titlescreen.png</image>
+    </patch>
+    <rom crc="23279c91" md5="64b080f50baf634eec9bca41420d0f97" name="Breath of Fire II (U) [hI].gba"/>
+  </game>
+  <game name="905 - Rock n' Roll Racing (USA)">
+    <description>Rock n' Roll Racing (USA)</description>
+    <info>Rock and Roll Racing on the GBA was one of many unfortunate games that had it&amp;#8217;s contrast bumped up to make it more viewable on the old non-backlit GBA&amp;#8217;s.  Playing on anything newer just makes your eyes bleed.</info>
+    <patch crc="B89018E" name="Rock n' Roll Racing (USA).ips">
+      <url>https://www.romhacking.net/hacks/905/</url>
+      <patch_id>905</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1695titlescreen.png</image>
+    </patch>
+    <rom crc="15F2DD16" md5="25A0842E3DB8B40EEB39DE83285CC13A" name="Rock n' Roll Racing (USA).gba" sha1="44BE0A6869F3495C23A5770993116AC80B554BAC"/>
+  </game>
+  <game name="933 - Mega Man Battle Network 3 - White Version (USA)">
+    <description>Mega Man Battle Network 3 - White Version (USA)</description>
+    <info>This patch intends to fix some pet peeves I had with Battle Network 3. It will put back the Jack In and NaviCust animations that Capcom USA removed. It also lets you decompress NaviCust programs and it restores the original internet color once you&amp;#8217;ve taken down the final boss of the main story.</info>
+    <patch crc="63DEC277" name="Mega Man Battle Network 3 - White Version (USA).ips">
+      <url>https://www.romhacking.net/hacks/933/</url>
+      <patch_id>933</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1720titlescreen.png</image>
+    </patch>
+    <rom crc="0BE4410A" md5="68817204A691449E655CBA739DBB0165" name="Mega Man Battle Network 3 - White Version (USA).gba" sha1="FF45038AE6D01CDE4EAE25A02DCB8BED29E07A6F"/>
+  </game>
+  <game name="94 - Castlevania - Aria of Sorrow (USA)">
+    <description>Castlevania - Aria of Sorrow (USA)</description>
+    <info>This patch fixes the enemy/item names that were incorrectly translated, and some general errors in item/monster/soul descriptions. Some enemy names were also changed to match Symphony of the Night.</info>
+    <patch crc="4C9ADE6C" name="Castlevania - Aria of Sorrow (USA).ips">
+      <url>https://www.romhacking.net/hacks/94/</url>
+      <patch_id>94</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/830titlescreen.png</image>
+    </patch>
+    <rom crc="35536183" md5="E7470DF4D241F73060D14437011B90CE" name="Castlevania - Aria of Sorrow (USA).gba" sha1="ABD71FE01EBB201BCC133074DB1DD8C5253776C7"/>
+  </game>
+  <game name="941 - Final Fantasy Tactics Advance (USA)">
+    <description>Final Fantasy Tactics Advance (USA)</description>
+    <info>A small patch made using Darthatron&amp;#8217;s Lawyer tool that removes Laws from Final Fantasy Tactics Advance, letting you play however you&amp;#8217;d like.</info>
+    <patch crc="F93BB050" name="Final Fantasy Tactics Advance (USA).ips">
+      <url>https://www.romhacking.net/hacks/941/</url>
+      <patch_id>941</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1419titlescreen.png</image>
+    </patch>
+    <rom crc="5645E56C" md5="CD99CDDE3D45554C1B36FBEB8863B7BD" name="Final Fantasy Tactics Advance (USA).gba" sha1="4AC05441F4DE70A4EC3DD932116346C61B8783D9"/>
+  </game>
+  <game name="952 - Super Mario Advance (USA) (Demo) (Kiosk)">
+    <description>Super Mario Advance (USA) (Demo) (Kiosk)</description>
+    <info>Because Super Mario Advance was released during the GameCube era, the voice acting for Toad is done by Jen Taylor (Mario Party 4, Mario Kart: Double Dash!!).</info>
+    <patch crc="36266E77" name="Super Mario Advance (USA) (Demo) (Kiosk).ips">
+      <url>https://www.romhacking.net/hacks/952/</url>
+      <patch_id>952</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1731titlescreen.png</image>
+    </patch>
+    <rom crc="69924CBD" md5="7B0C63D4080F79396C0545A86CC1ADBA" name="Super Mario Advance (USA) (Demo) (Kiosk).gba" sha1="05E41B04CDCD73194C0F836639C5774779F50A3F"/>
+  </game>
+  <game name="962 - Fire Emblem (USA, Australia)">
+    <description>Fire Emblem (USA, Australia)</description>
+    <info>A millennium ago, on the continent of Blaine, humans and dragons fought. Humans, unable to match the power of the dragons, gathered together and saved themselves from the brink of extinction by relocating to Solum.</info>
+    <patch crc="2144DF1C" name="Fire Emblem (USA, Australia).ups">
+      <url>https://www.romhacking.net/hacks/962/</url>
+      <patch_id>962</patch_id>
+      <image>https://www.romhacking.net/hacks/gba/images/titles/962titlescreen.PNG</image>
+    </patch>
+    <rom crc="2A524221" md5="F1A1B9742FCD467A531DD4314C4E7D19" name="Fire Emblem (USA, Australia).gba" sha1="C735FDBB9E8ABE19E0C6A44708DF19ACC962E204"/>
+  </game>
+  <game name="964 - Breath of Fire (U) [hI]">
+    <description>Breath of Fire (U) [hI]</description>
+    <info>When Breath of Fire was ported to the GBA in Japan, a few textual changes were made. One of them was to give names to the characters Soldier 1, Soldier 2, and Soldier 3. However, this wasn&amp;#8217;t kept when the game was brought overseas, and rather than being given their proper names, they were once again known as Sr-1, Sr-2, and Sr-3.</info>
+    <patch crc="93422351" name="Breath of Fire (U) [hI].ips">
+      <url>https://www.romhacking.net/hacks/964/</url>
+      <patch_id>964</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/1737titlescreen.jpg</image>
+    </patch>
+    <rom crc="4bbbe9a2" md5="8c0d04e7909814c1bdba874a5a84eb4d" name="Breath of Fire (U) [hI].gba"/>
+  </game>
+  <game name="973 - Golden Sun (USA, Europe)">
+    <description>Golden Sun (USA, Europe)</description>
+    <info>List of changes:</info>
+    <patch crc="69626F73" name="Golden Sun (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/973/</url>
+      <patch_id>973</patch_id>
+      <image>https://www.romhacking.net/translations/gba/images/titles/859titlescreen.png</image>
+    </patch>
+    <rom crc="E1FB68E8" md5="1CDD7F33C9A27061201E1D1CE029A700" name="Golden Sun (USA, Europe).gba" sha1="5C4695205413DF7DB52B9A184815A07783999971"/>
+  </game>
+</datafile>

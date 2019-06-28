@@ -1,0 +1,1563 @@
+<datafile>
+  <game name="1329 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>Here in this patch you have a fully playable Shiva (replaces Max), with new moves and new custom sprites!</info>
+    <patch crc="4902D9B5" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1329/</url>
+      <patch_id>1329</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1330 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This patch places the famous DC Comics heroes Batman and Superman into the game. Now you can take on Mr. X and his Syndicate with the Dark Knight and the Man of Steel!</info>
+    <patch crc="DDE46A59" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1330/</url>
+      <patch_id>1330</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1331 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This hack replaces Blaze with a liquid-metal T-X killing machine, aka Terminatrix, inspired by that seen in Terminator 3!</info>
+    <patch crc="FB811913" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1331/</url>
+      <patch_id>1331</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1332 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This patch replaces Blaze with an android/Terminatrix version of the Lightning character from FFXIII, with new attacks. Also has a death counter.</info>
+    <patch crc="28F0F2DD" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1332/</url>
+      <patch_id>1332</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1333 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>Rock and Roll from the classic Mega Man franchise decide to tackle Mr. X&amp;#8217;s Syndicate in this great ROM hack. Sprites from Marvel vs. Capcom replace Axel and Blaze.</info>
+    <patch crc="4FE7FE6" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1333/</url>
+      <patch_id>1333</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1334 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This hack replaces all selectable characters in SOR2 with a selection from the classic Capcom beat &amp;#8216;em up Street Fighter II.</info>
+    <patch crc="6AFEA120" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1334/</url>
+      <patch_id>1334</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1335 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>Before her adventure in Final Fantasy XIII, Lightning was a fighter under the tutelage of Axel Stone! Thanks to him, she learned to merge her powers of lightning with martial arts. Thanks to klares for this hack.</info>
+    <patch crc="51B0F3FC" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1335/</url>
+      <patch_id>1335</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1336 - Bare Knuckle III (Japan)">
+    <description>Bare Knuckle III (Japan)</description>
+    <info>This hack replaces Axel with his robotic double Break, and also includes playable Shiva and Ash. Use with Bare Knuckle 3 ROM!</info>
+    <patch crc="B6B48539" name="Bare Knuckle III (Japan).ips">
+      <url>https://www.romhacking.net/hacks/1336/</url>
+      <patch_id>1336</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="5D09236F" md5="F1CB9E887BF4BC512D9535C89E420DF7" name="Bare Knuckle III (Japan).md" sha1="B9B2B4A98A9D8F4C49AA1E5395E2279339517FDB"/>
+  </game>
+  <game name="1337 - Bare Knuckle III (Japan)">
+    <description>Bare Knuckle III (Japan)</description>
+    <info>This patch will place previously hidden and unused sound effects from the ROM within the in-game sound test.</info>
+    <patch crc="7090B080" name="Bare Knuckle III (Japan).ips">
+      <url>https://www.romhacking.net/hacks/1337/</url>
+      <patch_id>1337</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="5D09236F" md5="F1CB9E887BF4BC512D9535C89E420DF7" name="Bare Knuckle III (Japan).md" sha1="B9B2B4A98A9D8F4C49AA1E5395E2279339517FDB"/>
+  </game>
+  <game name="1341 - Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World)">
+    <description>Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World)</description>
+    <info>Think the game is too easy? Try this &amp;#8216;Killer&amp;#8217; difficulty hack!</info>
+    <patch crc="7A90604E" name="Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World).ips">
+      <url>https://www.romhacking.net/hacks/1341/</url>
+      <patch_id>1341</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1927titlescreen.png</image>
+    </patch>
+    <rom crc="BFF227C6" md5="569CFEC15813294A8F0CF88CCCC8C151" name="Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World).md" sha1="3D74DBC81F3472A5BDE45BF265E636A72A314667"/>
+  </game>
+  <game name="1342 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>This ROM patch places Ash on the character select screen and is fully playable.</info>
+    <patch crc="998A2F21" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1342/</url>
+      <patch_id>1342</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="1343 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>Another modification of the &amp;#8220;Extreme Edition&amp;#8221; patch. The playable bosses from Bare Knuckle III join the team to take down Mr. X. Abadede was looking for excitement and decided to join as well.</info>
+    <patch crc="1A620836" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1343/</url>
+      <patch_id>1343</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1344 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This patch creates a new &amp;#8220;extreme&amp;#8221; challenge for the seasoned SOR2 player. Features include:</info>
+    <patch crc="C6F628F8" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1344/</url>
+      <patch_id>1344</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/1344titlescreen.jpg</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1345 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>This ROM patch restores the characters in Streets of Rage 3 to their superior Bare Knuckle III colors. The current version (3.13) restores the changed characters&amp;#8217; (ie. Axel, Blaze and Skate) sprites, status bar icons and cut scene pictures amongst other things.</info>
+    <patch crc="7E76D090" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1345/</url>
+      <patch_id>1345</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="1346 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>The Streets of Rage 3 Project is a pair of patches for Bare Knuckle III and Streets of Rage 3, aiming to give a more complete feel to the original game. Game-play is enhanced with lots of bug-fixes, stage 6 hidden areas and bike stages improvements, and a lot more. Consider it a cousin of the discontinued &amp;#8216;Director&amp;#8217;s Cut DX&amp;#8217; hack</info>
+    <patch crc="F86183CE" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1346/</url>
+      <patch_id>1346</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="1347 - Bare Knuckle III (Japan)">
+    <description>Bare Knuckle III (Japan)</description>
+    <info>This hack makes numerous modifications to the mechanics of the game:</info>
+    <patch crc="D7C5DC72" name="Bare Knuckle III (Japan).ips">
+      <url>https://www.romhacking.net/hacks/1347/</url>
+      <patch_id>1347</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/1347titlescreen.gif</image>
+    </patch>
+    <rom crc="5D09236F" md5="F1CB9E887BF4BC512D9535C89E420DF7" name="Bare Knuckle III (Japan).md" sha1="B9B2B4A98A9D8F4C49AA1E5395E2279339517FDB"/>
+  </game>
+  <game name="1353 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>This patch replaces Blaze with an android/Terminatrix version of the Lightning character from FF-XIII, with new attacks. Also has a death counter. Also comes with a trainer version for easier game-play.</info>
+    <patch crc="4E23D701" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1353/</url>
+      <patch_id>1353</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="1354 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>This patch will add/unlock various cheats in-game:</info>
+    <patch crc="12985587" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1354/</url>
+      <patch_id>1354</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="1355 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>Sonic the Hedgehog is back in Streets of Rage 3, with new special attacks, and the ability to change into Super Sonic during the 3-star blitz attack!</info>
+    <patch crc="DCD595D6" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1355/</url>
+      <patch_id>1355</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="1356 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>On this hack all enemies spawn many times, but they have low energy. Great if you want that little bit of an extra challenge! Compatible with other hacks.</info>
+    <patch crc="971F4A0B" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1356/</url>
+      <patch_id>1356</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1357 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>The T-X is back! We can now play SOR3 as the Terminatrix inspired &amp;#8216;Android Ruby&amp;#8217;, complete with new special moves, including the &amp;#8220;Draco Summon&amp;#8221;.</info>
+    <patch crc="4A648ACC" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1357/</url>
+      <patch_id>1357</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="1358 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This patch is a modification of the &amp;#8220;Extreme Edition&amp;#8221; patch, with Frank &amp;#8220;The Punisher&amp;#8221; Castle now as a playable character! It was produced to showcase the abilities of the SOR Pancake hacking tool. For his special attacks he rolls and used his guns to dispatch his enemies quickly! A must for any Punisher fans!</info>
+    <patch crc="ED144DCD" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1358/</url>
+      <patch_id>1358</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1359 - Bare Knuckle III (Japan)">
+    <description>Bare Knuckle III (Japan)</description>
+    <info>This hack replaces Zan with villain Electra as a playable character. (or &amp;#8216;Elle&amp;#8217;, as she became known in SOR)</info>
+    <patch crc="A2D50336" name="Bare Knuckle III (Japan).ips">
+      <url>https://www.romhacking.net/hacks/1359/</url>
+      <patch_id>1359</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="5D09236F" md5="F1CB9E887BF4BC512D9535C89E420DF7" name="Bare Knuckle III (Japan).md" sha1="B9B2B4A98A9D8F4C49AA1E5395E2279339517FDB"/>
+  </game>
+  <game name="1360 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>This hack replaces Zan and Roo on the character select screen with Shiva and Ash (complete with portraits and stats). Both players can select either character, and all 6 characters are available at continue.</info>
+    <patch crc="810643C8" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1360/</url>
+      <patch_id>1360</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="1361 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>This ROM patch allows you to have as Lightning from Final Fantasy XIII as a fully playable character in Streets Of Rage 3.</info>
+    <patch crc="BBB4C4A1" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1361/</url>
+      <patch_id>1361</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="1362 - Bare Knuckle III (Japan)">
+    <description>Bare Knuckle III (Japan)</description>
+    <info>Ash and Shiva both appear on the select screen (with portraits) in addition to all of the other characters if you do the Roo code (On the title screen hold Up+B on Controller 1 and press Start). Characters are then fully playable.</info>
+    <patch crc="F252F6ED" name="Bare Knuckle III (Japan).ips">
+      <url>https://www.romhacking.net/hacks/1362/</url>
+      <patch_id>1362</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="5D09236F" md5="F1CB9E887BF4BC512D9535C89E420DF7" name="Bare Knuckle III (Japan).md" sha1="B9B2B4A98A9D8F4C49AA1E5395E2279339517FDB"/>
+  </game>
+  <game name="1363 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This ROM hack from gsaurus replaces Blaze with Sketch Turner from the classic game Comix Zone. The hack comes with same character cheat for those who want to play with two Sketches cooperatively.</info>
+    <patch crc="2094DA18" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1363/</url>
+      <patch_id>1363</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1364 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>SNK fans will like this one, as Kurenai from the classic Neo Geo title &amp;#8216;Sengoku 3&amp;#8242; makes an appearance in SOR2.</info>
+    <patch crc="F846D0A2" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1364/</url>
+      <patch_id>1364</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1365 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>Cody Travers from Final Fight decides to take down the Syndicate in this hack.</info>
+    <patch crc="70FCF272" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1365/</url>
+      <patch_id>1365</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1366 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This patch will replace Max with Joe Musashi from Sega&amp;#8217;s classic &amp;#8220;Shinobi&amp;#8221; gaming series as a fully playable character.</info>
+    <patch crc="B15C131E" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1366/</url>
+      <patch_id>1366</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1378 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>Come quietly or there will be trouble! In this patch, Robocop joins forces with the ED209 robot to bring down Mr. X and his Syndicate. Dead or alive, you&amp;#8217;re coming with me! Four&amp;#8230; three&amp;#8230; two&amp;#8230; one&amp;#8230; now authorized to use physical force! Complete with the relevant sound effects &amp;#038; a complete different character game-play style!</info>
+    <patch crc="D7932E91" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1378/</url>
+      <patch_id>1378</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1379 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This hack replaces Blaze with the ninja assassin Rudra from SORR v5! They said it couldn&amp;#8217;t be done, but here it is!</info>
+    <patch crc="8E824D20" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/1379/</url>
+      <patch_id>1379</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="1404 - Phantasy Star II (USA, Europe) (Rev A)">
+    <description>Phantasy Star II (USA, Europe) (Rev A)</description>
+    <info>The purpose of this hack is to mitigate many of the flaws of Phantasy Star II in order to create an overall play experience more similar to that of Phantasy Star IV.  This means decreasing the amount of level and money grinding, increasing the number of references to other games in the series, some translation improvement, bug correction, and more.</info>
+    <patch crc="C27CAFB6" name="Phantasy Star II (USA, Europe) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/1404/</url>
+      <patch_id>1404</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/66titlescreen.png</image>
+    </patch>
+    <rom crc="904FA047" md5="0FA38B12CF0AB0163D865600AC731A9A" name="Phantasy Star II (USA, Europe) (Rev A).md" sha1="0711080E968490A6B8C5FAFBB9DB3E62BA597231"/>
+  </game>
+  <game name="1460 - James Pond II - Codename - Robocod (USA, Europe)">
+    <description>James Pond II - Codename - Robocod (USA, Europe)</description>
+    <info>This is James Pond 2 Expert Edition. Inspired by High Seas Havoc&amp;#8217;s expert level, this plays exactly the same as the original, with the only differences are that you have only one power bar, and the cheats in the game are disabled. Good luck with this, you&amp;#8217;ll need it.</info>
+    <patch crc="DD34855D" name="James Pond II - Codename - Robocod (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/1460/</url>
+      <patch_id>1460</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/1460titlescreen.png</image>
+    </patch>
+    <rom crc="F4ABEDBA" md5="BB689DD3822853A5417CDEC4A3DA114B" name="James Pond II - Codename - Robocod (USA, Europe).md" sha1="E00C9AB1F22AEED3031ED9DD985539AA6E31A7A4"/>
+  </game>
+  <game name="151 - Mortal Kombat (World)">
+    <description>Mortal Kombat (World)</description>
+    <info>This rom hack is mostly for fixing those DULLARD cheat menu options to have more clear descriptions, like the Sega CD version has. But I also enabled the blood and changed &amp;#8220;Rayden&amp;#8221; to have his correct name &amp;#8220;Raiden&amp;#8221;.</info>
+    <patch crc="3DEC7940" name="Mortal Kombat (World).ips">
+      <url>https://www.romhacking.net/hacks/151/</url>
+      <patch_id>151</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/930titlescreen.png</image>
+    </patch>
+    <rom crc="1AA3A207" md5="A1DD8A3E4B8C98DEE49D5E90D6B87903" name="Mortal Kombat (World).md" sha1="C098BF38DDD755AB7CAA4612D025BE2039009EB2"/>
+  </game>
+  <game name="1528 - Double Dragon (USA, Europe) (Unl)">
+    <description>Double Dragon (USA, Europe) (Unl)</description>
+    <info>This is a hack of Double Dragon for the Sega Genesis. It fixes two problems of this port. It reduces the walking speed of enemies to make the game much more like the arcade game. Also, throwable objects such as cardboard boxes and barrels will not break after two throws. The value of throws was set to FF (255) so they should never break during normal gameplay.</info>
+    <patch crc="2F519035" name="Double Dragon (USA, Europe) (Unl).ips">
+      <url>https://www.romhacking.net/hacks/1528/</url>
+      <patch_id>1528</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1964titlescreen.jpg</image>
+    </patch>
+    <rom crc="054F5D53" md5="6C34E2FD2B6800194DFAD16FADAEF820" name="Double Dragon (USA, Europe) (Unl).md" sha1="F054FB2C16A78CE5F5CE20A36BF0F2634F169969"/>
+  </game>
+  <game name="1667 - Sonic The Hedgehog (USA, Europe)">
+    <description>Sonic The Hedgehog (USA, Europe)</description>
+    <info>Kirby in Sonic the Hedgehog as you truly imagined, minus the useless copy abilities. The Hack also features &lt;span class="italic"&gt;REV01 background effects, and bugfixes&lt;/span&gt;. Kirby can inhale monitors and most enemies but cannot copy their abilities. Life counter function as Health points and the only way to obtain Health is grabbing every 50+ Rings, Lampposts, Randomized 1Up Monitors, or Score every 50000+ points. The hack also contains 4 Difficulty modes.</info>
+    <patch crc="D8659C4" name="Sonic The Hedgehog (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/1667/</url>
+      <patch_id>1667</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/1667titlescreen.png</image>
+    </patch>
+    <rom crc="F9394E97" md5="1BC674BE034E43C96B86487AC69D9293" name="Sonic The Hedgehog (USA, Europe).md" sha1="6DDB7DE1E17E7F6CDB88927BD906352030DAA194"/>
+  </game>
+  <game name="1674 - Sonic The Hedgehog (USA, Europe)">
+    <description>Sonic The Hedgehog (USA, Europe)</description>
+    <info>&lt;span class="bold"&gt;Metal Sonic Hyperdrive&lt;/span&gt; is a heavy modification of Sonic the Hedgehog (1991) by &lt;span class="italic"&gt;Darkon360&lt;/span&gt; for the Sega Genesis. with brand new Zones, Sonic CD style gameplay, Music, Playable Characters, and Modes. Starting Metal Sonic, taking Sonic&amp;#8217;s role as the main protagonist to stop Dr.Robotnik&amp;#8217;s greatest inventions yet. Also starting special guests such as &lt;span class="italic"&gt;Kirby&lt;/span&gt;, and &lt;span class="italic"&gt;Somari&lt;/span&gt;.</info>
+    <patch crc="655DC7ED" name="Sonic The Hedgehog (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/1674/</url>
+      <patch_id>1674</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/1674titlescreen.png</image>
+    </patch>
+    <rom crc="F9394E97" md5="1BC674BE034E43C96B86487AC69D9293" name="Sonic The Hedgehog (USA, Europe).md" sha1="6DDB7DE1E17E7F6CDB88927BD906352030DAA194"/>
+  </game>
+  <game name="1676 - High Seas Havoc (USA)">
+    <description>High Seas Havoc (USA)</description>
+    <info>This small patch includes data for the unused can of fish, which was left out in High Seas Havoc for unknown reasons. When picked up, this can of fish will heal 75% health, as well as give you the speed boost that the boots give you as well. Some boxes have been changed to include the can of fish. Readme included in the zip.</info>
+    <patch crc="F91C9AF7" name="High Seas Havoc (USA).ips">
+      <url>https://www.romhacking.net/hacks/1676/</url>
+      <patch_id>1676</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/1676titlescreen.png</image>
+    </patch>
+    <rom crc="17BE551C" md5="5479601228FD14FEFBD1D1FD5FCEEBED" name="High Seas Havoc (USA).md" sha1="0DC1969098716BA332978B89356F62961417682B"/>
+  </game>
+  <game name="1722 - Mortal Kombat II (World)">
+    <description>Mortal Kombat II (World)</description>
+    <info>Spanish translation of &lt;a href="http://www.romhacking.net/hacks/596/"&gt;Mortal Kombat II: Unlimited&lt;/a&gt;.</info>
+    <patch crc="BEDC6753" name="Mortal Kombat II (World).ips">
+      <url>https://www.romhacking.net/hacks/1722/</url>
+      <patch_id>1722</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/1722titlescreen.png</image>
+    </patch>
+    <rom crc="A9E013D8" md5="C8E887CA9CDDE7BDE85F324F66D34B2D" name="Mortal Kombat II (World).md" sha1="AF6D2DB16F2B76940FF5A9738F1E00C4E7EA485E"/>
+  </game>
+  <game name="176 - Sonic The Hedgehog (USA, Europe)">
+    <description>Sonic The Hedgehog (USA, Europe)</description>
+    <info>This is a near perfect hack that adds the Spindash into Sonic The Hedgehog. It is perfect in execution and effect. The only thing lacking is the spin animation during peelout.</info>
+    <patch crc="132B3170" name="Sonic The Hedgehog (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/176/</url>
+      <patch_id>176</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/863titlescreen.png</image>
+    </patch>
+    <rom crc="F9394E97" md5="1BC674BE034E43C96B86487AC69D9293" name="Sonic The Hedgehog (USA, Europe).md" sha1="6DDB7DE1E17E7F6CDB88927BD906352030DAA194"/>
+  </game>
+  <game name="186 - Sonic The Hedgehog 2 (World) (Beta) (June, 1992)">
+    <description>Sonic The Hedgehog 2 (World) (Beta) (June, 1992)</description>
+    <info>This fixes Green Hill Zone&amp;#8217;s collision errors in the recently discovered early prototype of Sonic the Hedgehog 2. You must select Green Hill Zone from the level select menu (code below). This hack also enables Tails in Emerald Hill Zone.</info>
+    <patch crc="5CDD476D" name="Sonic The Hedgehog 2 (World) (Beta) (June, 1992).ips">
+      <url>https://www.romhacking.net/hacks/186/</url>
+      <patch_id>186</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/186titlescreen.png</image>
+    </patch>
+    <rom crc="39FAAA70" md5="A460BF633579A80EEBBC09D6809E1B09" name="Sonic The Hedgehog 2 (World) (Beta) (June, 1992).md" sha1="5B51B4D98CB4A7A38157DC4AB9462164DD224BFD"/>
+  </game>
+  <game name="1863 - Dune - The Battle for Arrakis (USA)">
+    <description>Dune - The Battle for Arrakis (USA)</description>
+    <info>Dune Razor Missions is a hack which gives you 5 new campaigns to play. It also has new balance, new units, additional controls etc.</info>
+    <patch crc="C951195F" name="Dune - The Battle for Arrakis (USA).ips">
+      <url>https://www.romhacking.net/hacks/1863/</url>
+      <patch_id>1863</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/1863titlescreen.png</image>
+    </patch>
+    <rom crc="4DEA40BA" md5="D4DF66F77D52718798EC07D350D3A3CD" name="Dune - The Battle for Arrakis (USA).md" sha1="0F7C1C130CB39ABC97F57545933E1EF6C481783D"/>
+  </game>
+  <game name="1943 - NHL 94 (UE) [h1C]">
+    <description>NHL 94 (UE) [h1C]</description>
+    <info>ROM created by top shelf with many thanks to slapshot for letting me use his Canada Cup NHL94 rosters/player ratings.</info>
+    <patch crc="34990B83" name="NHL 94 (UE) [h1C].ips">
+      <url>https://www.romhacking.net/hacks/1943/</url>
+      <patch_id>1943</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/2092titlescreen.png</image>
+    </patch>
+    <rom crc="ea6be931" md5="307054374db3d1c67de472f8b193b87a" name="NHL 94 (UE) [h1C].bin"/>
+  </game>
+  <game name="1960 - Ayrton Senna's Super Monaco GP II (USA) (En,Ja)">
+    <description>Ayrton Senna's Super Monaco GP II (USA) (En,Ja)</description>
+    <info>Ayrton Senna&amp;#8217;s Super Monaco GP II for the Genesis was one of the best racing games released for the SEGA console: it was by no means a realistic simulation (cars behave with a distinct arcade feeling) but it provided a good sense of speed, adequate challenge and some features which were quite innovative at the time (such as slipstreaming and variable weather).</info>
+    <patch crc="E24EDD3D" name="Ayrton Senna's Super Monaco GP II (USA) (En,Ja).ips">
+      <url>https://www.romhacking.net/hacks/1960/</url>
+      <patch_id>1960</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1644titlescreen.png</image>
+    </patch>
+    <rom crc="EAC8DED6" md5="FAD33D8300F3AF2E1C81D74E2F37B688" name="Ayrton Senna's Super Monaco GP II (USA) (En,Ja).md" sha1="1EE87744D86C4BDD4958CC70D77538351AA206E6"/>
+  </game>
+  <game name="2081 - Midnight Resistance (USA)">
+    <description>Midnight Resistance (USA)</description>
+    <info>This patch aims to change some things to make graphically close to the original arcade game.</info>
+    <patch crc="1295F06E" name="Midnight Resistance (USA).ips">
+      <url>https://www.romhacking.net/hacks/2081/</url>
+      <patch_id>2081</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2081titlescreen.png</image>
+    </patch>
+    <rom crc="187C6AF6" md5="809534B635E726F57BF1D95F3E6D7468" name="Midnight Resistance (USA).md" sha1="6CDD9083E2FF72CFB0099FD57A7F9EADE9A74DDA"/>
+  </game>
+  <game name="2082 - Golden Axe (World) (Rev A)">
+    <description>Golden Axe (World) (Rev A)</description>
+    <info>This patch changes the colours for the game Golden Axe for the MegaDrive, aiming to match the original arcade release as much as possible.</info>
+    <patch crc="3581C479" name="Golden Axe (World) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/2082/</url>
+      <patch_id>2082</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2082titlescreen.png</image>
+    </patch>
+    <rom crc="665D7DF9" md5="E4263C39487F0B55E8F33CBD5ACD9B93" name="Golden Axe (World) (Rev A).md" sha1="2CE17105CA916FBBE3AC9AE3A2086E66B07996DD"/>
+  </game>
+  <game name="2083 - OutRun (Japan)">
+    <description>OutRun (Japan)</description>
+    <info>This patch changes the colours for the game OutRun for the MegaDrive, aiming to match the original arcade release as much as possible.</info>
+    <patch crc="44967678" name="OutRun (Japan).ips">
+      <url>https://www.romhacking.net/hacks/2083/</url>
+      <patch_id>2083</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2083titlescreen.png</image>
+    </patch>
+    <rom crc="EE7D9F4A" md5="66EB83DB18506107E3FC8DFEAF7BB031" name="OutRun (Japan).md" sha1="A94C96FFB53080B2C098BE86E715F1DC727BE07D"/>
+  </game>
+  <game name="2084 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This patch is just a personal touch in this game that is already excellent. </info>
+    <patch crc="1838B83D" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2084/</url>
+      <patch_id>2084</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2084titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2090 - Street Fighter II' - Special Champion Edition (U) [f1]">
+    <description>Street Fighter II' - Special Champion Edition (U) [f1]</description>
+    <info>This patch aims to improve and remedy some existing problems in this classic for the Mega Drive. Now the game is much more faithful to the original arcade. </info>
+    <patch crc="5A5AE4AD" name="Street Fighter II' - Special Champion Edition (U) [f1].ips">
+      <url>https://www.romhacking.net/hacks/2090/</url>
+      <patch_id>2090</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2090titlescreen.jpg</image>
+    </patch>
+    <rom crc="90fe09ae" md5="0755d95e4b5205974c445720947464bb" name="Street Fighter II' - Special Champion Edition (U) [f1].bin"/>
+  </game>
+  <game name="2104 - Golden Axe II (World)">
+    <description>Golden Axe II (World)</description>
+    <info>This patch aims to improve the use of colors Golden Axe 2 for Mega Drive enhancing the overall look of the game. </info>
+    <patch crc="B7520829" name="Golden Axe II (World).ips">
+      <url>https://www.romhacking.net/hacks/2104/</url>
+      <patch_id>2104</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2104titlescreen.gif</image>
+    </patch>
+    <rom crc="725E0A18" md5="2CD3573172961FA52F622F14CCFF4E1A" name="Golden Axe II (World).md" sha1="31F12A21AF018CDF88B3F2170AF5389B84FBA7E7"/>
+  </game>
+  <game name="2121 - Castlevania - Bloodlines (USA)">
+    <description>Castlevania - Bloodlines (USA)</description>
+    <info>This patch aims improve the graphics of this underrated classic from Mega Drive. Konami made ​​questionable choices regarding the use of colors. Now everyone can enjoy the Bloodlines in all your glory, enjoy!</info>
+    <patch crc="CF6CE947" name="Castlevania - Bloodlines (USA).ips">
+      <url>https://www.romhacking.net/hacks/2121/</url>
+      <patch_id>2121</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2121titlescreen.gif</image>
+    </patch>
+    <rom crc="FB1EA6DF" md5="0F04FC1B5BF8C9A887ABCF14CE96B0CD" name="Castlevania - Bloodlines (USA).md" sha1="4809CF80CED70E77BC7479BB652A9D9FE22CE7E6"/>
+  </game>
+  <game name="2130 - Ghostbusters (World) (Rev A)">
+    <description>Ghostbusters (World) (Rev A)</description>
+    <info>This hack changes the colors of the uniforms of the Ghostbusters from blue to khaki to make them more accurate to their movie counterparts. It does change the colors of some of the text, some of the enemies, the weapons in the pause menu and Arthur&amp;#8217;s attire but they don&amp;#8217;t look messed up so the changes to them didn&amp;#8217;t ruin the game.</info>
+    <patch crc="B9632F33" name="Ghostbusters (World) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/2130/</url>
+      <patch_id>2130</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2130titlescreen.jpg</image>
+    </patch>
+    <rom crc="792DF93B" md5="D73F3B9FEAC4734E9A391AA211A88159" name="Ghostbusters (World) (Rev A).md" sha1="6FCEFFEE406679C0C8221A8B6CFAD447695E99FB"/>
+  </game>
+  <game name="2131 - Thunder Pro Wrestling Retsuden (Japan)">
+    <description>Thunder Pro Wrestling Retsuden (Japan)</description>
+    <info>This hack changes the colors of the ring mat and the safety mats to make them look more like their PC-Engine counterparts.</info>
+    <patch crc="D1B8FD03" name="Thunder Pro Wrestling Retsuden (Japan).ips">
+      <url>https://www.romhacking.net/hacks/2131/</url>
+      <patch_id>2131</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2131titlescreen.jpg</image>
+    </patch>
+    <rom crc="24408C73" md5="B3A6322647260B29DBD584BC528F05E5" name="Thunder Pro Wrestling Retsuden (Japan).md" sha1="7F41AFBF62D83424067F872A5DFE2C0F0EC40052"/>
+  </game>
+  <game name="2132 - Phantasy Star II (USA, Europe) (Rev A)">
+    <description>Phantasy Star II (USA, Europe) (Rev A)</description>
+    <info>This patch aims to fix bugs and oversights found in the original game, and in addition the game script was revised a little by removing typos, using correct spaces between words and punctuation marks, replacing some poorly translated lines with those taken from the Japanese version, using full names for the planets like the other installments of the series, etc. Some windows were enlarged in order to accommodate full words for the entries, like GIVE instead of GIV, or RIGHT instead of RGHT.</info>
+    <patch crc="3E38A1DA" name="Phantasy Star II (USA, Europe) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/2132/</url>
+      <patch_id>2132</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/66titlescreen.png</image>
+    </patch>
+    <rom crc="904FA047" md5="0FA38B12CF0AB0163D865600AC731A9A" name="Phantasy Star II (USA, Europe) (Rev A).md" sha1="0711080E968490A6B8C5FAFBB9DB3E62BA597231"/>
+  </game>
+  <game name="2137 - Sonic The Hedgehog 2 (World) (Rev A)">
+    <description>Sonic The Hedgehog 2 (World) (Rev A)</description>
+    <info>This is a hack of Sonic the Hedgehog 2. It contains fixes for several bugs and inconsistencies found in the original game. Super Sonic can be used more safely and the transformation can be activated after pressing a button in mid-air, some minor graphical glitches were repaired, game physics are more consistent, and much more. Refer to the Readme file for details.</info>
+    <patch crc="A7CED8D8" name="Sonic The Hedgehog 2 (World) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/2137/</url>
+      <patch_id>2137</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/790titlescreen.png</image>
+    </patch>
+    <rom crc="7B905383" md5="9FEEB724052C39982D432A7851C98D3E" name="Sonic The Hedgehog 2 (World) (Rev A).md" sha1="8BCA5DCEF1AF3E00098666FD892DC1C2A76333F9"/>
+  </game>
+  <game name="2176 - Sonic The Hedgehog (USA, Europe)">
+    <description>Sonic The Hedgehog (USA, Europe)</description>
+    <info>Sonic 1 - YOLO (You Only Live Once) Edition is a harder version of Sonic The Hedgehog 1 for Sega Genesis.</info>
+    <patch crc="19A3AA3" name="Sonic The Hedgehog (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2176/</url>
+      <patch_id>2176</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/863titlescreen.png</image>
+    </patch>
+    <rom crc="F9394E97" md5="1BC674BE034E43C96B86487AC69D9293" name="Sonic The Hedgehog (USA, Europe).md" sha1="6DDB7DE1E17E7F6CDB88927BD906352030DAA194"/>
+  </game>
+  <game name="2177 - Lion King, The (World)">
+    <description>Lion King, The (World)</description>
+    <info>This patch changes all the colors of the game Lion King for the Mega Drive. The objective was to fix some shading and change the crazy colors used here which never pleased me.</info>
+    <patch crc="3966CFB9" name="Lion King, The (World).ips">
+      <url>https://www.romhacking.net/hacks/2177/</url>
+      <patch_id>2177</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2177titlescreen.gif</image>
+    </patch>
+    <rom crc="5696A5BC" md5="E37BF6813648EC5E8BDBD2F7070010F8" name="Lion King, The (World).md" sha1="24CBE4E75EC10E8E0FFBDB400CF86ECB072D4DA9"/>
+  </game>
+  <game name="2259 - Shadow of the Beast - Mashou no Okite (Japan)">
+    <description>Shadow of the Beast - Mashou no Okite (Japan)</description>
+    <info>This patch is intended to make the game Shadow of the Beast with the atmosphere closest to the original Amiga, has also taking advantage of the improvements of this great port for Mega Drive.</info>
+    <patch crc="FE136438" name="Shadow of the Beast - Mashou no Okite (Japan).ips">
+      <url>https://www.romhacking.net/hacks/2259/</url>
+      <patch_id>2259</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2259titlescreen.png</image>
+    </patch>
+    <rom crc="0CD09D31" md5="9CD4A754FCB6793D7470A6FA63903025" name="Shadow of the Beast - Mashou no Okite (Japan).md" sha1="6E4BB7FB1A0F642D72CF58376BF2637E0AC6EF50"/>
+  </game>
+  <game name="2275 - Shadow of the Beast II (USA, Europe)">
+    <description>Shadow of the Beast II (USA, Europe)</description>
+    <info>This patch is intended to make the game Shadow of the Beast II with the Color Palettes closest to the original Amiga and the ATARI ST port.</info>
+    <patch crc="9732E34B" name="Shadow of the Beast II (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2275/</url>
+      <patch_id>2275</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2275titlescreen.png</image>
+    </patch>
+    <rom crc="2DEDE3DB" md5="596C1DDA590F4B6611132206C9184970" name="Shadow of the Beast II (USA, Europe).md" sha1="260A497348313C22F2D1A626150B0915990720C2"/>
+  </game>
+  <game name="2276 - Joe &amp; Mac (USA)">
+    <description>Joe &amp; Mac (USA)</description>
+    <info>Joe &amp;#038; Mac is another excellent arcade port for the Mega Drive, again the aim here is to bring this closer to the original game and all the game content has been redone.</info>
+    <patch crc="77F88AF4" name="Joe &amp; Mac (USA).ips">
+      <url>https://www.romhacking.net/hacks/2276/</url>
+      <patch_id>2276</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2276titlescreen.png</image>
+    </patch>
+    <rom crc="85BCC1C7" md5="9800244038A6235C6D437582AA75F52F" name="Joe &amp; Mac (USA).md" sha1="D238ECDBC76AFFB0B92946A1EE984399B6E8FE27"/>
+  </game>
+  <game name="2283 - Captain America and the Avengers (USA)">
+    <description>Captain America and the Avengers (USA)</description>
+    <info>Captain America and the Avengers is still one of the best heroes games of all time and the Mega Drive port remains the best homemade conversion of this game today. As always this patch aims to fix the problems of the game and makes it more faithful to the arcade original, everything was completely redone and there is nothing left of the original.</info>
+    <patch crc="2F180FD8" name="Captain America and the Avengers (USA).ips">
+      <url>https://www.romhacking.net/hacks/2283/</url>
+      <patch_id>2283</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2283titlescreen.png</image>
+    </patch>
+    <rom crc="E0639CA2" md5="1DC96693AFD74E7B0623A6E06FBDCF87" name="Captain America and the Avengers (USA).md" sha1="AE71B5744DE7CA6AA00D72CCD7713146D87CA002"/>
+  </game>
+  <game name="2287 - Sunset Riders (USA)">
+    <description>Sunset Riders (USA)</description>
+    <info>This patch Improves all color palette of this game to look better and more accurate to the Arcade version!</info>
+    <patch crc="53840F39" name="Sunset Riders (USA).ips">
+      <url>https://www.romhacking.net/hacks/2287/</url>
+      <patch_id>2287</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2287titlescreen.png</image>
+    </patch>
+    <rom crc="AC30C297" md5="19CDF861C543F9C9CD9C8B6B70ADEB1C" name="Sunset Riders (USA).md" sha1="B40EA5B00F477D7B7448447F15B4C571F5E8FF0D"/>
+  </game>
+  <game name="2305 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Max with a Diglett from Pokémon.</info>
+    <patch crc="F9FE88F2" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2305/</url>
+      <patch_id>2305</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2310 - Mortal Kombat II (World)">
+    <description>Mortal Kombat II (World)</description>
+    <info>&lt;a href="http://www.romhacking.net/hacks/596/"&gt;Mortal Kombat II Unlimited&lt;/a&gt; is a definitive version of MK2 made by Smoke for Mega Drive. With his authorization, Pyron did one update that improves the graphics. 
+So everything has changed, all characters and stages receive a new touch to comes closer to original arcade.</info>
+    <patch crc="E4FF7F21" name="Mortal Kombat II (World).ips">
+      <url>https://www.romhacking.net/hacks/2310/</url>
+      <patch_id>2310</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2310titlescreen.gif</image>
+    </patch>
+    <rom crc="A9E013D8" md5="C8E887CA9CDDE7BDE85F324F66D34B2D" name="Mortal Kombat II (World).md" sha1="AF6D2DB16F2B76940FF5A9738F1E00C4E7EA485E"/>
+  </game>
+  <game name="2323 - Fatal Fury 2 (USA, Korea)">
+    <description>Fatal Fury 2 (USA, Korea)</description>
+    <info>Fatal Fury 2 is one of the best fighting games and arcade port for the Mega Drive. This patch try improve the graphics to approximate this game closes to Fatal Fury Special modifications.</info>
+    <patch crc="450126B7" name="Fatal Fury 2 (USA, Korea).ips">
+      <url>https://www.romhacking.net/hacks/2323/</url>
+      <patch_id>2323</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2323titlescreen.png</image>
+    </patch>
+    <rom crc="1B1754CB" md5="E5A4BBE296224C2D6E71079807DFD183" name="Fatal Fury 2 (USA, Korea).md" sha1="52A269DE38ED43EA5C6623906AF6B64F01696FFB"/>
+  </game>
+  <game name="2330 - Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)">
+    <description>Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)</description>
+    <info>Teenage Mutant Ninja Turtles: The Hyperstone Heist is a excellent Turtles game, but has some problems and a dark look that destroys the cool look of the series. This patch restores the cowabunga style of the Turtles and everything is much more closer to the arcade original. Pizza Time!</info>
+    <patch crc="A6F01C75" name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).ips">
+      <url>https://www.romhacking.net/hacks/2330/</url>
+      <patch_id>2330</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2330titlescreen.png</image>
+    </patch>
+    <rom crc="679C41DE" md5="30EDE62C8EFE3E046E5409758B091EB6" name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).md" sha1="F440DFA689F65E782A150C1686AB90D7E5CC6355"/>
+  </game>
+  <game name="2351 - Phantasy Star III - Generations of Doom (USA, Europe, Korea)">
+    <description>Phantasy Star III - Generations of Doom (USA, Europe, Korea)</description>
+    <info>This ROM patch changes a lot. It fixes the dialog to make more sense, the text is actually heavily edited and gives more depth to the characters. Most of the equipment has been renamed to fit more to the Phantasy series, and make sense. (Why someone could wear a robe made out of steel, but couldn&amp;#8217;t wear armor has always been beyond my comprehension.) Equipment has been heavily edited to be weaker than its original, causing enemy battles to be much more complicated. Shops now sell equipment that makes sense for where you are in the game. EXP and MST has been doubled to prevent building up, don&amp;#8217;t worry, due to equipment edits battles are more complicated. Bosses have been edited to be actual battles on your hands. Draconia has become a &amp;#8220;Challenge World&amp;#8221; with fearsome enemies, and all 3 towns have a special surprise inside the shops waiting for the players who dare take on the Challenge of Draconia.</info>
+    <patch crc="DFE64E9E" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).ips">
+      <url>https://www.romhacking.net/hacks/2351/</url>
+      <patch_id>2351</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/67titlescreen.jpg</image>
+    </patch>
+    <rom crc="C6B42B0F" md5="82C7BC027685CC8FC6C9E077BEB1A75A" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).md" sha1="59D4914E652672FD1E453C76B8250D17E8CA154E"/>
+  </game>
+  <game name="2383 - Samurai Shodown (USA)">
+    <description>Samurai Shodown (USA)</description>
+    <info>This patch restore the colorful style of the original arcade game with vivid colors and correct a lot of other stuff.</info>
+    <patch crc="CB1D92B5" name="Samurai Shodown (USA).ips">
+      <url>https://www.romhacking.net/hacks/2383/</url>
+      <patch_id>2383</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2383titlescreen.png</image>
+    </patch>
+    <rom crc="5BB8B2D4" md5="D50B365A99D5EFAE6164EF084E808FF2" name="Samurai Shodown (USA).md" sha1="504CC7A948F96CE1989F8E91FFB42ACC6A956E47"/>
+  </game>
+  <game name="2394 - Art of Fighting (USA)">
+    <description>Art of Fighting (USA)</description>
+    <info>This patch restore the colorful style of the original arcade game with vivid colors and correct a lot of other stuff.</info>
+    <patch crc="A1301A3A" name="Art of Fighting (USA).ips">
+      <url>https://www.romhacking.net/hacks/2394/</url>
+      <patch_id>2394</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2394titlescreen.png</image>
+    </patch>
+    <rom crc="C9A57E07" md5="3B878B854302596CB197602878D0CF07" name="Art of Fighting (USA).md" sha1="7603F33A98994E8145C942E1ED28E6B072332324"/>
+  </game>
+  <game name="2413 - Super Street Fighter II (USA)">
+    <description>Super Street Fighter II (USA)</description>
+    <info>This patch restore the colorful style of the original arcade game with vivid colors and correct a lot of other stuff.</info>
+    <patch crc="922B5866" name="Super Street Fighter II (USA).ips">
+      <url>https://www.romhacking.net/hacks/2413/</url>
+      <patch_id>2413</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2413titlescreen.png</image>
+    </patch>
+    <rom crc="165DEFBF" md5="75950E3AA9357A21715FFE2FA51A454C" name="Super Street Fighter II (USA).md" sha1="9CE6E69DB9D28386F7542DACD3E3EAD28EACF2A4"/>
+  </game>
+  <game name="2464 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces some characters for the characters of the game &amp;#8220;Ristar the Shooting Star&amp;#8221;.</info>
+    <patch crc="FAB00BE5" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2464/</url>
+      <patch_id>2464</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2464titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2465 - Vapor Trail (USA)">
+    <description>Vapor Trail (USA)</description>
+    <info>This patch restore the colorful style of the original arcade game with vivid colors and correct a lot of other stuff.</info>
+    <patch crc="C2379037" name="Vapor Trail (USA).ips">
+      <url>https://www.romhacking.net/hacks/2465/</url>
+      <patch_id>2465</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2465titlescreen.png</image>
+    </patch>
+    <rom crc="C49E3A0A" md5="CFF6076504B1097BB89848C0698EF2A2" name="Vapor Trail (USA).md" sha1="D8EB087EEDA31F202E6A1A0C4DE891CED162ABC5"/>
+  </game>
+  <game name="2500 - Phantasy Star III - Generations of Doom (USA, Europe, Korea)">
+    <description>Phantasy Star III - Generations of Doom (USA, Europe, Korea)</description>
+    <info>This is a color hack for Phantasy Star III made with Aridia and HivePal, taking the graphics of the game in the direction of games like Soleil and World of Illusion. The current version is complete for Rhys&amp;#8217; (generation 1), Ayn&amp;#8217;s (generation 2), and Sean&amp;#8217;s (generation 3) scenarios. All battle backgrounds, enemies and most field and cutscene graphics for those have been edited. </info>
+    <patch crc="CA0FC62C" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).ips">
+      <url>https://www.romhacking.net/hacks/2500/</url>
+      <patch_id>2500</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/67titlescreen.jpg</image>
+    </patch>
+    <rom crc="C6B42B0F" md5="82C7BC027685CC8FC6C9E077BEB1A75A" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).md" sha1="59D4914E652672FD1E453C76B8250D17E8CA154E"/>
+  </game>
+  <game name="2510 - Dune - The Battle for Arrakis (USA)">
+    <description>Dune - The Battle for Arrakis (USA)</description>
+    <info>In this hack you will control the Battle City&amp;#8217;s tanks to complete one tower defense mission.</info>
+    <patch crc="B35AFECF" name="Dune - The Battle for Arrakis (USA).ips">
+      <url>https://www.romhacking.net/hacks/2510/</url>
+      <patch_id>2510</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2510titlescreen.png</image>
+    </patch>
+    <rom crc="4DEA40BA" md5="D4DF66F77D52718798EC07D350D3A3CD" name="Dune - The Battle for Arrakis (USA).md" sha1="0F7C1C130CB39ABC97F57545933E1EF6C481783D"/>
+  </game>
+  <game name="2535 - Turrican (USA, Europe) (Unl)">
+    <description>Turrican (USA, Europe) (Unl)</description>
+    <info>Turrican for the Genesis is a okay port, but have 2 big problems:</info>
+    <patch crc="35AF8F33" name="Turrican (USA, Europe) (Unl).ips">
+      <url>https://www.romhacking.net/hacks/2535/</url>
+      <patch_id>2535</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2535titlescreen.png</image>
+    </patch>
+    <rom crc="634D67A6" md5="CA0E4BD18F573D4F1166C5067C47594A" name="Turrican (USA, Europe) (Unl).md" sha1="5A471A276909DCC428CD66C51047AA8A142C76A8"/>
+  </game>
+  <game name="2540 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Axel with Havoc from the Genesis game &amp;#8220;High Seas Havoc&amp;#8221;.Besides the change of sprites, his physics was changed, his speed was increased and has the ability to run.</info>
+    <patch crc="37B16BAE" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2540/</url>
+      <patch_id>2540</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2540titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2604 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This hack restores all the stuff that got censored and removed from the American version back to it, it also fixes the names of three enemies and changes the music on one stage as well. </info>
+    <patch crc="20F9167E" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2604/</url>
+      <patch_id>2604</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2637 - Altered Beast (USA, Europe)">
+    <description>Altered Beast (USA, Europe)</description>
+    <info>This patch brings back some of visual style of the arcade version of the game mixing with my personal touch.</info>
+    <patch crc="B9103D1A" name="Altered Beast (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2637/</url>
+      <patch_id>2637</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2637titlescreen.png</image>
+    </patch>
+    <rom crc="154D59BB" md5="2ED5293E46ABE1E74EDEB96DA0E7A618" name="Altered Beast (USA, Europe).md" sha1="38945360D824D2FB9535B4FD7F25B9AA9B32F019"/>
+  </game>
+  <game name="2645 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Axel with Max from the “Sam and Max” franchise. In this update his physics was changed and new moves were added.</info>
+    <patch crc="98641AB4" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2645/</url>
+      <patch_id>2645</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2645titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2683 - Sonic The Hedgehog 2 (World) (Rev A)">
+    <description>Sonic The Hedgehog 2 (World) (Rev A)</description>
+    <info>Kirby in Sonic the Hedgehog 2 features Kirby and Waddle Dee as the lead protagonists to defeat Dr&amp;#8217;Robotnik. Kirby can inhale monitors and most enemies but cannot copy their abilities, Waddle Dee has no unique moves. Life counter function as Health points and the only way to obtain Health is grabbing every 50+ Rings, Lampposts, Randomized 1Up Monitors, or Score every 50000+ points. The hack also contains 4 Difficulty modes. Hidden Palace is restored and fully playable as a 1 Act Zone for Kirby, located somewhere in Mystic Cave Act 2</info>
+    <patch crc="14D805BC" name="Sonic The Hedgehog 2 (World) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/2683/</url>
+      <patch_id>2683</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2683titlescreen.png</image>
+    </patch>
+    <rom crc="7B905383" md5="9FEEB724052C39982D432A7851C98D3E" name="Sonic The Hedgehog 2 (World) (Rev A).md" sha1="8BCA5DCEF1AF3E00098666FD892DC1C2A76333F9"/>
+  </game>
+  <game name="2684 - Shining Force II (USA)">
+    <description>Shining Force II (USA)</description>
+    <info>This hack has been created in order to offer a new version of Shining Force II to play.</info>
+    <patch crc="1386C293" name="Shining Force II (USA).ips">
+      <url>https://www.romhacking.net/hacks/2684/</url>
+      <patch_id>2684</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/919titlescreen.jpg</image>
+    </patch>
+    <rom crc="4815E075" md5="6473B1505334EF5620D13191C18251FE" name="Shining Force II (USA).md" sha1="22DEFC2E8E6C1DBB20421B906796538725B3D893"/>
+  </game>
+  <game name="2698 - Sonic The Hedgehog (USA, Europe)">
+    <description>Sonic The Hedgehog (USA, Europe)</description>
+    <info>Based off the unlicensed port of Sonic the Hedgehog for the NES/Famicom by Hummer Team, Somari the Adventurer replaces Sonic with 3 unique new moves. Mushroom Kingdom Zone is a newly added 1-Act level as the first zone.
+ </info>
+    <patch crc="7263259D" name="Sonic The Hedgehog (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2698/</url>
+      <patch_id>2698</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2698titlescreen.png</image>
+    </patch>
+    <rom crc="F9394E97" md5="1BC674BE034E43C96B86487AC69D9293" name="Sonic The Hedgehog (USA, Europe).md" sha1="6DDB7DE1E17E7F6CDB88927BD906352030DAA194"/>
+  </game>
+  <game name="2702 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Axel with Flash from the DC comics and increase absurdly his speed!</info>
+    <patch crc="881A48F" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2702/</url>
+      <patch_id>2702</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2702titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2707 - Altered Beast (USA, Europe)">
+    <description>Altered Beast (USA, Europe)</description>
+    <info>Swapped all the Voice Samples found on this version with the original Voice samples from the Arcade just to make this version a little more faithful to the original.</info>
+    <patch crc="99BE450" name="Altered Beast (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2707/</url>
+      <patch_id>2707</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2707titlescreen.png</image>
+    </patch>
+    <rom crc="154D59BB" md5="2ED5293E46ABE1E74EDEB96DA0E7A618" name="Altered Beast (USA, Europe).md" sha1="38945360D824D2FB9535B4FD7F25B9AA9B32F019"/>
+  </game>
+  <game name="2747 - Darius II (Japan)">
+    <description>Darius II (Japan)</description>
+    <info>This patch restore the colorful style of the original arcade game with vivid colors and correct a lot of other stuff.</info>
+    <patch crc="9A497956" name="Darius II (Japan).ips">
+      <url>https://www.romhacking.net/hacks/2747/</url>
+      <patch_id>2747</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2747titlescreen.png</image>
+    </patch>
+    <rom crc="25DFE62A" md5="4AB80160BA6811A48E0482C402941062" name="Darius II (Japan).md" sha1="93593E4014E13DB90FEDC1903A402C6F7D885A2F"/>
+  </game>
+  <game name="2771 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Axel for Earthworm Jim. The voices of Axel was replaced by Earthworm Jim voices and some sound effects of Earthworm Jim games were also used.</info>
+    <patch crc="2AE3C606" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2771/</url>
+      <patch_id>2771</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2771titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2775 - Mighty Morphin Power Rangers - The Movie (USA)">
+    <description>Mighty Morphin Power Rangers - The Movie (USA)</description>
+    <info>This patch restore the colorful style of the TV Show with vivid colors and corrects a lot of other stuff.</info>
+    <patch crc="2B7F6486" name="Mighty Morphin Power Rangers - The Movie (USA).ips">
+      <url>https://www.romhacking.net/hacks/2775/</url>
+      <patch_id>2775</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2775titlescreen.png</image>
+    </patch>
+    <rom crc="AA941CBC" md5="BBF3C7BFAD1E2110DA1469C711949709" name="Mighty Morphin Power Rangers - The Movie (USA).md" sha1="866D7CCC204E45D188594DDE99C2EA836912A136"/>
+  </game>
+  <game name="280 - Phantasy Star IV (USA)">
+    <description>Phantasy Star IV (USA)</description>
+    <info>This is a comprehensive hack of Phantasy Star IV: The End of the Millennium for the Sega Genesis.  The general idea behind this mod is to have every battle be a fight for your life!  Every monster has been edited to greatly raise the game’s difficulty, making each battle much longer, especially late-game.  And yes, despite the difficulty increase, all monsters give the same amount of experience, so, welcome to hell!</info>
+    <patch crc="2A98920A" name="Phantasy Star IV (USA).ips">
+      <url>https://www.romhacking.net/hacks/280/</url>
+      <patch_id>280</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/280titlescreen.gif</image>
+    </patch>
+    <rom crc="FE236442" md5="84CBD0FF47F3C8E9D21D2C2FC39185FA" name="Phantasy Star IV (USA).md" sha1="BC7FF6D6A8408F38562BC610F24645CAD6C42629"/>
+  </game>
+  <game name="281 - Phantasy Star IV (USA)">
+    <description>Phantasy Star IV (USA)</description>
+    <info>This is a comprehensive hack of Phantasy Star IV: The End of the Millennium for the Sega Genesis, built of the Hell Mode Mod patch.  The general idea behind this mod, like Hell Mode, is to have every battle be a fight for your life!  Every monster has been edited to greatly raise the game’s difficulty, making each battle much longer, especially late-game.  </info>
+    <patch crc="A496945F" name="Phantasy Star IV (USA).ips">
+      <url>https://www.romhacking.net/hacks/281/</url>
+      <patch_id>281</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1062titlescreen.png</image>
+    </patch>
+    <rom crc="FE236442" md5="84CBD0FF47F3C8E9D21D2C2FC39185FA" name="Phantasy Star IV (USA).md" sha1="BC7FF6D6A8408F38562BC610F24645CAD6C42629"/>
+  </game>
+  <game name="2867 - Phantasy Star II (USA, Europe) (Rev A)">
+    <description>Phantasy Star II (USA, Europe) (Rev A)</description>
+    <info>This patch of Phantasy Star II doubles the characters&amp;#8217; walking speed. Jet Scooter speed is unaltered.</info>
+    <patch crc="B53217F6" name="Phantasy Star II (USA, Europe) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/2867/</url>
+      <patch_id>2867</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/66titlescreen.png</image>
+    </patch>
+    <rom crc="904FA047" md5="0FA38B12CF0AB0163D865600AC731A9A" name="Phantasy Star II (USA, Europe) (Rev A).md" sha1="0711080E968490A6B8C5FAFBB9DB3E62BA597231"/>
+  </game>
+  <game name="2868 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This hack replace Axel with Pulseman. Aside from sprite changes, the voices of Axel are replaced by the voices of Pulseman, his speed are increased and he is capable of running!</info>
+    <patch crc="7406F764" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2868/</url>
+      <patch_id>2868</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2868titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2869 - Twinkle Tale (Japan)">
+    <description>Twinkle Tale (Japan)</description>
+    <info>Twinkle Tale is one of the most beautiful games for the Mega Drive, however it is loaded with dark graphics and lifeless color, which does not match with a Cute &amp;#8216;Em Up game, so this patch is intended to make it more colorful giving a another tone for this great game.</info>
+    <patch crc="D89B4670" name="Twinkle Tale (Japan).ips">
+      <url>https://www.romhacking.net/hacks/2869/</url>
+      <patch_id>2869</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2869titlescreen.png</image>
+    </patch>
+    <rom crc="D757F924" md5="809887A9535753EE7A13C8A2D365F0EB" name="Twinkle Tale (Japan).md" sha1="5377E96B4CB14038675C41D165F1D92AE067CD9B"/>
+  </game>
+  <game name="2883 - Phantasy Star III - Generations of Doom (USA, Europe, Korea)">
+    <description>Phantasy Star III - Generations of Doom (USA, Europe, Korea)</description>
+    <info>This is a Phantasy Star III patch which corrects a few glaring bugs and inconsistencies. As a small enhancement now it&amp;#8217;s possible to reach level 99.</info>
+    <patch crc="CCA62FFC" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).ips">
+      <url>https://www.romhacking.net/hacks/2883/</url>
+      <patch_id>2883</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/67titlescreen.jpg</image>
+    </patch>
+    <rom crc="C6B42B0F" md5="82C7BC027685CC8FC6C9E077BEB1A75A" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).md" sha1="59D4914E652672FD1E453C76B8250D17E8CA154E"/>
+  </game>
+  <game name="2888 - Chiki Chiki Boys (USA, Europe)">
+    <description>Chiki Chiki Boys (USA, Europe)</description>
+    <info>This patch restore the colorful style of the original arcade game with vivid colors and correct a lot of other stuff.</info>
+    <patch crc="578AB131" name="Chiki Chiki Boys (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/2888/</url>
+      <patch_id>2888</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2888titlescreen.png</image>
+    </patch>
+    <rom crc="813A7D62" md5="B89406FF3537D74F77A4F7E5E71B25B7" name="Chiki Chiki Boys (USA, Europe).md" sha1="3CBEB068751C39790116AA8F422DD6F333BE42E0"/>
+  </game>
+  <game name="2890 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a hack which adds Scott Pilgrim, Ramona Flowers, Kim Pine, and Stephen Stills to Streets of Rage 2.</info>
+    <patch crc="326D65B9" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2890/</url>
+      <patch_id>2890</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2891 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a hack of Streets of Rage 2 that changes all 4 playable characters with the 4 turtles of Teenage Mutant Ninja Turtles.</info>
+    <patch crc="75EFC2C2" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2891/</url>
+      <patch_id>2891</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="2929 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Max for Dio Brando of the game &amp;#8220;Jojo&amp;#8217;s Bizarre Adventure: Heritage for the Future&amp;#8221;. The voices of Max are replaced by the voices of Dio Brando and also his speed was increased.</info>
+    <patch crc="9269D0BC" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/2929/</url>
+      <patch_id>2929</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/2929titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3006 - Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)">
+    <description>Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)</description>
+    <info>Multiple hacks of the gauntlet stage.</info>
+    <patch crc="9D6C0511" name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).ips">
+      <url>https://www.romhacking.net/hacks/3006/</url>
+      <patch_id>3006</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/2249titlescreen.png</image>
+    </patch>
+    <rom crc="679C41DE" md5="30EDE62C8EFE3E046E5409758B091EB6" name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).md" sha1="F440DFA689F65E782A150C1686AB90D7E5CC6355"/>
+  </game>
+  <game name="3011 - Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)">
+    <description>Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)</description>
+    <info>A hack of Hyperstone Heist to replace the first level with a simplified version of the big apple level from the turtles in time.  Also includes several updates in the opening aspects of the game.</info>
+    <patch crc="6DF3FDFD" name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).ips">
+      <url>https://www.romhacking.net/hacks/3011/</url>
+      <patch_id>3011</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3011titlescreen.png</image>
+    </patch>
+    <rom crc="679C41DE" md5="30EDE62C8EFE3E046E5409758B091EB6" name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).md" sha1="F440DFA689F65E782A150C1686AB90D7E5CC6355"/>
+  </game>
+  <game name="3048 - Bare Knuckle III (Japan)">
+    <description>Bare Knuckle III (Japan)</description>
+    <info>This patch brings the great engineer Mustapha Cairo to strengthen the cast of this great classic.</info>
+    <patch crc="EE346D58" name="Bare Knuckle III (Japan).ips">
+      <url>https://www.romhacking.net/hacks/3048/</url>
+      <patch_id>3048</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1276titlescreen.jpg</image>
+    </patch>
+    <rom crc="5D09236F" md5="F1CB9E887BF4BC512D9535C89E420DF7" name="Bare Knuckle III (Japan).md" sha1="B9B2B4A98A9D8F4C49AA1E5395E2279339517FDB"/>
+  </game>
+  <game name="3063 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>Puyo Puyo characters in Streets of Rage 2.</info>
+    <patch crc="E4C4AB98" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3063/</url>
+      <patch_id>3063</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3074 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>The Simpsons characters in Streets of Rage 2.</info>
+    <patch crc="7175DE4C" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3074/</url>
+      <patch_id>3074</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3074titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3075 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>Sonic and Hatsune Miku join forces to defeat Dr. Robotnik.</info>
+    <patch crc="578ABD08" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3075/</url>
+      <patch_id>3075</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3075titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3102 - Golden Axe II (World)">
+    <description>Golden Axe II (World)</description>
+    <info>This is a color palette hack of Golden Axe II.</info>
+    <patch crc="2013D053" name="Golden Axe II (World).ips">
+      <url>https://www.romhacking.net/hacks/3102/</url>
+      <patch_id>3102</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3102titlescreen.png</image>
+    </patch>
+    <rom crc="725E0A18" md5="2CD3573172961FA52F622F14CCFF4E1A" name="Golden Axe II (World).md" sha1="31F12A21AF018CDF88B3F2170AF5389B84FBA7E7"/>
+  </game>
+  <game name="3109 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Max with The Mask. Besides the change of sprites, his physics was changed, his speed was increased and has the ability to run.</info>
+    <patch crc="9045DAEA" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3109/</url>
+      <patch_id>3109</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3109titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3122 - Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)">
+    <description>Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)</description>
+    <info>The Japan and Europe versions Hyperstone Heist have a code to support 2 player friendly fire (press CBBAAABA during the Konami screen and a confirmation sound will play).  Since this code was not in the US version, this hack adds friendly fire to the US version.</info>
+    <patch crc="BA8B15DE" name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).ips">
+      <url>https://www.romhacking.net/hacks/3122/</url>
+      <patch_id>3122</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/2249titlescreen.png</image>
+    </patch>
+    <rom crc="679C41DE" md5="30EDE62C8EFE3E046E5409758B091EB6" name="Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).md" sha1="F440DFA689F65E782A150C1686AB90D7E5CC6355"/>
+  </game>
+  <game name="3133 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>Candra Returns takes place after Streets of Rage 2: Girls&amp;#8217; Paradise. Candra Minsky and her robot clone Sandra try to defeat Neo Chaos.</info>
+    <patch crc="BF802C1D" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3133/</url>
+      <patch_id>3133</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3133titlescreen.png</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="3155 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Max for Tick. The voices of Max was replaced by the voices of Tick from the Sega Genesis game &amp;#8220;The Tick&amp;#8221;, his speed was increased, his physics was modified, he is capable of running and tick has different attacks in comparison with Max.</info>
+    <patch crc="E934F36C" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3155/</url>
+      <patch_id>3155</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3155titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3168 - Shining Force (USA)">
+    <description>Shining Force (USA)</description>
+    <info>This hack improves a few things about the gameplay to make your Shining Force experience more enjoyable. </info>
+    <patch crc="2B825BAF" name="Shining Force (USA).ips">
+      <url>https://www.romhacking.net/hacks/3168/</url>
+      <patch_id>3168</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/872titlescreen.jpg</image>
+    </patch>
+    <rom crc="E0594ABE" md5="4B4ACBE75FF7AAEB534AB78ED95910D1" name="Shining Force (USA).md" sha1="7CBB3ED31C982750D70A273B9561A9E1B2C04EEA"/>
+  </game>
+  <game name="3169 - Streets of Rage 3 (USA)">
+    <description>Streets of Rage 3 (USA)</description>
+    <info>Beavis and Butt-Head are added as playable characters into Streets of Rage 3. Stewart Stevenson is also playable character. The in game text has been updated to be more moronic. Some sounds changed also.</info>
+    <patch crc="F123DE70" name="Streets of Rage 3 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3169/</url>
+      <patch_id>3169</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3169titlescreen.png</image>
+    </patch>
+    <rom crc="D5BB15D9" md5="2D0B0C8F10EDF76131708E874E8D1EE4" name="Streets of Rage 3 (USA).md" sha1="40A33DD6F9DAB0AFF26C7525C9B8F342482C7AF6"/>
+  </game>
+  <game name="3176 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>The ROM hack no one wanted but you got anyway. Steven Seagal 
+replaces Axel as a playable character. Some sounds have been 
+added.</info>
+    <patch crc="F11AA1C7" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3176/</url>
+      <patch_id>3176</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3178 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>Kung Fury in SoR2. Replaces Axel as a playable character. 
+Some sounds have been added.</info>
+    <patch crc="25DFB57A" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3178/</url>
+      <patch_id>3178</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3178titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3200 - Sonic The Hedgehog (USA, Europe)">
+    <description>Sonic The Hedgehog (USA, Europe)</description>
+    <info>This is a hack that fixes some bugs in the original Sonic the Hedgehog for Genesis.
+Refer to the Readme for details on what was fixed.</info>
+    <patch crc="E1C3F3CE" name="Sonic The Hedgehog (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/3200/</url>
+      <patch_id>3200</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3200titlescreen.png</image>
+    </patch>
+    <rom crc="F9394E97" md5="1BC674BE034E43C96B86487AC69D9293" name="Sonic The Hedgehog (USA, Europe).md" sha1="6DDB7DE1E17E7F6CDB88927BD906352030DAA194"/>
+  </game>
+  <game name="3204 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Axel for The Shadow sprites of the game &amp;#8220;The Shadow&amp;#8221;. His physics was modified and The Shadow has different attacks in comparison with Axel.</info>
+    <patch crc="6E8A47A6" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3204/</url>
+      <patch_id>3204</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1925titlescreen.gif</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3207 - Sonic The Hedgehog (USA, Europe)">
+    <description>Sonic The Hedgehog (USA, Europe)</description>
+    <info>The main goal of this hack is to improve the flow of the first Sonic for MD/GEN while keeping the original level design mostly intact, keeping the player on the move or occupied with something interesting as often as possible. 
+Initially meant to just do something about the slower segments in marble zone, and the elevators in spring yard zone, it later grew into something more, with changes to every act. </info>
+    <patch crc="57A428DE" name="Sonic The Hedgehog (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/3207/</url>
+      <patch_id>3207</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/863titlescreen.png</image>
+    </patch>
+    <rom crc="F9394E97" md5="1BC674BE034E43C96B86487AC69D9293" name="Sonic The Hedgehog (USA, Europe).md" sha1="6DDB7DE1E17E7F6CDB88927BD906352030DAA194"/>
+  </game>
+  <game name="3209 - Sonic The Hedgehog 2 (World) (Rev A)">
+    <description>Sonic The Hedgehog 2 (World) (Rev A)</description>
+    <info>As with Luv Da Flo for Sonic 1, the main goal of this hack is to improve the flow in the original Sonic 2 for MD/GEN. Secondary goals are to reduce cheap hits and leaps of faith, make the difficulty more consistent, and to make zones more interconnected. </info>
+    <patch crc="230CA4DF" name="Sonic The Hedgehog 2 (World) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/3209/</url>
+      <patch_id>3209</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/790titlescreen.png</image>
+    </patch>
+    <rom crc="7B905383" md5="9FEEB724052C39982D432A7851C98D3E" name="Sonic The Hedgehog 2 (World) (Rev A).md" sha1="8BCA5DCEF1AF3E00098666FD892DC1C2A76333F9"/>
+  </game>
+  <game name="3212 - Street Fighter II' - Special Champion Edition (U) [f1]">
+    <description>Street Fighter II' - Special Champion Edition (U) [f1]</description>
+    <info>Color and Graphic hack.
+Title screen, options screen, select, vs, characters, stages&amp;#8230;all</info>
+    <patch crc="B75E44F1" name="Street Fighter II' - Special Champion Edition (U) [f1].ips">
+      <url>https://www.romhacking.net/hacks/3212/</url>
+      <patch_id>3212</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3212titlescreen.png</image>
+    </patch>
+    <rom crc="90fe09ae" md5="0755d95e4b5205974c445720947464bb" name="Street Fighter II' - Special Champion Edition (U) [f1].bin"/>
+  </game>
+  <game name="3275 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This is a player sprite hack of Streets of Rage 2 which replaces Max for Bubsy. Besides the change of sprites, the appearance of the character is changed, Bubsy has the ability of run and has a vault.</info>
+    <patch crc="91C0361C" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3275/</url>
+      <patch_id>3275</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3275titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3306 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This hack of Streets of Rage 2 replaces Axel sprites and voice with Ren and Stimpy sprites and voice from the game &amp;#8220;The Ren and Stimpy Show: Stimpy&amp;#8217;s Invention&amp;#8221;. Besides the change of sprites the physical of the character was changed and his speed was increased.</info>
+    <patch crc="E78BD3C" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3306/</url>
+      <patch_id>3306</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3306titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="3381 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This hack of Streets of Rage 2 replaces Max sprites with Hulk Hogan from the game &amp;#8220;WWF Superstars&amp;#8221; for Arcade. Besides the change of sprites the physical of the character was changed and his speed was increased.</info>
+    <patch crc="A4365190" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3381/</url>
+      <patch_id>3381</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3381titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="344 - Phantasy Star II (USA, Europe) (Rev A)">
+    <description>Phantasy Star II (USA, Europe) (Rev A)</description>
+    <info>This is a thorough alteration of Phantasy Star II for the Sega Genesis that changes nearly every facet of the game.  It slightly lowers the difficulty from the notoriously difficult original, it now ties-in better with the rest of the classic Phantasy Star series, with a completely rewritten story, and the great surprise veterans have wanted for over a decade!  So newcomers and veterans alike, come enjoy the &lt;span class="bold"&gt;Numan Revolution!&lt;/span&gt;
+Features:</info>
+    <patch crc="829C392D" name="Phantasy Star II (USA, Europe) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/344/</url>
+      <patch_id>344</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/344titlescreen.gif</image>
+    </patch>
+    <rom crc="904FA047" md5="0FA38B12CF0AB0163D865600AC731A9A" name="Phantasy Star II (USA, Europe) (Rev A).md" sha1="0711080E968490A6B8C5FAFBB9DB3E62BA597231"/>
+  </game>
+  <game name="3483 - Street Fighter II' - Special Champion Edition (U) [f1]">
+    <description>Street Fighter II' - Special Champion Edition (U) [f1]</description>
+    <info>This hack changes the names of the three bosses back to their original names on everything in this game.</info>
+    <patch crc="9C63C64A" name="Street Fighter II' - Special Champion Edition (U) [f1].ips">
+      <url>https://www.romhacking.net/hacks/3483/</url>
+      <patch_id>3483</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1984titlescreen.gif</image>
+    </patch>
+    <rom crc="90fe09ae" md5="0755d95e4b5205974c445720947464bb" name="Street Fighter II' - Special Champion Edition (U) [f1].bin"/>
+  </game>
+  <game name="3497 - Zero Wing (Europe)">
+    <description>Zero Wing (Europe)</description>
+    <info>This Patch change the region of Zero Wing PAL/EUROPE to NTSC/USA so it can be played at 60Hz.</info>
+    <patch crc="9C79B79E" name="Zero Wing (Europe).ips">
+      <url>https://www.romhacking.net/hacks/3497/</url>
+      <patch_id>3497</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3497titlescreen.png</image>
+    </patch>
+    <rom crc="89B744A3" md5="5F4F2FB8C7B8C50EFBC6EED57CE3DAE3" name="Zero Wing (Europe).md" sha1="98335B97C5E21F7F8C5436427621836660B91075"/>
+  </game>
+  <game name="350 - Phantasy Star II (USA, Europe) (Rev A)">
+    <description>Phantasy Star II (USA, Europe) (Rev A)</description>
+    <info>This is a thorough alteration of Phantasy Star II for the Sega Genesis that changes nearly every facet of the game; all the changes from the Numan Revolution patch, plus a 50% increase in difficulty, 4 new enemies, many new monster encounters, and altered monster abilities.  Not for the feint of heart!  But those ready for challenge, get ready for the &lt;span class="bold"&gt;Evil Overload!&lt;/span&gt;.
+Features:</info>
+    <patch crc="EC9A2EF" name="Phantasy Star II (USA, Europe) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/350/</url>
+      <patch_id>350</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/350titlescreen.gif</image>
+    </patch>
+    <rom crc="904FA047" md5="0FA38B12CF0AB0163D865600AC731A9A" name="Phantasy Star II (USA, Europe) (Rev A).md" sha1="0711080E968490A6B8C5FAFBB9DB3E62BA597231"/>
+  </game>
+  <game name="354 - Rings of Power (USA, Europe)">
+    <description>Rings of Power (USA, Europe)</description>
+    <info>Rings of Power - The Hand of Nexus V2.0.</info>
+    <patch crc="BDB2CC0E" name="Rings of Power (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/354/</url>
+      <patch_id>354</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1128titlescreen.PNG</image>
+    </patch>
+    <rom crc="41FCC497" md5="30C18FDBE2183F64702AE9F1A45D63F9" name="Rings of Power (USA, Europe).md" sha1="84851CE4527761B8D74CE581C19E15D0DD17F368"/>
+  </game>
+  <game name="3557 - McDonald's Treasure Land Adventure (USA)">
+    <description>McDonald's Treasure Land Adventure (USA)</description>
+    <info>This hack restores all the content that got censored in the American version of this game back to their original format.</info>
+    <patch crc="2B9FB6B3" name="McDonald's Treasure Land Adventure (USA).ips">
+      <url>https://www.romhacking.net/hacks/3557/</url>
+      <patch_id>3557</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3557titlescreen.png</image>
+    </patch>
+    <rom crc="04EF4899" md5="2346C99595A4F341E39E6EC75FE19908" name="McDonald's Treasure Land Adventure (USA).md" sha1="BCB77C10BC8F3322599269214E0F8DDE32B01A5C"/>
+  </game>
+  <game name="3586 - Streets of Rage 2 (USA)">
+    <description>Streets of Rage 2 (USA)</description>
+    <info>This hack replaces Axel and Max sprites with a ditto and a shiny ditto. Besides the change of sprites the characters have their physics and their voices changed; and both&amp;#8217;s players are invinciblile against partner&amp;#8217;s grapple attacks, hits from partner and thrown enemies by partner. Boths Dittos turn into different pokémons as a form of attack</info>
+    <patch crc="34C53AF" name="Streets of Rage 2 (USA).ips">
+      <url>https://www.romhacking.net/hacks/3586/</url>
+      <patch_id>3586</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/3586titlescreen.png</image>
+    </patch>
+    <rom crc="E01FA526" md5="CB75D5A6919B61EFE917BEA5762C1CB7" name="Streets of Rage 2 (USA).md" sha1="8B656EEC9692D88BBBB84787142AA732B44CE0BE"/>
+  </game>
+  <game name="359 - Sonic The Hedgehog (USA, Europe)">
+    <description>Sonic The Hedgehog (USA, Europe)</description>
+    <info>A must play hack of Sonic the Hedgehog. Marble, Starlight and Green hill zone bosses have been changed to be completely hard and at some points just insane.</info>
+    <patch crc="DD6D03E0" name="Sonic The Hedgehog (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/359/</url>
+      <patch_id>359</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/359titlescreen.JPG</image>
+    </patch>
+    <rom crc="F9394E97" md5="1BC674BE034E43C96B86487AC69D9293" name="Sonic The Hedgehog (USA, Europe).md" sha1="6DDB7DE1E17E7F6CDB88927BD906352030DAA194"/>
+  </game>
+  <game name="363 - Phantasy Star IV (USA)">
+    <description>Phantasy Star IV (USA)</description>
+    <info>This is exactly the same as the comprehensive hack of Phantasy Star IV: The End of the Millennium Hell Mode Mod patch but with double Experience and Double Meseta.</info>
+    <patch crc="5DA10D09" name="Phantasy Star IV (USA).ips">
+      <url>https://www.romhacking.net/hacks/363/</url>
+      <patch_id>363</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1062titlescreen.png</image>
+    </patch>
+    <rom crc="FE236442" md5="84CBD0FF47F3C8E9D21D2C2FC39185FA" name="Phantasy Star IV (USA).md" sha1="BC7FF6D6A8408F38562BC610F24645CAD6C42629"/>
+  </game>
+  <game name="365 - Phantasy Star IV (USA)">
+    <description>Phantasy Star IV (USA)</description>
+    <info>This is exactly the same as the comprehensive hack of Phantasy Star IV: The End of the Millennium Purgatory Mode Mod patch but with double Experience and Double Meseta.</info>
+    <patch crc="E24B2E42" name="Phantasy Star IV (USA).ips">
+      <url>https://www.romhacking.net/hacks/365/</url>
+      <patch_id>365</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1062titlescreen.png</image>
+    </patch>
+    <rom crc="FE236442" md5="84CBD0FF47F3C8E9D21D2C2FC39185FA" name="Phantasy Star IV (USA).md" sha1="BC7FF6D6A8408F38562BC610F24645CAD6C42629"/>
+  </game>
+  <game name="373 - Phantasy Star III - Generations of Doom (USA, Europe, Korea)">
+    <description>Phantasy Star III - Generations of Doom (USA, Europe, Korea)</description>
+    <info>This hack is the official tested for the Phantasy Star III ROM editor Aridia. Incredibly easy version of Phantasy Star III. All character, weapon, and armor stats significantly raised. All enemy stats and item costs significantly lowered.</info>
+    <patch crc="25E958FB" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).ips">
+      <url>https://www.romhacking.net/hacks/373/</url>
+      <patch_id>373</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/67titlescreen.jpg</image>
+    </patch>
+    <rom crc="C6B42B0F" md5="82C7BC027685CC8FC6C9E077BEB1A75A" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).md" sha1="59D4914E652672FD1E453C76B8250D17E8CA154E"/>
+  </game>
+  <game name="375 - Phantasy Star III - Generations of Doom (USA, Europe, Korea)">
+    <description>Phantasy Star III - Generations of Doom (USA, Europe, Korea)</description>
+    <info>Just a font replacement, used to test the font editing feature in the Aridia Phantasy Star III ROM editor.</info>
+    <patch crc="4F5DC6DB" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).ips">
+      <url>https://www.romhacking.net/hacks/375/</url>
+      <patch_id>375</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/375titlescreen.gif</image>
+    </patch>
+    <rom crc="C6B42B0F" md5="82C7BC027685CC8FC6C9E077BEB1A75A" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).md" sha1="59D4914E652672FD1E453C76B8250D17E8CA154E"/>
+  </game>
+  <game name="400 - Sonic The Hedgehog 2 (World) (Beta) (June, 1992)">
+    <description>Sonic The Hedgehog 2 (World) (Beta) (June, 1992)</description>
+    <info>This is a hack that fixes the names of the levels on the Level Select Screen of the Early (Nick Arcade) Sonic 2 prototype. This prototype was so early that the level select screen was exactly the same as Sonic 1. This changes the names of the levels shown to what levels they actually lead to.</info>
+    <patch crc="8F12A7FC" name="Sonic The Hedgehog 2 (World) (Beta) (June, 1992).ips">
+      <url>https://www.romhacking.net/hacks/400/</url>
+      <patch_id>400</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/400titlescreen.png</image>
+    </patch>
+    <rom crc="39FAAA70" md5="A460BF633579A80EEBBC09D6809E1B09" name="Sonic The Hedgehog 2 (World) (Beta) (June, 1992).md" sha1="5B51B4D98CB4A7A38157DC4AB9462164DD224BFD"/>
+  </game>
+  <game name="403 - Herzog Zwei (USA, Europe)">
+    <description>Herzog Zwei (USA, Europe)</description>
+    <info>This is a set of .ips patches to demonstrate various Herzog Zwei hacks. The purpose of these patches are primarily to test the Eisfrei Herzog Zwei ROM editor which can be downloaded here. - &lt;a href="http://www.romhacking.net/utilities/523/"&gt;http://www.romhacking.net/utilities/523/&lt;/a&gt;</info>
+    <patch crc="430B5938" name="Herzog Zwei (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/403/</url>
+      <patch_id>403</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1159titlescreen.PNG</image>
+    </patch>
+    <rom crc="A605B65B" md5="E812002DAAFB264FC2AB1DFF9BD06AC2" name="Herzog Zwei (USA, Europe).md" sha1="8F7262102C2B2334F0BC88EE6FD6B08797919176"/>
+  </game>
+  <game name="406 - Warsong (USA)">
+    <description>Warsong (USA)</description>
+    <info>Another victim of localization was Langrisser, at least graphically. When it became Warsong, Treco redid a few of the character portraits. Not really a big deal, and some might even prefer the changes, but this patch will revert the graphics anyway. </info>
+    <patch crc="597AD971" name="Warsong (USA).ips">
+      <url>https://www.romhacking.net/hacks/406/</url>
+      <patch_id>406</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/406titlescreen.png</image>
+    </patch>
+    <rom crc="4B680285" md5="146996A42EF0CCA2578F4D56DA2C4206" name="Warsong (USA).md" sha1="9B13A85F39B3F4CC31F54077DF29BBE812405A08"/>
+  </game>
+  <game name="409 - Shining Force II (USA)">
+    <description>Shining Force II (USA)</description>
+    <info>This hack makes the monsters much stronger, and improves the weaker force members to better balance the team.  Many members have new spells and abilities.  Most monsters have double HP, 10% more attack and 10% more defense.  Boss monsters are much harder.  A comprehensive list of changes is included in the readme file.</info>
+    <patch crc="39183315" name="Shining Force II (USA).ips">
+      <url>https://www.romhacking.net/hacks/409/</url>
+      <patch_id>409</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/919titlescreen.jpg</image>
+    </patch>
+    <rom crc="4815E075" md5="6473B1505334EF5620D13191C18251FE" name="Shining Force II (USA).md" sha1="22DEFC2E8E6C1DBB20421B906796538725B3D893"/>
+  </game>
+  <game name="450 - Contra - Hard Corps (USA, Korea)">
+    <description>Contra - Hard Corps (USA, Korea)</description>
+    <info>It&amp;#8217;s a hack, not a retranslation, although the script has been cleaned up. Lots of minor tweaks and things to make this my ideal version of the far superior USA release. There may even be some undocumented stuff I added…</info>
+    <patch crc="120E95E2" name="Contra - Hard Corps (USA, Korea).ips">
+      <url>https://www.romhacking.net/hacks/450/</url>
+      <patch_id>450</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/450titlescreen.png</image>
+    </patch>
+    <rom crc="C579F45E" md5="2BD30479556DA5C310D8F2A1FE66E8FA" name="Contra - Hard Corps (USA, Korea).md" sha1="68EA84146105BDA91F6056932FF4FB42AA3EB4A7"/>
+  </game>
+  <game name="514 - Mega Man - The Wily Wars (Europe)">
+    <description>Mega Man - The Wily Wars (Europe)</description>
+    <info>This hack enables you to save your game normally with SRAM and you no longer require a special save state to access Wily Tower. The original game used Serial EEPROM which few emulators support. This makes it use the much more common battery backed SRAM method.</info>
+    <patch crc="C3D71140" name="Mega Man - The Wily Wars (Europe).ips">
+      <url>https://www.romhacking.net/hacks/514/</url>
+      <patch_id>514</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1266titlescreen.png</image>
+    </patch>
+    <rom crc="DCF6E8B2" md5="BB891AEC8A7DFE6164033F57AF2025BD" name="Mega Man - The Wily Wars (Europe).md" sha1="EA9AE2043C97DB716A8D31EE90E581C3D75F4E3E"/>
+  </game>
+  <game name="523 - Phantasy Star III - Generations of Doom (USA, Europe, Korea)">
+    <description>Phantasy Star III - Generations of Doom (USA, Europe, Korea)</description>
+    <info>This is an extremely challenging ROM hack where the only usable weapon is a knife. I verified that it is in fact possible to defeat Dark Force with knives before creating it.</info>
+    <patch crc="4C3292EF" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).ips">
+      <url>https://www.romhacking.net/hacks/523/</url>
+      <patch_id>523</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/67titlescreen.jpg</image>
+    </patch>
+    <rom crc="C6B42B0F" md5="82C7BC027685CC8FC6C9E077BEB1A75A" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).md" sha1="59D4914E652672FD1E453C76B8250D17E8CA154E"/>
+  </game>
+  <game name="565 - Shadowrun (USA)">
+    <description>Shadowrun (USA)</description>
+    <info>Mod Homepage: &lt;a href="http://magus57.googlepages.com/shadowrunconversionmod"&gt;http://magus57.googlepages.com/shadowrunconversionmod&lt;/a&gt;</info>
+    <patch crc="817EA6D8" name="Shadowrun (USA).ips">
+      <url>https://www.romhacking.net/hacks/565/</url>
+      <patch_id>565</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/565titlescreen.png</image>
+    </patch>
+    <rom crc="FBB92909" md5="53090BCD67A0B6262F71EF7C5838C02B" name="Shadowrun (USA).md" sha1="A06A281D39E845BFF446A541B2FF48E1D93143C2"/>
+  </game>
+  <game name="596 - Mortal Kombat II (World)">
+    <description>Mortal Kombat II (World)</description>
+    <info>Mortal Kombat II Unlimited is a full scale hack of the Sega Genesis Mortal Kombat II game,
+Originally work on the hack ceased with version 07, but in 2011 version 1.0 was released which added many new graphical features.</info>
+    <patch crc="EF021648" name="Mortal Kombat II (World).ips">
+      <url>https://www.romhacking.net/hacks/596/</url>
+      <patch_id>596</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/596titlescreen.png</image>
+    </patch>
+    <rom crc="A9E013D8" md5="C8E887CA9CDDE7BDE85F324F66D34B2D" name="Mortal Kombat II (World).md" sha1="AF6D2DB16F2B76940FF5A9738F1E00C4E7EA485E"/>
+  </game>
+  <game name="625 - Kid Chameleon (USA, Europe)">
+    <description>Kid Chameleon (USA, Europe)</description>
+    <info>This is a new puzzle map created using K-E release 02/05/2010. This map requires some problem solving skills as you will discover.</info>
+    <patch crc="E990C2A6" name="Kid Chameleon (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/625/</url>
+      <patch_id>625</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1206titlescreen.png</image>
+    </patch>
+    <rom crc="CE36E6CC" md5="756E603B6CF9B3EBBB1B0F79D9447E43" name="Kid Chameleon (USA, Europe).md" sha1="28B904000B2863B6760531807760B571F1A5FC1D"/>
+  </game>
+  <game name="678 - El.Viento (USA)">
+    <description>El.Viento (USA)</description>
+    <info>This is a patch for the USA version of El Viento that makes many improvements to one of the greatest games of all time.</info>
+    <patch crc="74A4BAF4" name="El.Viento (USA).ips">
+      <url>https://www.romhacking.net/hacks/678/</url>
+      <patch_id>678</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1487titlescreen.png</image>
+    </patch>
+    <rom crc="070A1CEB" md5="6DDF640C2C5F91F12487D813B6257114" name="El.Viento (USA).md" sha1="B53E901725FD6220D8E6D19EF8DF42E89E0874DB"/>
+  </game>
+  <game name="759 - R.B.I. Baseball '94 (USA, Europe)">
+    <description>R.B.I. Baseball '94 (USA, Europe)</description>
+    <info>RBI Baseball is a long-running series of baseball games, known most for being one of the first baseball games to carry an MLBPA license, meaning that real teams and real players are in it. A consequence of the license means that while active players are included, retired players are not. In this version, the League Championship Series participants for the seven years prior are included, and people that retired in between the series and the release of the game in 1994 had their names not included, thus, for example, Nolan Ryan is named &amp;#8220;NR Pitcher&amp;#8221; on the team. This hack includes full names for the retired players, leading to more realism.</info>
+    <patch crc="5E232E7D" name="R.B.I. Baseball '94 (USA, Europe).ips">
+      <url>https://www.romhacking.net/hacks/759/</url>
+      <patch_id>759</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1548titlescreen.png</image>
+    </patch>
+    <rom crc="4EB4D5E4" md5="AED0ED1189BB7C0379AE1AC9278950B7" name="R.B.I. Baseball '94 (USA, Europe).md" sha1="3E94F52D311FAE140DA870F55E3CB103D7923D44"/>
+  </game>
+  <game name="772 - Beyond Oasis (USA)">
+    <description>Beyond Oasis (USA)</description>
+    <info>This is a simple but throughout retranslation of the game. The Japanese text was more formal and more expressive, and the storyline is slightly different.</info>
+    <patch crc="78931698" name="Beyond Oasis (USA).ips">
+      <url>https://www.romhacking.net/hacks/772/</url>
+      <patch_id>772</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/772titlescreen.jpg</image>
+    </patch>
+    <rom crc="C4728225" md5="5A79DE198ED6B1ECE2518574FE78D962" name="Beyond Oasis (USA).md" sha1="2944910C07C02EACE98C17D78D07BEF7859D386A"/>
+  </game>
+  <game name="797 - Contra - Hard Corps (USA, Korea)">
+    <description>Contra - Hard Corps (USA, Korea)</description>
+    <info>This is a patch for Contra Hard Corps (U) for the Sega Genesis.  In the version of the game that was originally released in Japan, it was possible to take three hits before dying.  For unknown reasons, this functionality was removed when the game was released in the US, making the game vastly more difficult in the process.  This patch restores the ability to take three hits, complete with the life bar.</info>
+    <patch crc="86B20114" name="Contra - Hard Corps (USA, Korea).ips">
+      <url>https://www.romhacking.net/hacks/797/</url>
+      <patch_id>797</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1205titlescreen.png</image>
+    </patch>
+    <rom crc="C579F45E" md5="2BD30479556DA5C310D8F2A1FE66E8FA" name="Contra - Hard Corps (USA, Korea).md" sha1="68EA84146105BDA91F6056932FF4FB42AA3EB4A7"/>
+  </game>
+  <game name="799 - Probotector (Europe) (En,Fr,De)">
+    <description>Probotector (Europe) (En,Fr,De)</description>
+    <info>This is a patch for Probotector (E) for the Sega Mega Drive.  In the version of the game that was originally released in Japan (as Contra: The Hard Corps), it was possible to take three hits before dying.  For unknown reasons, this functionality was removed when the game was released in Europe, making the game vastly more difficult in the process.  This patch restores the ability to take three hits, complete with the life bar.</info>
+    <patch crc="25FE6031" name="Probotector (Europe) (En,Fr,De).ips">
+      <url>https://www.romhacking.net/hacks/799/</url>
+      <patch_id>799</patch_id>
+      <image>https://www.romhacking.net/hacks/genesis/images/titles/799titlescreen.png</image>
+    </patch>
+    <rom crc="BC597D48" md5="22289FE42B00A5FE5DF3299747480FC0" name="Probotector (Europe) (En,Fr,De).md" sha1="69D905751FFA6A921586767263E45DDEB73333C2"/>
+  </game>
+  <game name="827 - Shinobi III - Return of the Ninja Master (USA)">
+    <description>Shinobi III - Return of the Ninja Master (USA)</description>
+    <info>This is an enhancement patch for the American version of Shinobi III: Return of the Ninja Master.</info>
+    <patch crc="32751980" name="Shinobi III - Return of the Ninja Master (USA).ips">
+      <url>https://www.romhacking.net/hacks/827/</url>
+      <patch_id>827</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1015titlescreen.png</image>
+    </patch>
+    <rom crc="5381506F" md5="691EEFF9C5741724A8751EC0FA9CFBF0" name="Shinobi III - Return of the Ninja Master (USA).md" sha1="1E07D7998E3048FCFBA4238AE96496460E91B3A5"/>
+  </game>
+  <game name="883 - Shining Force (USA)">
+    <description>Shining Force (USA)</description>
+    <info>Shining Force - Cheaters Edition:</info>
+    <patch crc="9E454B64" name="Shining Force (USA).ips">
+      <url>https://www.romhacking.net/hacks/883/</url>
+      <patch_id>883</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/872titlescreen.jpg</image>
+    </patch>
+    <rom crc="E0594ABE" md5="4B4ACBE75FF7AAEB534AB78ED95910D1" name="Shining Force (USA).md" sha1="7CBB3ED31C982750D70A273B9561A9E1B2C04EEA"/>
+  </game>
+  <game name="884 - Shining Force II (USA)">
+    <description>Shining Force II (USA)</description>
+    <info>Shining Force 2 - Cheaters Edition:</info>
+    <patch crc="F7E4DF55" name="Shining Force II (USA).ips">
+      <url>https://www.romhacking.net/hacks/884/</url>
+      <patch_id>884</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/919titlescreen.jpg</image>
+    </patch>
+    <rom crc="4815E075" md5="6473B1505334EF5620D13191C18251FE" name="Shining Force II (USA).md" sha1="22DEFC2E8E6C1DBB20421B906796538725B3D893"/>
+  </game>
+  <game name="924 - Phantasy Star II (USA, Europe) (Rev A)">
+    <description>Phantasy Star II (USA, Europe) (Rev A)</description>
+    <info>The Phantasy Star Complete Collection released for the PlayStation 2 in 2008 featured the addition of a difficulty slider to all four Phantasy Star games.  </info>
+    <patch crc="BD72DCC2" name="Phantasy Star II (USA, Europe) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/924/</url>
+      <patch_id>924</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/66titlescreen.png</image>
+    </patch>
+    <rom crc="904FA047" md5="0FA38B12CF0AB0163D865600AC731A9A" name="Phantasy Star II (USA, Europe) (Rev A).md" sha1="0711080E968490A6B8C5FAFBB9DB3E62BA597231"/>
+  </game>
+  <game name="925 - Phantasy Star II (USA, Europe) (Rev A)">
+    <description>Phantasy Star II (USA, Europe) (Rev A)</description>
+    <info>The initial goal of &lt;span class="italic"&gt;Phantasy Star II Improvement&lt;/span&gt;  was to rewrite the game&amp;#8217;s menus in  proper case. However, after incorporating script updates and many bug fixes, and even a few enhancements, it transformed into something bigger. Also available on &lt;a href="https://steamcommunity.com/sharedfiles/filedetails/?id=674686794"&gt;&lt;span style="text-decoration: underline;"&gt;Steam&lt;/span&gt;&lt;/a&gt;.</info>
+    <patch crc="85529A3A" name="Phantasy Star II (USA, Europe) (Rev A).ips">
+      <url>https://www.romhacking.net/hacks/925/</url>
+      <patch_id>925</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/66titlescreen.png</image>
+    </patch>
+    <rom crc="904FA047" md5="0FA38B12CF0AB0163D865600AC731A9A" name="Phantasy Star II (USA, Europe) (Rev A).md" sha1="0711080E968490A6B8C5FAFBB9DB3E62BA597231"/>
+  </game>
+  <game name="926 - Phantasy Star IV (USA)">
+    <description>Phantasy Star IV (USA)</description>
+    <info>Back in the late ‘80s and early ‘90s, a lot of video games had all capital letters written out for important terms. Though it may have been helpful back then, these days, it’s an eyesore. On top of that, Phantasy Star IV used dashes in place of spaces for many inventory names, often resulting in terms like WOOD-CANE.</info>
+    <patch crc="51704A32" name="Phantasy Star IV (USA).ips">
+      <url>https://www.romhacking.net/hacks/926/</url>
+      <patch_id>926</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/1062titlescreen.png</image>
+    </patch>
+    <rom crc="FE236442" md5="84CBD0FF47F3C8E9D21D2C2FC39185FA" name="Phantasy Star IV (USA).md" sha1="BC7FF6D6A8408F38562BC610F24645CAD6C42629"/>
+  </game>
+  <game name="936 - Phantasy Star III - Generations of Doom (USA, Europe, Korea)">
+    <description>Phantasy Star III - Generations of Doom (USA, Europe, Korea)</description>
+    <info>While Phantasy Star III: Generations of Doom didn&amp;#8217;t exactly need to be put into proper case like its siblings, it certainly did need some modifying. This makes the text a bit more readable, and makes the font look a lot nicer too.</info>
+    <patch crc="983B77E" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).ips">
+      <url>https://www.romhacking.net/hacks/936/</url>
+      <patch_id>936</patch_id>
+      <image>https://www.romhacking.net/translations/genesis/images/titles/67titlescreen.jpg</image>
+    </patch>
+    <rom crc="C6B42B0F" md5="82C7BC027685CC8FC6C9E077BEB1A75A" name="Phantasy Star III - Generations of Doom (USA, Europe, Korea).md" sha1="59D4914E652672FD1E453C76B8250D17E8CA154E"/>
+  </game>
+</datafile>
